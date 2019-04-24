@@ -133,12 +133,11 @@
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556091442367">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556093735496">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="55" column="24" />
-        <mark key="]" line="56" column="21" />
-        <mark key="." line="56" column="21" />
-        <mark key="^" line="56" column="21" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
         <mark key="'" line="94" column="12" />
@@ -442,40 +441,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>child</text>
       </register>
       <register name="/" type="4">
         <text>mlk</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHkzLnl6M19zdHlsZSwgCg==</text>
+      <register name="0" type="4">
+        <text>BC-STR-PIN-1.6-30.0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGEuYXYwX2VudGVyX2RhdGUsCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhdjBfc3R5bGVfY2hpbGRzCldIRVJFIGF2MF9zdHlsZSA9ICdCQy1TVFItUElOLTEuNi0zMC4wJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFORCB5My55ejNfc3R5bGUgPSAnQkMtUElOLTEuNi05LjUtNScK</text>
+        <text encoding="base64">ICBzZWxlY3QgKiBmcm9tICNtb3RoZXJfc3R5bGVfc29sZAogIFdIRVJFIGNoaWxkID0gJ0JDLVNUUi1QSU4tMS42LTMwLjAnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUxFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIGFzIGEKCQlPTiBhLmF2MF9zdHlsZSA9IHkzLnl6M19zdHlsZQo=</text>
+        <text encoding="base64">ICAgIG0ubW90aGVyX3N0eWxlX3RyYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgeC5sYXN0X3NvbGRfYXNfY29tcCwK</text>
+        <text encoding="base64">ICAgIEFORCBhLmF2MF9zdHlsZSA9ICdCQy1TVFItUElOLTEuNi0zMC4wJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl5My55ejNfcXR5LAo=</text>
+        <text encoding="base64">ICAgIGEuYXYwX2VudGVyX2RhdGUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgYS5hdjBfbm90X3RvX3NhbGUsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAgYS5hdjBfZW50ZXJfZGF0ZSwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIEFORCB5My55ejNfc3R5bGUgPSAnQkMtUElOLTEuNi05LjUtNScK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CUxFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIGFzIGEKCQlPTiBhLmF2MF9zdHlsZSA9IHkzLnl6M19zdHlsZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CSAgeC5sYXN0X3NvbGRfYXNfY29tcCwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gCQlBTkQgYS5hdjBfbm90X3RvX3NhbGUgPSAxCg==</text>
+        <text encoding="base64">CQl5My55ejNfcXR5LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
