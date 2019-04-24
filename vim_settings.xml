@@ -133,11 +133,12 @@
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556093735496">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556097151208">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="59" column="6" />
+        <mark key="]" line="59" column="6" />
+        <mark key="^" line="59" column="8" />
+        <mark key="." line="59" column="6" />
       </file>
       <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
         <mark key="'" line="94" column="12" />
@@ -441,40 +442,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>child</text>
+        <text>av0_not_to_sale</text>
       </register>
       <register name="/" type="4">
         <text>mlk</text>
       </register>
-      <register name="0" type="4">
-        <text>BC-STR-PIN-1.6-30.0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGEuYXYwX25vdF90b19zYWxlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhdjBfc3R5bGVfY2hpbGRzCldIRVJFIGF2MF9zdHlsZSA9ICdCQy1TVFItUElOLTEuNi0zMC4wJwo=</text>
+        <text encoding="base64">ICBMRUZUIEpPSU4gI21vdGhlcl9zdHlsZV9zb2xkIGFzIG0KICAgIE9OIG0uY2hpbGQgPSB5My55ejNfc3R5bGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZWxlY3QgKiBmcm9tICNtb3RoZXJfc3R5bGVfc29sZAogIFdIRVJFIGNoaWxkID0gJ0JDLVNUUi1QSU4tMS42LTMwLjAnCg==</text>
+        <text encoding="base64">V0hFUkUgdHMuX3JvdyA9IDEgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG0ubW90aGVyX3N0eWxlX3RyYQo=</text>
+        <text encoding="base64">TEVGVCBKT0lOIHRyYW5fc2FjIGFzIHRzIAogIE9OIHRzLnl6Ml9zdHlsZV9jb2RlX2ZpbmRpbmcgPSBzMS55ejNfc3R5bGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFORCBhLmF2MF9zdHlsZSA9ICdCQy1TVFItUElOLTEuNi0zMC4wJwo=</text>
+        <text encoding="base64">ICB0cy55ejJfZGF0ZSBhcyBsYXN0X3RyYW5zYWN0aW9uLCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGEuYXYwX2VudGVyX2RhdGUsCg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEFORCB5My55ejNfc3R5bGUgPSAnQkMtUElOLTEuNi05LjUtNScK</text>
+      <register name="6" type="4">
+        <text encoding="base64">LCB0cmFuX3NhYyBBUyAoIAogIFNFTEVDVCAKICAgIHkyLiosIAogICAgUk9XX05VTUJFUigpIE9WRVIgKFBBUlRJVElPTiBCWSB5Mi55ejJfc3R5bGVfY29kZV9maW5kaW5nIE9SREVSIEJZIHkyLnl6Ml9kYXRlIERFU0MpIEFTIF9yb3cgCiAgRlJPTSBzbC5kYm8ueXoyX3RyYW5zYWN0aW9uX2ZpbmRpbmcgYXMgeTIgCiAgV0hFUkUgeTIueXoyX2VudGVyZW5jZV9leGl0X2ZpbmRpbmcgPSAnTycgCiAgICBBTkQgeTIueXoyX2xvY2F0aW9uID0gMSAKICAgIEFORCB5Mi55ejJfc3R5bGVfY29kZV9maW5kaW5nICE9ICcnIAogICAgQU5EIHkyLnl6Ml9zdHlsZV9jb2RlX2ZpbmRpbmcgIT0gJyoqJyA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUxFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIGFzIGEKCQlPTiBhLmF2MF9zdHlsZSA9IHkzLnl6M19zdHlsZQo=</text>
+        <text encoding="base64">ICAgIEFORCBtLl9yb3cgPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgeC5sYXN0X3NvbGRfYXNfY29tcCwK</text>
+        <text encoding="base64">ICAgIG0ubW90aGVyX3N0eWxlLAogICAgbS5tb3RoZXJfc3R5bGVfdHJhbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl5My55ejNfcXR5LAo=</text>
+        <text encoding="base64">CQlBTkQgeTMueXozX3N0eWxlID0gJ0JDLVNUUi1QSU4tMS42LTMwLjAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
