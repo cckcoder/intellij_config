@@ -210,11 +210,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1556166482679">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1556167929810">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+        <mark key="[" line="137" column="42" />
+        <mark key="]" line="137" column="43" />
+        <mark key="." line="137" column="43" />
+        <mark key="^" line="137" column="41" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1554204941807">
         <mark key="'" line="77" column="4" />
@@ -441,13 +442,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>{}</text>
+        <text>bn</text>
       </register>
       <register name="/" type="4">
         <text>mlk</text>
       </register>
-      <register name="0" type="4">
-        <text>mother_style_tran</text>
+      <register name="0" type="2">
+        <text encoding="base64">V0hFUkUgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgYm4uZG9jdW1lbnRfZGF0ZSwgMTA0KSkgPSB7fQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUCglNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgbS5tbGtfdmFsdWVfZGF0ZSwgMTA0KSkgYXMgbW9udGgKCQkgLGEuYXYwX2thcmF0CgkJICxTVU0obC50bmdfd3RfZ3Jvc3MpIGFzIHRvdGFsX3d0CkZST00gc2wuZGJvLnRzZzFfZ29sZF9ib29rX2RvY19oZHIgYXMgaAoJICAgICBMRUZUIEpPSU4gc2wuZGJvLnRzZzJfZ29sZF9ib29rX2RvY19sbiBhcyBsCgkgICAgICAgICAgICAgICBPTiBsLnRuZ19kb2N1bWVudF9ubyA9IGgudHNnX2RvY3VtZW50X25vCgkgICAgIExFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIGFzIGEKCSAgICAgICAgICAgICAgIE9OIGEuYXYwX3N0eWxlID0gbC50bmdfc3R5bGUKCSAgICAgTEVGVCBKT0lOIHNsLmRiby5tbGtfY3VzdG9tZXJfZmluYW5jaWFsX3N0YXR1cyBhcyBtCgkgICAgICAgICAgICAgICBPTiBtLm1sa19yZWZlcmVuY2VfbnVtcmljID0gbC50bmdfZG9jdW1lbnRfbm8KV0hFUkUgYS5hdjBfa2FyYXQgPSAyNAoJQU5EIGgudHNnX3N1cHBsaWVyIE5PVCBMSUtFICdTVE9DSyBBREpVJScKCUFORCBoLnRzZ19zdXBwbGllciBOT1QgTElLRSAnSU5ILSUnCglBTkQgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgbS5tbGtfdmFsdWVfZGF0ZSwgMTA0KSkgPSAyMDE5CkdST1VQIEJZCglNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgbS5tbGtfdmFsdWVfZGF0ZSwgMTA0KSkKCQkJCSxhLmF2MF9rYXJhdApPUkRFUiBCWQoJTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIG0ubWxrX3ZhbHVlX2RhdGUsIDEwNCkpIEFTQwo=</text>
