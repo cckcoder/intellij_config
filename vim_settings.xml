@@ -65,7 +65,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1556076065581">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1556166476662">
         <mark key="'" line="9" column="42" />
         <mark key="[" line="26" column="25" />
         <mark key="]" line="27" column="0" />
@@ -133,12 +133,12 @@
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556103581556">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="60" column="57" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556166666426">
+        <mark key="'" line="126" column="57" />
+        <mark key="[" line="127" column="56" />
+        <mark key="]" line="127" column="56" />
+        <mark key="." line="127" column="56" />
+        <mark key="^" line="127" column="56" />
       </file>
       <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
         <mark key="'" line="94" column="12" />
@@ -210,8 +210,8 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1556165875911">
-        <mark key="'" line="17" column="32" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1556166482679">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
@@ -338,9 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="12" filename="/var/customers/webs/controller/controller.py" />
-      <jump line="98" column="17" filename="/var/customers/webs/controller/controller.py" />
-      <jump line="93" column="43" filename="/var/customers/webs/controller/controller.py" />
       <jump line="92" column="43" filename="/var/customers/webs/controller/controller.py" />
       <jump line="91" column="35" filename="/var/customers/webs/controller/controller.py" />
       <jump line="63" column="27" filename="/var/customers/webs/controller/controller.py" />
@@ -417,7 +414,6 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="43" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="65" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="0" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="68" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="15" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" />
       <jump line="17" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" />
@@ -438,6 +434,10 @@
       <jump line="26" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="120" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="12" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
+      <jump line="14" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="126" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -513,7 +513,6 @@
         <entry>mlk</entry>
       </history-search>
       <history-cmd>
-        <entry>328</entry>
         <entry>370</entry>
         <entry>408</entry>
         <entry>412</entry>
@@ -525,7 +524,6 @@
         <entry>175</entry>
         <entry>1754</entry>
         <entry>893</entry>
-        <entry encoding="base64">JzwsJz5ub3JtYWwgLg==</entry>
         <entry>61</entry>
         <entry>37</entry>
         <entry>100</entry>
@@ -533,6 +531,8 @@
         <entry>64</entry>
         <entry>108</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWwgLg==</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWwu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
