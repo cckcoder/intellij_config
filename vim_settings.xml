@@ -133,8 +133,8 @@
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556185332327">
-        <mark key="'" line="89" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556187329479">
+        <mark key="'" line="44" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="89" column="0" />
         <mark key="." line="127" column="56" />
@@ -437,8 +437,8 @@
       <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="31" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="44" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="89" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="44" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
