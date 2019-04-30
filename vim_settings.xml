@@ -307,10 +307,10 @@
       </file>
       <file name="/var/customers/webs/sapi/api/views/stocks.py" timestamp="1556244139432">
         <mark key="'" line="703" column="39" />
-        <mark key="[" line="1733" column="4" />
-        <mark key="]" line="1733" column="11" />
-        <mark key="." line="1733" column="11" />
-        <mark key="^" line="1733" column="11" />
+        <mark key="[" line="703" column="4" />
+        <mark key="]" line="703" column="11" />
+        <mark key="." line="703" column="11" />
+        <mark key="^" line="703" column="11" />
       </file>
       <file name="/mnt/sdb1/GMS/application/models/plating_cost_m.php" timestamp="1553844309104">
         <mark key="'" line="28" column="20" />
