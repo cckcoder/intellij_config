@@ -4,7 +4,7 @@
     <property name="created">2019-03-28T15:21:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-05-02T11:33:09</property>
+    <property name="modified">2019-05-02T12:10:13</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -20,14 +20,23 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="3e3e57" />
     <option name="DOCUMENTATION_COLOR" value="2c2c3b" />
     <option name="ERROR_HINT" value="802d43" />
+    <option name="FILESTATUS_ADDED" value="76b366" />
     <option name="FILESTATUS_COPIED" value="629755" />
-    <option name="FILESTATUS_HIJACKED" value="b28c00" />
+    <option name="FILESTATUS_DELETED" value="7a7a99" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7a7a99" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c78ba1" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
-    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SWITCHED" value="8978f" />
+    <option name="FILESTATUS_MERGED" value="b78fcc" />
+    <option name="FILESTATUS_MODIFIED" value="62baf5" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_RENAMED" value="54bfbf" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="bf8060" />
+    <option name="FILESTATUS_addedOutside" value="548049" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="495bb3" />
     <option name="GUTTER_BACKGROUND" value="20202b" />
     <option name="INDENT_GUIDE" value="393747" />
