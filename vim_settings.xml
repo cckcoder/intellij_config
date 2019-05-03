@@ -98,15 +98,15 @@
         <mark key="^" line="114" column="19" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1556859622123">
-        <mark key="'" line="430" column="0" />
-        <mark key="[" line="412" column="19" />
-        <mark key="]" line="412" column="19" />
-        <mark key="^" line="412" column="19" />
-        <mark key="." line="412" column="19" />
+      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1556864835627">
+        <mark key="'" line="1682" column="17" />
+        <mark key="[" line="412" column="6" />
+        <mark key="]" line="412" column="6" />
+        <mark key="^" line="412" column="6" />
+        <mark key="." line="412" column="6" />
       </file>
-      <file name="/var/customers/webs/api3/api/main.py" timestamp="1556855877600">
-        <mark key="'" line="82" column="77" />
+      <file name="/var/customers/webs/api3/api/main.py" timestamp="1556864326363">
+        <mark key="'" line="83" column="74" />
         <mark key="[" line="82" column="23" />
         <mark key="]" line="82" column="46" />
       </file>
@@ -230,11 +230,12 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1556858629469">
+      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1556864367733">
         <mark key="'" line="330" column="0" />
-        <mark key="[" line="255" column="4" />
-        <mark key="]" line="255" column="27" />
-        <mark key="." line="327" column="0" />
+        <mark key="[" line="576" column="16" />
+        <mark key="]" line="576" column="21" />
+        <mark key="." line="576" column="21" />
+        <mark key="^" line="576" column="21" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
         <mark key="[" line="2" column="11" />
@@ -242,7 +243,7 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556855228838">
+      <file name="/Dummy.txt" timestamp="1556864529568">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
@@ -367,7 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="131" column="0" filename="/var/customers/webs/sapi/api/routes.py" />
       <jump line="88" column="60" filename="/var/customers/webs/sapi/api/routes.py" />
       <jump line="703" column="39" filename="/var/customers/webs/sapi/api/views/stocks.py" />
@@ -429,7 +429,6 @@
       <jump line="47" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="25" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="470" column="28" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
-      <jump line="83" column="65" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="1733" column="7" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="96" column="67" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="1132" column="37" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
@@ -467,6 +466,8 @@
       <jump line="409" column="39" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="431" column="0" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="83" column="74" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="1681" column="17" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -475,8 +476,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>api['buy_new_finish_goods'][i]</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCSMgCWFwaVsnYnV5X25ld19maW5pc2hfZ29vZHMnXVtpXSA9IHZhbHVlCg==</text>
       </register>
       <register name="1" type="8">
         <text>value</text>
