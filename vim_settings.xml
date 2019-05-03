@@ -361,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="481" column="24" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="392" column="6" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="517" column="15" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="514" column="8" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
@@ -461,6 +460,7 @@
       <jump line="65" column="71" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="70" column="71" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
