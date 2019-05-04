@@ -17,15 +17,25 @@
         <mark key="^" line="385" column="49" />
         <mark key="." line="386" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bfdf871-16bb-4a1b-b4f7-f197f4bb1e1e/console.sql" timestamp="1553500579327">
-        <mark key="'" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" timestamp="1556873223928">
+        <mark key="'" line="41" column="21" />
+        <mark key="[" line="102" column="6" />
+        <mark key="]" line="112" column="33" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556877674412">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="69" column="14" />
-        <mark key="^" line="44" column="20" />
-        <mark key="." line="29" column="34" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1556859554157">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/tutorial/js_data_structure/set.js" timestamp="1556932550077">
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="/var/customers/webs/controller/models/__init__.py" timestamp="1555992640035">
         <mark key="'" line="30" column="25" />
@@ -34,19 +44,18 @@
         <mark key="^" line="83" column="21" />
         <mark key="." line="83" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console_1.sql" timestamp="1552623708229">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="26" />
-        <mark key="^" line="41" column="26" />
-      </file>
       <file name="/var/customers/webs/django_tutorial/python_refresh/classes.py" timestamp="1552711545031">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="36" column="11" />
         <mark key="]" line="36" column="20" />
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1556878989361">
+        <mark key="[" line="66" column="6" />
+        <mark key="]" line="66" column="18" />
+        <mark key="." line="66" column="18" />
+        <mark key="^" line="66" column="18" />
       </file>
       <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1556872328432">
         <mark key="'" line="647" column="25" />
@@ -68,19 +77,11 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1556878084026">
-        <mark key="'" line="10" column="56" />
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="57" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="10" column="57" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1556773345201">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="134" column="26" />
-        <mark key="." line="134" column="26" />
-        <mark key="^" line="133" column="32" />
+      <file name="D:/tutorial/js_data_structure/.idea/set.js" timestamp="1556932234190">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="/var/customers/webs/controller/models/kb3_receipt_lnd.py" timestamp="1556002716381">
         <mark key="'" line="51" column="6" />
@@ -107,6 +108,13 @@
         <mark key="'" line="70" column="71" />
         <mark key="[" line="82" column="23" />
         <mark key="]" line="82" column="46" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1556773345201">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="134" column="26" />
+        <mark key="." line="134" column="26" />
+        <mark key="^" line="133" column="32" />
       </file>
       <file name="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" timestamp="1556877832776">
         <mark key="'" line="88" column="56" />
@@ -135,6 +143,13 @@
         <mark key="^" line="92" column="7" />
         <mark key="." line="92" column="7" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console_1.sql" timestamp="1552623708229">
+        <mark key="'" line="16" column="22" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="26" />
+        <mark key="^" line="41" column="26" />
+      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/cimco_cost.php" timestamp="1553850469133">
         <mark key="'" line="2002" column="0" />
         <mark key="[" line="29" column="82" />
@@ -154,11 +169,6 @@
         <mark key="]" line="145" column="38" />
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556877674412">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
         <mark key="'" line="94" column="12" />
@@ -195,7 +205,6 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1556867350015" />
       <file name="/silver_monthly_report.py" timestamp="1556873206098">
         <mark key="'" line="936" column="7" />
         <mark key="[" line="890" column="0" />
@@ -208,11 +217,19 @@
         <mark key="." line="172" column="33" />
         <mark key="^" line="172" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" timestamp="1556873223928">
-        <mark key="'" line="41" column="21" />
-        <mark key="[" line="102" column="6" />
-        <mark key="]" line="112" column="33" />
-        <mark key="." line="81" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bfdf871-16bb-4a1b-b4f7-f197f4bb1e1e/console.sql" timestamp="1553500579327">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="69" column="14" />
+        <mark key="^" line="44" column="20" />
+        <mark key="." line="29" column="34" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1556878084026">
+        <mark key="'" line="10" column="56" />
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="57" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="10" column="57" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/Todoitem.vue" timestamp="1555673941456">
         <mark key="[" line="3" column="20" />
@@ -220,11 +237,12 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1556878989361">
-        <mark key="[" line="66" column="6" />
-        <mark key="]" line="66" column="18" />
-        <mark key="." line="66" column="18" />
-        <mark key="^" line="66" column="18" />
+      <file name="D:/tutorial/js_data_structure/index.html" timestamp="1556932344758">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="20" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1556878947418">
         <mark key="'" line="1540" column="4" />
@@ -238,6 +256,13 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bc74724b-aad6-467a-9e9a-2a0ff7df8cf1/console.sql" timestamp="1552898514661">
+        <mark key="'" line="0" column="42" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1556879116263">
         <mark key="[" line="0" column="0" />
@@ -280,13 +305,6 @@
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5254ba3b-ec8a-4bc9-a230-d7b31e447012/console.sql" timestamp="1556620327476">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="6" column="6" />
-      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/plate_pvd_ctrl.php" timestamp="1553850402939">
         <mark key="[" line="30" column="74" />
         <mark key="]" line="30" column="76" />
@@ -299,6 +317,20 @@
         <mark key="]" line="5" column="43" />
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3010cfa1-f73a-4d22-855b-f7e9f235de81/console.sql" timestamp="1554714411755">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="81" column="22" />
+        <mark key="." line="95" column="8" />
+        <mark key="^" line="95" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5254ba3b-ec8a-4bc9-a230-d7b31e447012/console.sql" timestamp="1556620327476">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="6" column="6" />
       </file>
       <file name="/var/customers/webs/controller/models/hzs1_supplier_order_hdr.py" timestamp="1555992913932">
         <mark key="'" line="350" column="6" />
@@ -328,20 +360,6 @@
         <mark key="." line="545" column="7" />
         <mark key="^" line="545" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3010cfa1-f73a-4d22-855b-f7e9f235de81/console.sql" timestamp="1554714411755">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="81" column="22" />
-        <mark key="." line="95" column="8" />
-        <mark key="^" line="95" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bc74724b-aad6-467a-9e9a-2a0ff7df8cf1/console.sql" timestamp="1552898514661">
-        <mark key="'" line="0" column="42" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-        <mark key="." line="0" column="42" />
-      </file>
       <file name="/var/customers/webs/controller/models/yz3_stock.py" timestamp="1554711051196">
         <mark key="'" line="409" column="31" />
         <mark key="[" line="442" column="0" />
@@ -361,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="6" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="517" column="15" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="514" column="8" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="454" column="12" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
@@ -461,10 +478,11 @@
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="70" column="71" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="9" column="17" filename="D:/tutorial/js_data_structure/index.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>{}</text>
+        <text encoding="base64">ICE9PSAtMQ==</text>
       </register>
       <register name="/" type="4">
         <text>ready</text>
@@ -473,31 +491,31 @@
         <text encoding="base64">CQkJCQlXSVRIIGJ1eV9uZXdfZmluaXNoX2dvb2RzIEFTICgKCQkJCQkJU0VMRUNUCgkJCQkJCQl0LnRzZ19kYXRlICAgICAgICBhcyBkb2N1bWVudF9kYXRlLAoJCQkJCQkJdC50c2dfZG9jdW1lbnRfbm8gYXMgZG9jLAoJCQkJCQkJdC50c2dfc3VwcGxpZXIgICAgYXMgc3VwcGxpZXIsCgkJCQkJCQljcy5sa2hfY3VzdG9tZXJfY29kZSBhcyBzdXBwbGllcl9jb2RlLAoJCQkJCQkJdDIudG5nX29yZGVyICAgICAgYXMgJ29yZGVyJywKCQkJCQkJCXQyLnRuZ19saW5lX29yZGVyIGFzICdsaW5lJywKCQkJCQkJCXQyLnRuZ19zdHlsZSAgICAgIGFzICdzdHlsZScsCgkJCQkJCQl0Mi50bmdfcXR5ICAgICAgICBhcyAncXR5JywKCQkJCQkJCWEuYXYwX2thcmF0ICAgICAgIGFzIGthcmF0LAoJCQkJCQkJYS5hdjBfbWV0YWwgICAgICAgYXMgbWF0ZXJpYWwsCgkJCQkJCQl0Mi50bmdfd3RfZ3Jvc3MgICBhcyBncm9zc193dCwKCQkJCQkJCU1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCB0LnRzZ19kYXRlLCAxMDQpKSBhcyBfbW9udGgKCQkJCQkJRlJPTSB0c2cxX2dvbGRfYm9va19kb2NfaGRyIGFzIHQKCQkJCQkJTEVGVCBKT0lOIFNMLmRiby50c2cyX2dvbGRfYm9va19kb2NfbG4gYXMgdDIKCQkJCQkJCU9OIHQyLnRuZ19kb2N1bWVudF9ubyA9IHQudHNnX2RvY3VtZW50X25vCgkJCQkJCUxFRlQgSk9JTiBTTC5kYm8uYXYwX3N0eWxlIGFzIGEKCQkJCQkJCU9OIGEuYXYwX3N0eWxlID0gdDIudG5nX3N0eWxlCgkJCQkJCUxFRlQgSk9JTiBsa2hfY3VzdG9tZXJfc3VwcGxpZXIgYXMgY3MKCQkJCQkJCU9OIGNzLmxraF9zaG9ydF9jdXN0b21lcl9uYW1lID0gdC50c2dfc3VwcGxpZXIKCQkJCQkJV0hFUkUgY3MubGtoX2N1c3RvbWVyX2NvZGUgSU4gKAoJCQkJCQkJMTgyOCwgOTAgLDM4NzcsCgkJCQkJCQkxNDUyICwzMjIgLDU0MCwKCQkJCQkJCTQ0NjMgLDQ2NDkgLDM1OSwKCQkJCQkJCTkKCQkJCQkJKQoJCQkJCQkJQU5EIGEuYXYwX2thcmF0ID0gOTIKCQkJCQkJCUFORCBhLmF2MF9rYXJhdCAhPSAxMDAKCQkJCQkJCUFORCBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCB0LnRzZ19kYXRlLCAxMDQpKSA9IHt9CgkJCQkJCQlBTkQgTk9UIGNzLmxraF9jdXN0b21lcl9jb2RlID0gNzY0CgkJCQkJKSwgcWNfcmVjZWl2ZSBBUyAoCgkJCQkJCVNFTEVDVAoJCQkJCQkJbC5oenMxMF9vcmRlciwKCQkJCQkJCWwuaHpzMTBfbGluZSwKCQkJCQkJCWwuaHpzMTBfd3RfZXhpdCwKCQkJCQkJCWwuaHpzMTBfd3RfbWV0YWwsCgkJCQkJCQlsLklERU5USVRZX0ZMRCwKCQkJCQkJCVJPV19OVU1CRVIoKSBvdmVyICgKCQkJCQkJCQlQQVJUSVRJT04gQlkKCQkJCQkJCQlsLmh6czEwX29yZGVyLCBsLmh6czEwX2xpbmUgT1JERVIgQlkgSURFTlRJVFlfRkxEIERFU0MKCQkJCQkJCSkgYXMgX3JvdwoJCQkJCQlGUk9NIHNsLmRiby5oenMxMF9zdXBwbGllcl9vcmRlcl90cmFuc2FjdGlvbl9sbiBhcyBsCgkJCQkJKQoJCQkJCVNFTEVDVAoJCQkJCQlmZy5kb2N1bWVudF9kYXRlCgkJCQkJICxmZy5kb2MKCQkJCQkgLGZnLl9tb250aAoJCQkJCSAsZmcuc3VwcGxpZXIKCQkJCQkgLGZnLnN1cHBsaWVyX2NvZGUKCQkJCQkgLGZnLltvcmRlcl0KCQkJCQkgLGZnLmxpbmUKCQkJCQkgLGZnLnN0eWxlCgkJCQkJICxmZy5xdHkKCQkJCQkgLGZnLmthcmF0CgkJCQkJICxmZy5tYXRlcmlhbAoJCQkJCSAsSUlGKGZnLmdyb3NzX3d0ICE9IDAsIGZnLmdyb3NzX3d0LCBxci5oenMxMF93dF9tZXRhbCkgYXMgZ3Jvc3Nfd3QKCQkJCQkgLENBU0UKCQkJCQkJCVdIRU4gZmcua2FyYXQgPSA5MiBUSEVOIElJRihmZy5ncm9zc193dCAhPSAwLCBmZy5ncm9zc193dCwgcXIuaHpzMTBfd3RfbWV0YWwpICogMC45NAoJCQkJCQkJRUxTRSBJSUYoZmcuZ3Jvc3Nfd3QgIT0gMCwgZmcuZ3Jvc3Nfd3QsIHFyLmh6czEwX3d0X21ldGFsKSAqIDEKCQkJCQkJRU5EIEFTIHd0X2NvbnZlcnQKCQkJCQlGUk9NIGJ1eV9uZXdfZmluaXNoX2dvb2RzIGFzIGZnCgkJCQkJTEVGVCBKT0lOIHFjX3JlY2VpdmUgYXMgcXIKCQkJCQkJT04gcXIuaHpzMTBfb3JkZXIgPSBmZy5bb3JkZXJdIEFORCBxci5oenMxMF9saW5lID0gZmcubGluZQoJCQkJCVdIRVJFIHFyLl9yb3cgPSAxCgkJCQkJCUFORCBmZy5xdHkgIT0gMAoJCQkJCU9SREVSIEJZCgkJCQkJCWZnLmRvY3VtZW50X2RhdGUgQVNDLAoJCQkJCQlmZy5zdXBwbGllciBBU0MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0lUSCBhbGxfbG9jYXRpb25fc2lsX2luaCBBUyAoCiAgU0VMRUNUCiAgICBsLmh6czJfc3RhdHVzCiAgICAsaC5oenMxX29yZGVyX2RhdGUKICAgICxsLmh6czJfc3VwcGxpZXIKICAgICxsLmh6czJfb3JkZXJfbm8KICAgICxsLmh6czJfbGluZQogICAgLGwuaHpzMl9zdHlsZV9jb2RlCiAgICAsbC5oenMyX3F0eV9vcmRlcmVkCiAgICAsYS5hdjBfa2FyYXQKICAgICxhLmF2MF9tZXRhbAogICAgLGwuaHpzMl9sb2NhdGlvbgogICAgLHQudGNuX2xvY2F0aW9uX2Rlc2NyaXB0aW9uCiAgICAsbC5oenMyX2RlbGl2ZXJ5X2RhdGUKICAgICxsLmh6czJfd3RfaXNzdWUKICAgICxDQVNFCiAgICAgIFdIRU4gYS5hdjBfbWV0YWwgPSAnU0lMJyBUSEVOIGwuaHpzMl93dF9pc3N1ZSAqIDAuOTQKICAgICAgRUxTRSBsLmh6czJfd3RfaXNzdWUgKiAxLjAKICAgIEVORCBBUyB3dF9jb252ZXJ0CiAgICBGUk9NIHNsLmRiby5oenMyX3N1cHBsaWVyX29yZGVyX2xuIEFTIGwKICAgIExFRlQgSk9JTiBzbC5kYm8uaHpzMV9zdXBwbGllcl9vcmRlcl9oZHIgQVMgaAogICAgICBPTiBoLkYyXzFoenNfb3JkZXJfbm8gPSBsLmh6czJfb3JkZXJfbm8KICAgIExFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIEFTIGEKICAgICAgT04gYS5hdjBfc3R5bGUgPSBsLmh6czJfc3R5bGVfY29kZQogICAgTEVGVCBKT0lOIHNsLmRiby50Y25fbG9jYXRpb24gQVMgdAogICAgICBPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gbC5oenMyX2xvY2F0aW9uCiAgICBXSEVSRSBoenMyX2NhbmNlbCA9IDAKLS0gICAgICAgQU5EIGEuYXYwX21ldGFsID0gJ1NJTCcKCQkgIEFORCBhLmF2MF9rYXJhdCA9IDkyCiAgICAgIEFORCBsLmh6czJfc3VwcGxpZXIgTElLRSAnSU5ILSUnCiAgICAgIEFORCBsLmh6czJfc3RhdHVzIEJFVFdFRU4gMSBBTkQgMgogICAgICBBTkQgbC5oenMyX2xvY2F0aW9uIE5PVCBJTiAoMCwgMTkpCiksIHNpbF9tYXMgQVMgKApTRUxFQ1QKICBsLmh6czJfc3RhdHVzCiAgLGguaHpzMV9vcmRlcl9kYXRlCiAgLGwuaHpzMl9zdXBwbGllcgogICxsLmh6czJfb3JkZXJfbm8KICAsbC5oenMyX2xpbmUKICAsbC5oenMyX3N0eWxlX2NvZGUKICAsbC5oenMyX3F0eV9vcmRlcmVkCiAgLGEuYXYwX2thcmF0CiAgLGEuYXYwX21ldGFsCiAgLGwuaHpzMl9sb2NhdGlvbgogICx0LnRjbl9sb2NhdGlvbl9kZXNjcmlwdGlvbgogICxsLmh6czJfZGVsaXZlcnlfZGF0ZQogICxsLmh6czJfd3RfaXNzdWUKICAsQ0FTRQogICAgV0hFTiBhLmF2MF9tZXRhbCA9ICdTSUwnIFRIRU4gbC5oenMyX3d0X2lzc3VlICogMC45NAogICAgICBFTFNFIGwuaHpzMl93dF9pc3N1ZSAqIDEuMAogICAgRU5EIEFTIHd0X2NvbnZlcnQKICAgIEZST00gc2wuZGJvLmh6czJfc3VwcGxpZXJfb3JkZXJfbG4gQVMgbAogICAgTEVGVCBKT0lOIHNsLmRiby5oenMxX3N1cHBsaWVyX29yZGVyX2hkciBBUyBoCiAgICAgIE9OIGguRjJfMWh6c19vcmRlcl9ubyA9IGwuaHpzMl9vcmRlcl9ubwogICAgTEVGVCBKT0lOIHNsLmRiby5hdjBfc3R5bGUgQVMgYQogICAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHpzMl9zdHlsZV9jb2RlCiAgICBMRUZUIEpPSU4gc2wuZGJvLnRjbl9sb2NhdGlvbiBBUyB0CiAgICAgIE9OIHQudGNuX2xvY2F0aW9uX2NvZGUgPSBsLmh6czJfbG9jYXRpb24KICBXSEVSRSBoenMyX2NhbmNlbCA9IDAKICAgIEFORCBhLmF2MF9rYXJhdCA9IDkyCiAgICBBTkQgbC5oenMyX3N1cHBsaWVyID0gJ0lOSC1NQVNURVInCiAgICBBTkQgbC5oenMyX3N0YXR1cyBCRVRXRUVOIDEgQU5EIDIKICAgIEFORCBsLmh6czJfbG9jYXRpb24gTk9UIElOICgwLCAxOSkKKSwgY29tYmluZSBBUyAoCiAgU0VMRUNUCiAgICAqCiAgRlJPTSBhbGxfbG9jYXRpb25fc2lsX2luaAogIFVOSU9OCiAgU0VMRUNUCiAgICAqCiAgRlJPTSBzaWxfbWFzCikKU0VMRUNUCiAgU1VNKGMud3RfY29udmVydCkKRlJPTSBjb21iaW5lIGFzIGMK</text>
+        <text encoding="base64">YWxlcnQoJ2hlbGxvJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWlmIGludCh5ZWFyKSA+PSAyMDE5IGFuZCB2YWx1ZVsnX21vbnRoJ10gPj0gNDoKCQkJCQlpZiB2YWx1ZVsnc3VwcGxpZXJfY29kZSddICE9IDk6CgkJCQkJCWFwaVsnYnV5X25ld19maW5pc2hfZ29vZHMnXVtpXSA9IHZhbHVlCgkJCQllbHNlOgo=</text>
+        <text encoding="base64">V0lUSCBhbGxfbG9jYXRpb25fc2lsX2luaCBBUyAoCiAgU0VMRUNUCiAgICBsLmh6czJfc3RhdHVzCiAgICAsaC5oenMxX29yZGVyX2RhdGUKICAgICxsLmh6czJfc3VwcGxpZXIKICAgICxsLmh6czJfb3JkZXJfbm8KICAgICxsLmh6czJfbGluZQogICAgLGwuaHpzMl9zdHlsZV9jb2RlCiAgICAsbC5oenMyX3F0eV9vcmRlcmVkCiAgICAsYS5hdjBfa2FyYXQKICAgICxhLmF2MF9tZXRhbAogICAgLGwuaHpzMl9sb2NhdGlvbgogICAgLHQudGNuX2xvY2F0aW9uX2Rlc2NyaXB0aW9uCiAgICAsbC5oenMyX2RlbGl2ZXJ5X2RhdGUKICAgICxsLmh6czJfd3RfaXNzdWUKICAgICxDQVNFCiAgICAgIFdIRU4gYS5hdjBfbWV0YWwgPSAnU0lMJyBUSEVOIGwuaHpzMl93dF9pc3N1ZSAqIDAuOTQKICAgICAgRUxTRSBsLmh6czJfd3RfaXNzdWUgKiAxLjAKICAgIEVORCBBUyB3dF9jb252ZXJ0CiAgICBGUk9NIHNsLmRiby5oenMyX3N1cHBsaWVyX29yZGVyX2xuIEFTIGwKICAgIExFRlQgSk9JTiBzbC5kYm8uaHpzMV9zdXBwbGllcl9vcmRlcl9oZHIgQVMgaAogICAgICBPTiBoLkYyXzFoenNfb3JkZXJfbm8gPSBsLmh6czJfb3JkZXJfbm8KICAgIExFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIEFTIGEKICAgICAgT04gYS5hdjBfc3R5bGUgPSBsLmh6czJfc3R5bGVfY29kZQogICAgTEVGVCBKT0lOIHNsLmRiby50Y25fbG9jYXRpb24gQVMgdAogICAgICBPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gbC5oenMyX2xvY2F0aW9uCiAgICBXSEVSRSBoenMyX2NhbmNlbCA9IDAKLS0gICAgICAgQU5EIGEuYXYwX21ldGFsID0gJ1NJTCcKCQkgIEFORCBhLmF2MF9rYXJhdCA9IDkyCiAgICAgIEFORCBsLmh6czJfc3VwcGxpZXIgTElLRSAnSU5ILSUnCiAgICAgIEFORCBsLmh6czJfc3RhdHVzIEJFVFdFRU4gMSBBTkQgMgogICAgICBBTkQgbC5oenMyX2xvY2F0aW9uIE5PVCBJTiAoMCwgMTkpCiksIHNpbF9tYXMgQVMgKApTRUxFQ1QKICBsLmh6czJfc3RhdHVzCiAgLGguaHpzMV9vcmRlcl9kYXRlCiAgLGwuaHpzMl9zdXBwbGllcgogICxsLmh6czJfb3JkZXJfbm8KICAsbC5oenMyX2xpbmUKICAsbC5oenMyX3N0eWxlX2NvZGUKICAsbC5oenMyX3F0eV9vcmRlcmVkCiAgLGEuYXYwX2thcmF0CiAgLGEuYXYwX21ldGFsCiAgLGwuaHpzMl9sb2NhdGlvbgogICx0LnRjbl9sb2NhdGlvbl9kZXNjcmlwdGlvbgogICxsLmh6czJfZGVsaXZlcnlfZGF0ZQogICxsLmh6czJfd3RfaXNzdWUKICAsQ0FTRQogICAgV0hFTiBhLmF2MF9tZXRhbCA9ICdTSUwnIFRIRU4gbC5oenMyX3d0X2lzc3VlICogMC45NAogICAgICBFTFNFIGwuaHpzMl93dF9pc3N1ZSAqIDEuMAogICAgRU5EIEFTIHd0X2NvbnZlcnQKICAgIEZST00gc2wuZGJvLmh6czJfc3VwcGxpZXJfb3JkZXJfbG4gQVMgbAogICAgTEVGVCBKT0lOIHNsLmRiby5oenMxX3N1cHBsaWVyX29yZGVyX2hkciBBUyBoCiAgICAgIE9OIGguRjJfMWh6c19vcmRlcl9ubyA9IGwuaHpzMl9vcmRlcl9ubwogICAgTEVGVCBKT0lOIHNsLmRiby5hdjBfc3R5bGUgQVMgYQogICAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHpzMl9zdHlsZV9jb2RlCiAgICBMRUZUIEpPSU4gc2wuZGJvLnRjbl9sb2NhdGlvbiBBUyB0CiAgICAgIE9OIHQudGNuX2xvY2F0aW9uX2NvZGUgPSBsLmh6czJfbG9jYXRpb24KICBXSEVSRSBoenMyX2NhbmNlbCA9IDAKICAgIEFORCBhLmF2MF9rYXJhdCA9IDkyCiAgICBBTkQgbC5oenMyX3N1cHBsaWVyID0gJ0lOSC1NQVNURVInCiAgICBBTkQgbC5oenMyX3N0YXR1cyBCRVRXRUVOIDEgQU5EIDIKICAgIEFORCBsLmh6czJfbG9jYXRpb24gTk9UIElOICgwLCAxOSkKKSwgY29tYmluZSBBUyAoCiAgU0VMRUNUCiAgICAqCiAgRlJPTSBhbGxfbG9jYXRpb25fc2lsX2luaAogIFVOSU9OCiAgU0VMRUNUCiAgICAqCiAgRlJPTSBzaWxfbWFzCikKU0VMRUNUCiAgU1VNKGMud3RfY29udmVydCkKRlJPTSBjb21iaW5lIGFzIGMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">T1JERVIgQlkKICBjLmh6czJfb3JkZXJfbm8gQVNDLAogIGMuaHpzMl9saW5lIEFTQywKICBjLmh6czJfc3R5bGVfY29kZSBBU0MKCg==</text>
+        <text encoding="base64">CQkJCWlmIGludCh5ZWFyKSA+PSAyMDE5IGFuZCB2YWx1ZVsnX21vbnRoJ10gPj0gNDoKCQkJCQlpZiB2YWx1ZVsnc3VwcGxpZXJfY29kZSddICE9IDk6CgkJCQkJCWFwaVsnYnV5X25ld19maW5pc2hfZ29vZHMnXVtpXSA9IHZhbHVlCgkJCQllbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gSW5wcm9kdWN0aW9uIFNVQgpXSVRIIGFsbF9sb2NhdGlvbl9zaWxfc3ViIEFTICgKCVNFTEVDVAoJCWguaHpzMV9zdGF0dXNfb3JkZXIKCQkJICxoLmh6czFfb3JkZXJfZGF0ZQoJCQkgLGwuaHpzMl9zdXBwbGllcgoJCQkgLGwuaHpzMl9vcmRlcl9ubwoJCQkgLGwuaHpzMl9saW5lCgkJCSAsbC5oenMyX3N0eWxlX2NvZGUKCQkJICxsLmh6czJfcXR5X29yZGVyZWQKCQkJICxhLmF2MF9rYXJhdAoJCQkgLGEuYXYwX21ldGFsCgkJCSAsbC5oenMyX2xvY2F0aW9uCgkJCSAsdC50Y25fbG9jYXRpb25fZGVzY3JpcHRpb24KCQkJICxsLmh6czJfZGVsaXZlcnlfZGF0ZQoJCQkgLGwuaHpzMl93dF9pc3N1ZQoJCQkgLENBU0UKCQkJCSAgV0hFTiBhLmF2MF9rYXJhdCA9IDkyIFRIRU4gbC5oenMyX3d0X2lzc3VlICogMC45NAoJCQkJICBFTFNFIGwuaHpzMl93dF9pc3N1ZSAqIDEuMAoJCUVORCBBUyB3dF9jb252ZXJ0CglGUk9NIHNsLi5oenMyX3N1cHBsaWVyX29yZGVyX2xuIEFTIGwKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uaHpzMV9zdXBwbGllcl9vcmRlcl9oZHIgQVMgaAoJCSAgICAgICAgICAgICAgIE9OIGguRjJfMWh6c19vcmRlcl9ubyA9IGwuaHpzMl9vcmRlcl9ubwoJCSAgICAgTEVGVCBKT0lOIHNsLmRiby5hdjBfc3R5bGUgQVMgYQoJCSAgICAgICAgICAgICAgIE9OIGEuYXYwX3N0eWxlID0gbC5oenMyX3N0eWxlX2NvZGUKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8udGNuX2xvY2F0aW9uIEFTIHQKCQkgICAgICAgICAgICAgICBPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gbC5oenMyX2xvY2F0aW9uCglXSEVSRSBoenMyX2NhbmNlbCA9IDAKCQlBTkQgYS5hdjBfa2FyYXQgSU4gKDkyLCAxMDApCikKU0VMRUNUCglTVU0oc2kud3RfY29udmVydCkKRlJPTSBhbGxfbG9jYXRpb25fc2lsX3N1YiBBUyBzaQoJICAgICBMRUZUIEpPSU4gc2wuZGJvLmxraF9jdXN0b21lcl9zdXBwbGllciBhcyBjcwoJICAgICAgICAgICAgICAgT04gY3MubGtoX3Nob3J0X2N1c3RvbWVyX25hbWUgPSBzaS5oenMyX3N1cHBsaWVyCldIRVJFIHNpLmh6czFfc3RhdHVzX29yZGVyIEJFVFdFRU4gMSBBTkQgMgoJQU5EIHNpLmh6czJfc3VwcGxpZXIgIE5PVCBMSUtFICdJTkgtJScKCUFORCBzaS5oenMyX2xvY2F0aW9uIE5PVCBJTiAoMCwgMTkpCglBTkQgY3MubGtoX2N1c3RvbWVyX2NvZGUgTk9UIElOICgKCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQ0NjMsIDkwLCAyMjczLAoJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNTQwLCA5MzIsIDM3NDgsCgkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0MjY5LCA0NjQ5LCAxNDUyLAoJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMzIyLCAzNTkKCSkK</text>
+        <text encoding="base64">T1JERVIgQlkKICBjLmh6czJfb3JkZXJfbm8gQVNDLAogIGMuaHpzMl9saW5lIEFTQywKICBjLmh6czJfc3R5bGVfY29kZSBBU0MKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">T1JERVIgQlkKCXNpLmh6czJfc3VwcGxpZXIgQVNDCiAgICAgICAsc2kuaHpzMV9vcmRlcl9kYXRlIEFTQwogICAgICAgLHNpLmh6czJfb3JkZXJfbm8gQVNDCiAgICAgICAsc2kuaHpzMl9saW5lIEFTQwo=</text>
+        <text encoding="base64">LS0gSW5wcm9kdWN0aW9uIFNVQgpXSVRIIGFsbF9sb2NhdGlvbl9zaWxfc3ViIEFTICgKCVNFTEVDVAoJCWguaHpzMV9zdGF0dXNfb3JkZXIKCQkJICxoLmh6czFfb3JkZXJfZGF0ZQoJCQkgLGwuaHpzMl9zdXBwbGllcgoJCQkgLGwuaHpzMl9vcmRlcl9ubwoJCQkgLGwuaHpzMl9saW5lCgkJCSAsbC5oenMyX3N0eWxlX2NvZGUKCQkJICxsLmh6czJfcXR5X29yZGVyZWQKCQkJICxhLmF2MF9rYXJhdAoJCQkgLGEuYXYwX21ldGFsCgkJCSAsbC5oenMyX2xvY2F0aW9uCgkJCSAsdC50Y25fbG9jYXRpb25fZGVzY3JpcHRpb24KCQkJICxsLmh6czJfZGVsaXZlcnlfZGF0ZQoJCQkgLGwuaHpzMl93dF9pc3N1ZQoJCQkgLENBU0UKCQkJCSAgV0hFTiBhLmF2MF9rYXJhdCA9IDkyIFRIRU4gbC5oenMyX3d0X2lzc3VlICogMC45NAoJCQkJICBFTFNFIGwuaHpzMl93dF9pc3N1ZSAqIDEuMAoJCUVORCBBUyB3dF9jb252ZXJ0CglGUk9NIHNsLi5oenMyX3N1cHBsaWVyX29yZGVyX2xuIEFTIGwKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uaHpzMV9zdXBwbGllcl9vcmRlcl9oZHIgQVMgaAoJCSAgICAgICAgICAgICAgIE9OIGguRjJfMWh6c19vcmRlcl9ubyA9IGwuaHpzMl9vcmRlcl9ubwoJCSAgICAgTEVGVCBKT0lOIHNsLmRiby5hdjBfc3R5bGUgQVMgYQoJCSAgICAgICAgICAgICAgIE9OIGEuYXYwX3N0eWxlID0gbC5oenMyX3N0eWxlX2NvZGUKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8udGNuX2xvY2F0aW9uIEFTIHQKCQkgICAgICAgICAgICAgICBPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gbC5oenMyX2xvY2F0aW9uCglXSEVSRSBoenMyX2NhbmNlbCA9IDAKCQlBTkQgYS5hdjBfa2FyYXQgSU4gKDkyLCAxMDApCikKU0VMRUNUCglTVU0oc2kud3RfY29udmVydCkKRlJPTSBhbGxfbG9jYXRpb25fc2lsX3N1YiBBUyBzaQoJICAgICBMRUZUIEpPSU4gc2wuZGJvLmxraF9jdXN0b21lcl9zdXBwbGllciBhcyBjcwoJICAgICAgICAgICAgICAgT04gY3MubGtoX3Nob3J0X2N1c3RvbWVyX25hbWUgPSBzaS5oenMyX3N1cHBsaWVyCldIRVJFIHNpLmh6czFfc3RhdHVzX29yZGVyIEJFVFdFRU4gMSBBTkQgMgoJQU5EIHNpLmh6czJfc3VwcGxpZXIgIE5PVCBMSUtFICdJTkgtJScKCUFORCBzaS5oenMyX2xvY2F0aW9uIE5PVCBJTiAoMCwgMTkpCglBTkQgY3MubGtoX2N1c3RvbWVyX2NvZGUgTk9UIElOICgKCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQ0NjMsIDkwLCAyMjczLAoJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNTQwLCA5MzIsIDM3NDgsCgkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0MjY5LCA0NjQ5LCAxNDUyLAoJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMzIyLCAzNTkKCSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXNpLioK</text>
+        <text encoding="base64">T1JERVIgQlkKCXNpLmh6czJfc3VwcGxpZXIgQVNDCiAgICAgICAsc2kuaHpzMV9vcmRlcl9kYXRlIEFTQwogICAgICAgLHNpLmh6czJfb3JkZXJfbm8gQVNDCiAgICAgICAsc2kuaHpzMl9saW5lIEFTQwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTwvc3ludGF4aGlnaGxpZ2h0Pgo=</text>
+        <text encoding="base64">CXNpLioK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT0gUXVlcnkgMiBmb3IgREIgMjMwIChVc2UpPT0KPHN5bnRheGhpZ2hsaWdodCBsYW5nPSJ0c3FsIiBsaW5lPSdsaW5lJz4K</text>
+        <text encoding="base64">CTwvc3ludGF4aGlnaGxpZ2h0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT0gUXVlcnkgMiBmb3IgREIgMjMwIChVc2UpPT0KPHN5bnRheGhpZ2hsaWdodCBsYW5nPSJ0c3FsIiBsaW5lPSdsaW5lJz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -597,7 +615,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
