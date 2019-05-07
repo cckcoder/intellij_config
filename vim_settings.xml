@@ -77,12 +77,11 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1556878084026">
-        <mark key="'" line="10" column="56" />
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="57" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="10" column="57" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1557206120074">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="26" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="/mnt/sdb1/GMS/application/models/couch_inventory.php" timestamp="1557201611368">
         <mark key="[" line="219" column="0" />
@@ -117,12 +116,12 @@
         <mark key="." line="412" column="6" />
         <mark key="^" line="412" column="6" />
       </file>
-      <file name="/var/customers/webs/api3/api/main.py" timestamp="1557198990463">
-        <mark key="'" line="18" column="36" />
-        <mark key="[" line="82" column="23" />
-        <mark key="]" line="82" column="46" />
+      <file name="/var/customers/webs/api3/api/main.py" timestamp="1557206202097">
+        <mark key="'" line="66" column="62" />
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="66" column="38" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" timestamp="1557204854945">
+      <file name="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" timestamp="1557205997709">
         <mark key="'" line="81" column="58" />
         <mark key="[" line="47" column="35" />
         <mark key="]" line="47" column="21" />
@@ -135,8 +134,8 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1556783517889">
-        <mark key="'" line="622" column="23" />
+      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1557206249165">
+        <mark key="'" line="574" column="37" />
         <mark key="[" line="625" column="9" />
         <mark key="]" line="626" column="7" />
         <mark key="." line="626" column="7" />
@@ -176,11 +175,12 @@
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557204453492">
-        <mark key="'" line="50" column="17" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557205800371">
+        <mark key="'" line="41" column="17" />
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
         <mark key="'" line="94" column="12" />
@@ -220,11 +220,6 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="/silver_monthly_report.py" timestamp="1556873206098">
-        <mark key="'" line="936" column="7" />
-        <mark key="[" line="890" column="0" />
-        <mark key="]" line="921" column="43" />
-      </file>
       <file name="/var/customers/webs/controller/controller.py" timestamp="1557198541094">
         <mark key="'" line="104" column="54" />
         <mark key="[" line="172" column="47" />
@@ -250,12 +245,11 @@
         <mark key="." line="66" column="18" />
         <mark key="^" line="66" column="18" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1556878947418">
-        <mark key="'" line="1540" column="4" />
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="325" column="27" />
-        <mark key="." line="771" column="65" />
-        <mark key="^" line="771" column="65" />
+      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557206256908">
+        <mark key="'" line="1541" column="4" />
+        <mark key="[" line="918" column="0" />
+        <mark key="]" line="918" column="0" />
+        <mark key="." line="918" column="0" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
         <mark key="[" line="2" column="11" />
@@ -263,7 +257,7 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557201209535">
+      <file name="/Dummy.txt" timestamp="1557206285708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
@@ -389,9 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="40" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="27" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="94" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="93" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="194" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
@@ -420,7 +411,6 @@
       <jump line="19" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" />
       <jump line="66" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="59" column="68" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" />
       <jump line="86" column="77" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="96" column="77" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="88" column="56" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
@@ -434,7 +424,6 @@
       <jump line="50" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="74" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="65" column="71" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="70" column="71" filename="/var/customers/webs/api3/api/main.py" />
@@ -489,43 +478,48 @@
       <jump line="497" column="13" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
       <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
       <jump line="81" column="58" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="17" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" />
+      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="66" column="62" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="574" column="37" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IEFTIHZhbHVl</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhdGlvblw+</text>
       </register>
       <register name="0" type="4">
-        <text>_casting_room?year</text>
+        <text>gld_casting_room</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0gCSwoeS55ejNfcXR5ICogdGMuY29zdCkgQVMgdmFsdWUK</text>
+        <text encoding="base64">CQkJCQkJCUFORCBrYXJhdCBOT1QgSU4gKDkyLCAxMDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCVNVTSh5Lnl6M19xdHkgKiB0Yy5jb3N0KSBBUyB2YWx1ZQo=</text>
+        <text encoding="base64">V0lUSCBmZyBBUyAoCglTRUxFQ1QKCQkqCgkJLFJPV19OVU1CRVIoKSBvdmVyICgKCQlQQVJUSVRJT04gQlkKCQkgIHN0eWxlLCBsb2NhdGlvbgoJCU9SREVSIEJZIGVudGVyX2RhdGUgREVTQwoJCSkgYXMgX3JvdwoJRlJPTSBTTF9oLmRiby5zdG9ja19maW5pc2hfZ29vZHNfZGV0YWlsCglXSEVSRSBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCBlbnRlcl9kYXRlLCAxMDQpKSA9IDIwMTkKCQlBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIGVudGVyX2RhdGUsIDEwNCkpID0gNAoJCUFORCBrYXJhdCBJTiAoJzkyJywgJzEwMCcpCiksIGxhdGVzdF9kYXRlIEFTICgKCVNFTEVDVAoJCURBWShNQVgoZmcuZW50ZXJfZGF0ZSkpIGFzIGxfZGF0ZQoJRlJPTSBmZwopClNFTEVDVAotLSAJZmcuKgoJU1VNKGZnLnd0X2NvbnZlcnQpCkZST00gZmcKV0hFUkUgZmcuX3JvdyA9IDEKCUFORCBmZy53dF9jb252ZXJ0ID4gMAoJQU5EIGZnLmthcmF0ICE9IDAKCUFORCBmZy5zdHlsZSAhPSAnOTInCglBTkQgZmcubG9jYXRpb24gIT0gOAoJQU5EIGZnLnF0eSAhPSAwCglBTkQgREFZKFRSWV9DT05WRVJUKERBVEVUSU1FLCBmZy5lbnRlcl9kYXRlLCAxMDQpKSA9IChTRUxFQ1QgbGQubF9kYXRlIEZST00gbGF0ZXN0X2RhdGUgYXMgbGQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSh5Lnl6M19xdHkgKiB0Yy5jb3N0KSBBUyB2YWx1ZQo=</text>
+        <text encoding="base64">U0VMRUNUCglDT1VOVCh5Lnl6M19zdHlsZSkKLS0gCXkuW3l6M19zdHlsZV0KLS0gCSAseS55ejNfcXR5Ci0tIAkgLHNwLmF2MTdfbG9jYXRlZF9hdApGUk9NIFtTTF0uW2Rib10uW3l6M19zdG9ja10gYXMgeQpMRUZUIEpPSU4gYXYxN19zdHlsZV9wbGFjZSBhcyBzcAoJIE9OIHNwLmF2MTdfc3R5bGUgPSB5Lnl6M19zdHlsZSBBTkQgc3AuYXYxN19sb2NhdGlvbiA9IHkueXozX2xvY2F0aW9uCndoZXJlIHl6M19sb2NhdGlvbiA9IDkKCWFuZCB5ejNfcXR5ICE9IDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUNPVU5UKHkueXozX3N0eWxlKQo=</text>
+        <text encoding="base64">LS0gCSwoeS55ejNfcXR5ICogdGMuY29zdCkgQVMgdmFsdWUK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">CSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCVNVTSh5Lnl6M19xdHkgKiB0Yy5jb3N0KSBBUyB2YWx1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSh5Lnl6M19xdHkgKiB0Yy5jb3N0KSBBUyB2YWx1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RVhFQyBzbC5kYm8uenpfZ2V0X3N0b2NrCg==</text>
+        <text encoding="base64">CUNPVU5UKHkueXozX3N0eWxlKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">a2lsbCAxMTc7Cg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">CSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSA=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">U0VMRUNUCglNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgbS5tbGtfdmFsdWVfZGF0ZSwgMTA0KSkgYXMgbW9udGggLAoJYS5hdjBfa2FyYXQgLAoJU1VNKGwudG5nX3d0X2dyb3NzKSBhcyB0b3RhbF93dApGUk9NIHNsLmRiby50c2cxX2dvbGRfYm9va19kb2NfaGRyIGFzIGgKCSAgICAgTEVGVCBKT0lOIHNsLmRiby50c2cyX2dvbGRfYm9va19kb2NfbG4gYXMgbAoJICAgICAgICAgICAgICAgT04gbC50bmdfZG9jdW1lbnRfbm8gPSBoLnRzZ19kb2N1bWVudF9ubwoJICAgICBMRUZUIEpPSU4gc2wuZGJvLmF2MF9zdHlsZSBhcyBhCgkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IGwudG5nX3N0eWxlCgkgICAgIExFRlQgSk9JTiBzbC5kYm8ubWxrX2N1c3RvbWVyX2ZpbmFuY2lhbF9zdGF0dXMgYXMgbQoJICAgICAgICAgICAgICAgT04gbS5tbGtfcmVmZXJlbmNlX251bXJpYyA9IGwudG5nX2RvY3VtZW50X25vCldIRVJFIGEuYXYwX2thcmF0ID0gMjQKCUFORCBoLnRzZ19zdXBwbGllciBOT1QgTElLRSAnU1RPQ0sgQURKVSUnCglBTkQgaC50c2dfc3VwcGxpZXIgTk9UIExJS0UgJ0lOSC0lJwoJQU5EIFlFQVIoVFJZX0NPTlZFUlQoREFURVRJTUUsIG0ubWxrX3ZhbHVlX2RhdGUsIDEwNCkpID0gMjAxOQpHUk9VUCBCWSBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgbS5tbGtfdmFsdWVfZGF0ZSwgMTA0KSkKICAgICAgICxhLmF2MF9rYXJhdApPUkRFUiBCWSBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgbS5tbGtfdmFsdWVfZGF0ZSwgMTA0KSkgQVNDOwoKCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
