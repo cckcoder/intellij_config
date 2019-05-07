@@ -77,11 +77,11 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1557206120074">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1557210014046">
         <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="26" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/models/couch_inventory.php" timestamp="1557201611368">
         <mark key="[" line="219" column="0" />
@@ -109,17 +109,17 @@
         <mark key="^" line="114" column="19" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1556878938624">
-        <mark key="'" line="408" column="36" />
+      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1557210153457">
+        <mark key="'" line="508" column="25" />
         <mark key="[" line="412" column="10" />
         <mark key="]" line="412" column="6" />
         <mark key="." line="412" column="6" />
         <mark key="^" line="412" column="6" />
       </file>
-      <file name="/var/customers/webs/api3/api/main.py" timestamp="1557206202097">
-        <mark key="'" line="66" column="62" />
-        <mark key="[" line="66" column="23" />
-        <mark key="]" line="66" column="38" />
+      <file name="/var/customers/webs/api3/api/main.py" timestamp="1557210073845">
+        <mark key="'" line="91" column="64" />
+        <mark key="[" line="91" column="23" />
+        <mark key="]" line="91" column="38" />
       </file>
       <file name="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" timestamp="1557205997709">
         <mark key="'" line="81" column="58" />
@@ -245,10 +245,10 @@
         <mark key="." line="66" column="18" />
         <mark key="^" line="66" column="18" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557206256908">
+      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557210002703">
         <mark key="'" line="1541" column="4" />
-        <mark key="[" line="918" column="0" />
-        <mark key="]" line="918" column="0" />
+        <mark key="[" line="903" column="0" />
+        <mark key="]" line="918" column="40" />
         <mark key="." line="918" column="0" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
@@ -383,10 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="93" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="194" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="269" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="41" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" />
       <jump line="85" column="19" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="150" column="23" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
@@ -483,52 +479,56 @@
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="66" column="62" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="574" column="37" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="538" column="48" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="91" column="64" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="317" column="25" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="508" column="25" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>{}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhdGlvblw+</text>
+        <text encoding="base64">XDxsb2dcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>gld_casting_room</text>
+        <text>sil_casting_room</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCUFORCBrYXJhdCBOT1QgSU4gKDkyLCAxMDApCg==</text>
+        <text encoding="base64">CUFORCBrYXJhdCBOT1QgSU4gKDkyLCAxMDApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0lUSCBmZyBBUyAoCglTRUxFQ1QKCQkqCgkJLFJPV19OVU1CRVIoKSBvdmVyICgKCQlQQVJUSVRJT04gQlkKCQkgIHN0eWxlLCBsb2NhdGlvbgoJCU9SREVSIEJZIGVudGVyX2RhdGUgREVTQwoJCSkgYXMgX3JvdwoJRlJPTSBTTF9oLmRiby5zdG9ja19maW5pc2hfZ29vZHNfZGV0YWlsCglXSEVSRSBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCBlbnRlcl9kYXRlLCAxMDQpKSA9IDIwMTkKCQlBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIGVudGVyX2RhdGUsIDEwNCkpID0gNAoJCUFORCBrYXJhdCBJTiAoJzkyJywgJzEwMCcpCiksIGxhdGVzdF9kYXRlIEFTICgKCVNFTEVDVAoJCURBWShNQVgoZmcuZW50ZXJfZGF0ZSkpIGFzIGxfZGF0ZQoJRlJPTSBmZwopClNFTEVDVAotLSAJZmcuKgoJU1VNKGZnLnd0X2NvbnZlcnQpCkZST00gZmcKV0hFUkUgZmcuX3JvdyA9IDEKCUFORCBmZy53dF9jb252ZXJ0ID4gMAoJQU5EIGZnLmthcmF0ICE9IDAKCUFORCBmZy5zdHlsZSAhPSAnOTInCglBTkQgZmcubG9jYXRpb24gIT0gOAoJQU5EIGZnLnF0eSAhPSAwCglBTkQgREFZKFRSWV9DT05WRVJUKERBVEVUSU1FLCBmZy5lbnRlcl9kYXRlLCAxMDQpKSA9IChTRUxFQ1QgbGQubF9kYXRlIEZST00gbGF0ZXN0X2RhdGUgYXMgbGQpCg==</text>
+        <text encoding="base64">CQkJCQkJCUFORCBrYXJhdCBOT1QgSU4gKDkyLCAxMDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUCglDT1VOVCh5Lnl6M19zdHlsZSkKLS0gCXkuW3l6M19zdHlsZV0KLS0gCSAseS55ejNfcXR5Ci0tIAkgLHNwLmF2MTdfbG9jYXRlZF9hdApGUk9NIFtTTF0uW2Rib10uW3l6M19zdG9ja10gYXMgeQpMRUZUIEpPSU4gYXYxN19zdHlsZV9wbGFjZSBhcyBzcAoJIE9OIHNwLmF2MTdfc3R5bGUgPSB5Lnl6M19zdHlsZSBBTkQgc3AuYXYxN19sb2NhdGlvbiA9IHkueXozX2xvY2F0aW9uCndoZXJlIHl6M19sb2NhdGlvbiA9IDkKCWFuZCB5ejNfcXR5ICE9IDAK</text>
+        <text encoding="base64">V0lUSCBmZyBBUyAoCglTRUxFQ1QKCQkqCgkJLFJPV19OVU1CRVIoKSBvdmVyICgKCQlQQVJUSVRJT04gQlkKCQkgIHN0eWxlLCBsb2NhdGlvbgoJCU9SREVSIEJZIGVudGVyX2RhdGUgREVTQwoJCSkgYXMgX3JvdwoJRlJPTSBTTF9oLmRiby5zdG9ja19maW5pc2hfZ29vZHNfZGV0YWlsCglXSEVSRSBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCBlbnRlcl9kYXRlLCAxMDQpKSA9IDIwMTkKCQlBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIGVudGVyX2RhdGUsIDEwNCkpID0gNAoJCUFORCBrYXJhdCBJTiAoJzkyJywgJzEwMCcpCiksIGxhdGVzdF9kYXRlIEFTICgKCVNFTEVDVAoJCURBWShNQVgoZmcuZW50ZXJfZGF0ZSkpIGFzIGxfZGF0ZQoJRlJPTSBmZwopClNFTEVDVAotLSAJZmcuKgoJU1VNKGZnLnd0X2NvbnZlcnQpCkZST00gZmcKV0hFUkUgZmcuX3JvdyA9IDEKCUFORCBmZy53dF9jb252ZXJ0ID4gMAoJQU5EIGZnLmthcmF0ICE9IDAKCUFORCBmZy5zdHlsZSAhPSAnOTInCglBTkQgZmcubG9jYXRpb24gIT0gOAoJQU5EIGZnLnF0eSAhPSAwCglBTkQgREFZKFRSWV9DT05WRVJUKERBVEVUSU1FLCBmZy5lbnRlcl9kYXRlLCAxMDQpKSA9IChTRUxFQ1QgbGQubF9kYXRlIEZST00gbGF0ZXN0X2RhdGUgYXMgbGQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gCSwoeS55ejNfcXR5ICogdGMuY29zdCkgQVMgdmFsdWUK</text>
+        <text encoding="base64">U0VMRUNUCglDT1VOVCh5Lnl6M19zdHlsZSkKLS0gCXkuW3l6M19zdHlsZV0KLS0gCSAseS55ejNfcXR5Ci0tIAkgLHNwLmF2MTdfbG9jYXRlZF9hdApGUk9NIFtTTF0uW2Rib10uW3l6M19zdG9ja10gYXMgeQpMRUZUIEpPSU4gYXYxN19zdHlsZV9wbGFjZSBhcyBzcAoJIE9OIHNwLmF2MTdfc3R5bGUgPSB5Lnl6M19zdHlsZSBBTkQgc3AuYXYxN19sb2NhdGlvbiA9IHkueXozX2xvY2F0aW9uCndoZXJlIHl6M19sb2NhdGlvbiA9IDkKCWFuZCB5ejNfcXR5ICE9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCVNVTSh5Lnl6M19xdHkgKiB0Yy5jb3N0KSBBUyB2YWx1ZQo=</text>
+        <text encoding="base64">LS0gCSwoeS55ejNfcXR5ICogdGMuY29zdCkgQVMgdmFsdWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSh5Lnl6M19xdHkgKiB0Yy5jb3N0KSBBUyB2YWx1ZQo=</text>
+        <text encoding="base64">CQkJCVNVTSh5Lnl6M19xdHkgKiB0Yy5jb3N0KSBBUyB2YWx1ZQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQkJCSh5Lnl6M19xdHkgKiB0Yy5jb3N0KSBBUyB2YWx1ZQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CUNPVU5UKHkueXozX3N0eWxlKQo=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">CSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSAKCSA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxsb2dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -536,7 +536,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXN0aW5nX3JtXD4=</entry>
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
         <entry encoding="base64">XDxleHBvcnRfZXhjZWxcPg==</entry>
         <entry encoding="base64">XDxhbGxfY2FzdGluZ1w+</entry>
@@ -556,6 +555,7 @@
         <entry>stock</entry>
         <entry>make_inventory</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
+        <entry encoding="base64">XDxsb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
