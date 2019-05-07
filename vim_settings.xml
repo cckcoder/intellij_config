@@ -48,11 +48,12 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1557196709406">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="461" column="7" />
-        <mark key="." line="12" column="0" />
+      <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1556872328432">
+        <mark key="'" line="647" column="25" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="269" column="80" />
+        <mark key="." line="695" column="7" />
+        <mark key="^" line="695" column="7" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/main/index.php" timestamp="1556778957107">
         <mark key="'" line="0" column="0" />
@@ -88,12 +89,12 @@
         <mark key="." line="52" column="12" />
         <mark key="^" line="95" column="37" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/models/casting_rm.php" timestamp="1557197005850">
-        <mark key="'" line="58" column="20" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="86" column="19" />
-        <mark key="." line="11" column="0" />
+      <file name="/mnt/sdb1/GMS/application/models/casting_rm.php" timestamp="1556778780819">
+        <mark key="'" line="86" column="20" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="114" column="19" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1556878938624">
         <mark key="'" line="408" column="36" />
@@ -154,10 +155,10 @@
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557196151464">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1556877674412">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
         <mark key="'" line="94" column="12" />
@@ -194,6 +195,7 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1556867350015" />
       <file name="/silver_monthly_report.py" timestamp="1556873206098">
         <mark key="'" line="936" column="7" />
         <mark key="[" line="890" column="0" />
@@ -218,10 +220,11 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1557195801518">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="17" column="64" />
-        <mark key="." line="10" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1556878989361">
+        <mark key="[" line="66" column="6" />
+        <mark key="]" line="66" column="18" />
+        <mark key="." line="66" column="18" />
+        <mark key="^" line="66" column="18" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1556878947418">
         <mark key="'" line="1540" column="4" />
@@ -263,8 +266,8 @@
         <mark key="." line="3" column="42" />
         <mark key="^" line="3" column="42" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/casting_rms.php" timestamp="1557197060228">
-        <mark key="'" line="131" column="18" />
+      <file name="/mnt/sdb1/GMS/application/controllers/general/casting_rms.php" timestamp="1556779864297">
+        <mark key="'" line="130" column="44" />
         <mark key="[" line="193" column="14" />
         <mark key="]" line="194" column="7" />
         <mark key="." line="194" column="7" />
@@ -358,6 +361,22 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="392" column="6" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="517" column="15" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="514" column="8" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="454" column="12" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="497" column="32" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="1483" column="46" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="150" column="11" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="200" column="15" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="202" column="15" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="240" column="15" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="295" column="13" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="1502" column="26" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="257" column="34" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="255" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="301" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="410" column="10" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="409" column="39" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="431" column="0" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="1681" column="17" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
@@ -436,65 +455,49 @@
       <jump line="408" column="36" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="50" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="74" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="65" column="71" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="70" column="71" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="29" column="43" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="24" column="0" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="25" column="0" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="26" column="12" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="11" column="17" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="14" column="36" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="16" column="0" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="17" column="12" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="27" column="0" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="28" column="13" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="30" column="45" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="102" column="51" filename="/mnt/sdb1/GMS/application/controllers/general/casting_rms.php" />
-      <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/models/casting_rm.php" />
-      <jump line="33" column="33" filename="/mnt/sdb1/GMS/application/controllers/general/casting_rms.php" />
-      <jump line="131" column="18" filename="/mnt/sdb1/GMS/application/controllers/general/casting_rms.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>206</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text>ready</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUCglNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgbS5tbGtfdmFsdWVfZGF0ZSwgMTA0KSkgYXMgbW9udGggLAoJYS5hdjBfa2FyYXQgLAoJU1VNKGwudG5nX3d0X2dyb3NzKSBhcyB0b3RhbF93dApGUk9NIHNsLmRiby50c2cxX2dvbGRfYm9va19kb2NfaGRyIGFzIGgKTEVGVCBKT0lOIHNsLmRiby50c2cyX2dvbGRfYm9va19kb2NfbG4gYXMgbAoJIE9OIGwudG5nX2RvY3VtZW50X25vID0gaC50c2dfZG9jdW1lbnRfbm8KTEVGVCBKT0lOIHNsLmRiby5hdjBfc3R5bGUgYXMgYQoJIE9OIGEuYXYwX3N0eWxlID0gbC50bmdfc3R5bGUKTEVGVCBKT0lOIHNsLmRiby5tbGtfY3VzdG9tZXJfZmluYW5jaWFsX3N0YXR1cyBhcyBtCgkgT04gbS5tbGtfcmVmZXJlbmNlX251bXJpYyA9IGwudG5nX2RvY3VtZW50X25vCldIRVJFIGEuYXYwX2thcmF0ID0gMjQKCUFORCBoLnRzZ19zdXBwbGllciBOT1QgTElLRSAnU1RPQ0sgQURKVSUnCglBTkQgaC50c2dfc3VwcGxpZXIgTk9UIExJS0UgJ0lOSC0lJwoJQU5EIFlFQVIoVFJZX0NPTlZFUlQoREFURVRJTUUsIG0ubWxrX3ZhbHVlX2RhdGUsIDEwNCkpID0gMjAxOQpHUk9VUCBCWSBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgbS5tbGtfdmFsdWVfZGF0ZSwgMTA0KSkKICAgICAgICxhLmF2MF9rYXJhdApPUkRFUiBCWSBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgbS5tbGtfdmFsdWVfZGF0ZSwgMTA0KSkgQVNDCg==</text>
+        <text encoding="base64">CQkJCQlXSVRIIGJ1eV9uZXdfZmluaXNoX2dvb2RzIEFTICgKCQkJCQkJU0VMRUNUCgkJCQkJCQl0LnRzZ19kYXRlICAgICAgICBhcyBkb2N1bWVudF9kYXRlLAoJCQkJCQkJdC50c2dfZG9jdW1lbnRfbm8gYXMgZG9jLAoJCQkJCQkJdC50c2dfc3VwcGxpZXIgICAgYXMgc3VwcGxpZXIsCgkJCQkJCQljcy5sa2hfY3VzdG9tZXJfY29kZSBhcyBzdXBwbGllcl9jb2RlLAoJCQkJCQkJdDIudG5nX29yZGVyICAgICAgYXMgJ29yZGVyJywKCQkJCQkJCXQyLnRuZ19saW5lX29yZGVyIGFzICdsaW5lJywKCQkJCQkJCXQyLnRuZ19zdHlsZSAgICAgIGFzICdzdHlsZScsCgkJCQkJCQl0Mi50bmdfcXR5ICAgICAgICBhcyAncXR5JywKCQkJCQkJCWEuYXYwX2thcmF0ICAgICAgIGFzIGthcmF0LAoJCQkJCQkJYS5hdjBfbWV0YWwgICAgICAgYXMgbWF0ZXJpYWwsCgkJCQkJCQl0Mi50bmdfd3RfZ3Jvc3MgICBhcyBncm9zc193dCwKCQkJCQkJCU1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCB0LnRzZ19kYXRlLCAxMDQpKSBhcyBfbW9udGgKCQkJCQkJRlJPTSB0c2cxX2dvbGRfYm9va19kb2NfaGRyIGFzIHQKCQkJCQkJTEVGVCBKT0lOIFNMLmRiby50c2cyX2dvbGRfYm9va19kb2NfbG4gYXMgdDIKCQkJCQkJCU9OIHQyLnRuZ19kb2N1bWVudF9ubyA9IHQudHNnX2RvY3VtZW50X25vCgkJCQkJCUxFRlQgSk9JTiBTTC5kYm8uYXYwX3N0eWxlIGFzIGEKCQkJCQkJCU9OIGEuYXYwX3N0eWxlID0gdDIudG5nX3N0eWxlCgkJCQkJCUxFRlQgSk9JTiBsa2hfY3VzdG9tZXJfc3VwcGxpZXIgYXMgY3MKCQkJCQkJCU9OIGNzLmxraF9zaG9ydF9jdXN0b21lcl9uYW1lID0gdC50c2dfc3VwcGxpZXIKCQkJCQkJV0hFUkUgY3MubGtoX2N1c3RvbWVyX2NvZGUgSU4gKAoJCQkJCQkJMTgyOCwgOTAgLDM4NzcsCgkJCQkJCQkxNDUyICwzMjIgLDU0MCwKCQkJCQkJCTQ0NjMgLDQ2NDkgLDM1OSwKCQkJCQkJCTkKCQkJCQkJKQoJCQkJCQkJQU5EIGEuYXYwX2thcmF0ID0gOTIKCQkJCQkJCUFORCBhLmF2MF9rYXJhdCAhPSAxMDAKCQkJCQkJCUFORCBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCB0LnRzZ19kYXRlLCAxMDQpKSA9IHt9CgkJCQkJCQlBTkQgTk9UIGNzLmxraF9jdXN0b21lcl9jb2RlID0gNzY0CgkJCQkJKSwgcWNfcmVjZWl2ZSBBUyAoCgkJCQkJCVNFTEVDVAoJCQkJCQkJbC5oenMxMF9vcmRlciwKCQkJCQkJCWwuaHpzMTBfbGluZSwKCQkJCQkJCWwuaHpzMTBfd3RfZXhpdCwKCQkJCQkJCWwuaHpzMTBfd3RfbWV0YWwsCgkJCQkJCQlsLklERU5USVRZX0ZMRCwKCQkJCQkJCVJPV19OVU1CRVIoKSBvdmVyICgKCQkJCQkJCQlQQVJUSVRJT04gQlkKCQkJCQkJCQlsLmh6czEwX29yZGVyLCBsLmh6czEwX2xpbmUgT1JERVIgQlkgSURFTlRJVFlfRkxEIERFU0MKCQkJCQkJCSkgYXMgX3JvdwoJCQkJCQlGUk9NIHNsLmRiby5oenMxMF9zdXBwbGllcl9vcmRlcl90cmFuc2FjdGlvbl9sbiBhcyBsCgkJCQkJKQoJCQkJCVNFTEVDVAoJCQkJCQlmZy5kb2N1bWVudF9kYXRlCgkJCQkJICxmZy5kb2MKCQkJCQkgLGZnLl9tb250aAoJCQkJCSAsZmcuc3VwcGxpZXIKCQkJCQkgLGZnLnN1cHBsaWVyX2NvZGUKCQkJCQkgLGZnLltvcmRlcl0KCQkJCQkgLGZnLmxpbmUKCQkJCQkgLGZnLnN0eWxlCgkJCQkJICxmZy5xdHkKCQkJCQkgLGZnLmthcmF0CgkJCQkJICxmZy5tYXRlcmlhbAoJCQkJCSAsSUlGKGZnLmdyb3NzX3d0ICE9IDAsIGZnLmdyb3NzX3d0LCBxci5oenMxMF93dF9tZXRhbCkgYXMgZ3Jvc3Nfd3QKCQkJCQkgLENBU0UKCQkJCQkJCVdIRU4gZmcua2FyYXQgPSA5MiBUSEVOIElJRihmZy5ncm9zc193dCAhPSAwLCBmZy5ncm9zc193dCwgcXIuaHpzMTBfd3RfbWV0YWwpICogMC45NAoJCQkJCQkJRUxTRSBJSUYoZmcuZ3Jvc3Nfd3QgIT0gMCwgZmcuZ3Jvc3Nfd3QsIHFyLmh6czEwX3d0X21ldGFsKSAqIDEKCQkJCQkJRU5EIEFTIHd0X2NvbnZlcnQKCQkJCQlGUk9NIGJ1eV9uZXdfZmluaXNoX2dvb2RzIGFzIGZnCgkJCQkJTEVGVCBKT0lOIHFjX3JlY2VpdmUgYXMgcXIKCQkJCQkJT04gcXIuaHpzMTBfb3JkZXIgPSBmZy5bb3JkZXJdIEFORCBxci5oenMxMF9saW5lID0gZmcubGluZQoJCQkJCVdIRVJFIHFyLl9yb3cgPSAxCgkJCQkJCUFORCBmZy5xdHkgIT0gMAoJCQkJCU9SREVSIEJZCgkJCQkJCWZnLmRvY3VtZW50X2RhdGUgQVNDLAoJCQkJCQlmZy5zdXBwbGllciBBU0MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0lUSCBhbGxfbG9jYXRpb25fc2lsX2luaCBBUyAoCiAgU0VMRUNUCiAgICBsLmh6czJfc3RhdHVzCiAgICAsaC5oenMxX29yZGVyX2RhdGUKICAgICxsLmh6czJfc3VwcGxpZXIKICAgICxsLmh6czJfb3JkZXJfbm8KICAgICxsLmh6czJfbGluZQogICAgLGwuaHpzMl9zdHlsZV9jb2RlCiAgICAsbC5oenMyX3F0eV9vcmRlcmVkCiAgICAsYS5hdjBfa2FyYXQKICAgICxhLmF2MF9tZXRhbAogICAgLGwuaHpzMl9sb2NhdGlvbgogICAgLHQudGNuX2xvY2F0aW9uX2Rlc2NyaXB0aW9uCiAgICAsbC5oenMyX2RlbGl2ZXJ5X2RhdGUKICAgICxsLmh6czJfd3RfaXNzdWUKICAgICxDQVNFCiAgICAgIFdIRU4gYS5hdjBfbWV0YWwgPSAnU0lMJyBUSEVOIGwuaHpzMl93dF9pc3N1ZSAqIDAuOTQKICAgICAgRUxTRSBsLmh6czJfd3RfaXNzdWUgKiAxLjAKICAgIEVORCBBUyB3dF9jb252ZXJ0CiAgICBGUk9NIHNsLmRiby5oenMyX3N1cHBsaWVyX29yZGVyX2xuIEFTIGwKICAgIExFRlQgSk9JTiBzbC5kYm8uaHpzMV9zdXBwbGllcl9vcmRlcl9oZHIgQVMgaAogICAgICBPTiBoLkYyXzFoenNfb3JkZXJfbm8gPSBsLmh6czJfb3JkZXJfbm8KICAgIExFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIEFTIGEKICAgICAgT04gYS5hdjBfc3R5bGUgPSBsLmh6czJfc3R5bGVfY29kZQogICAgTEVGVCBKT0lOIHNsLmRiby50Y25fbG9jYXRpb24gQVMgdAogICAgICBPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gbC5oenMyX2xvY2F0aW9uCiAgICBXSEVSRSBoenMyX2NhbmNlbCA9IDAKLS0gICAgICAgQU5EIGEuYXYwX21ldGFsID0gJ1NJTCcKCQkgIEFORCBhLmF2MF9rYXJhdCA9IDkyCiAgICAgIEFORCBsLmh6czJfc3VwcGxpZXIgTElLRSAnSU5ILSUnCiAgICAgIEFORCBsLmh6czJfc3RhdHVzIEJFVFdFRU4gMSBBTkQgMgogICAgICBBTkQgbC5oenMyX2xvY2F0aW9uIE5PVCBJTiAoMCwgMTkpCiksIHNpbF9tYXMgQVMgKApTRUxFQ1QKICBsLmh6czJfc3RhdHVzCiAgLGguaHpzMV9vcmRlcl9kYXRlCiAgLGwuaHpzMl9zdXBwbGllcgogICxsLmh6czJfb3JkZXJfbm8KICAsbC5oenMyX2xpbmUKICAsbC5oenMyX3N0eWxlX2NvZGUKICAsbC5oenMyX3F0eV9vcmRlcmVkCiAgLGEuYXYwX2thcmF0CiAgLGEuYXYwX21ldGFsCiAgLGwuaHpzMl9sb2NhdGlvbgogICx0LnRjbl9sb2NhdGlvbl9kZXNjcmlwdGlvbgogICxsLmh6czJfZGVsaXZlcnlfZGF0ZQogICxsLmh6czJfd3RfaXNzdWUKICAsQ0FTRQogICAgV0hFTiBhLmF2MF9tZXRhbCA9ICdTSUwnIFRIRU4gbC5oenMyX3d0X2lzc3VlICogMC45NAogICAgICBFTFNFIGwuaHpzMl93dF9pc3N1ZSAqIDEuMAogICAgRU5EIEFTIHd0X2NvbnZlcnQKICAgIEZST00gc2wuZGJvLmh6czJfc3VwcGxpZXJfb3JkZXJfbG4gQVMgbAogICAgTEVGVCBKT0lOIHNsLmRiby5oenMxX3N1cHBsaWVyX29yZGVyX2hkciBBUyBoCiAgICAgIE9OIGguRjJfMWh6c19vcmRlcl9ubyA9IGwuaHpzMl9vcmRlcl9ubwogICAgTEVGVCBKT0lOIHNsLmRiby5hdjBfc3R5bGUgQVMgYQogICAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHpzMl9zdHlsZV9jb2RlCiAgICBMRUZUIEpPSU4gc2wuZGJvLnRjbl9sb2NhdGlvbiBBUyB0CiAgICAgIE9OIHQudGNuX2xvY2F0aW9uX2NvZGUgPSBsLmh6czJfbG9jYXRpb24KICBXSEVSRSBoenMyX2NhbmNlbCA9IDAKICAgIEFORCBhLmF2MF9rYXJhdCA9IDkyCiAgICBBTkQgbC5oenMyX3N1cHBsaWVyID0gJ0lOSC1NQVNURVInCiAgICBBTkQgbC5oenMyX3N0YXR1cyBCRVRXRUVOIDEgQU5EIDIKICAgIEFORCBsLmh6czJfbG9jYXRpb24gTk9UIElOICgwLCAxOSkKKSwgY29tYmluZSBBUyAoCiAgU0VMRUNUCiAgICAqCiAgRlJPTSBhbGxfbG9jYXRpb25fc2lsX2luaAogIFVOSU9OCiAgU0VMRUNUCiAgICAqCiAgRlJPTSBzaWxfbWFzCikKU0VMRUNUCiAgU1VNKGMud3RfY29udmVydCkKRlJPTSBjb21iaW5lIGFzIGMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmIGludCh5ZWFyKSA+PSAyMDE5IGFuZCB2YWx1ZVsnX21vbnRoJ10gPj0gNDoKCQkJCQlpZiB2YWx1ZVsnc3VwcGxpZXJfY29kZSddICE9IDk6CgkJCQkJCWFwaVsnYnV5X25ld19maW5pc2hfZ29vZHMnXVtpXSA9IHZhbHVlCgkJCQllbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRfYWxsX21ldGFsX3JlcXVlc3QoKQogICAgewoJCQkkc3FsID0gIgoJCQkJCVNFTEVDVAoJCQkJCQlDT05DQVQoaC5tdHIxX09yZGVyQnksICcgJywgbC50Y25fbG9jYXRpb25fZGVzY3JpcHRpb24pIGFzIFJlcXVlc3RfYnkKCQkJCQkJLGgubXRyMV9PcmRlcgoJCQkJCQksaC5tdHIxX09yZGVyRGF0ZQoJCQkJCQksaC5tdHIxX1JlcXVlc3RXdAoJCQkJCQksaC5tdHIxX0lzc3VlZFd0CgkJCQkJCSxoLm10cjFfTWF0ZXJpYWwKCQkJCQlGUk9NIHNsLmRiby5tdHIxX01hdGVyaWFsUmVxdWVzdF9oZHIgYXMgaAoJCQkJCUxFRlQgSk9JTiBzbC5kYm8udGNuX2xvY2F0aW9uIGFzIGwKCQkJCQkJT04gbC50Y25fbG9jYXRpb25fY29kZSA9IGgubXRyMV9PcmRlckJ5CgkJCQkJV0hFUkUgaC5tdHIxX1N0YXR1cyA9IDEKCQkJCQkJQU5EIGgubXRyMV9PcmRlckJ5ID0gJzQ5MjgnCgkJCQkJCUFORCBoLm10cjFfTWF0ZXJpYWwgSU4gKAoJCQkJCQkJJzknICwnMTQnICwnMTgnCgkJCQkJCQksJzI0JyAsJzkyJyAsJzkyLVdMJwoJCQkJCQkJLCcxMDAnCgkJCQkJKQoJCQkJCW9yZGVyIGJ5IGgubXRyMV9PcmRlckJ5IERFU0MiOwogICAgICAgIAogICAgICAgICRyZXMgPSAkdGhpcy0+c2wtPnF1ZXJ5KCRzcWwpOwogICAgICAgIAogICAgICAgIHJldHVybiAoJHJlcy0+bnVtX3Jvd3MoKSA9PSAwKT8gZmFsc2UgOiAkcmVzLT5yZXN1bHRfYXJyYXkoKSA7CiAgICB9Cg==</text>
+        <text encoding="base64">T1JERVIgQlkKICBjLmh6czJfb3JkZXJfbm8gQVNDLAogIGMuaHpzMl9saW5lIEFTQywKICBjLmh6czJfc3R5bGVfY29kZSBBU0MKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gSW5wcm9kdWN0aW9uIFNVQgpXSVRIIGFsbF9sb2NhdGlvbl9zaWxfc3ViIEFTICgKCVNFTEVDVAoJCWguaHpzMV9zdGF0dXNfb3JkZXIKCQkJICxoLmh6czFfb3JkZXJfZGF0ZQoJCQkgLGwuaHpzMl9zdXBwbGllcgoJCQkgLGwuaHpzMl9vcmRlcl9ubwoJCQkgLGwuaHpzMl9saW5lCgkJCSAsbC5oenMyX3N0eWxlX2NvZGUKCQkJICxsLmh6czJfcXR5X29yZGVyZWQKCQkJICxhLmF2MF9rYXJhdAoJCQkgLGEuYXYwX21ldGFsCgkJCSAsbC5oenMyX2xvY2F0aW9uCgkJCSAsdC50Y25fbG9jYXRpb25fZGVzY3JpcHRpb24KCQkJICxsLmh6czJfZGVsaXZlcnlfZGF0ZQoJCQkgLGwuaHpzMl93dF9pc3N1ZQoJCQkgLENBU0UKCQkJCSAgV0hFTiBhLmF2MF9rYXJhdCA9IDkyIFRIRU4gbC5oenMyX3d0X2lzc3VlICogMC45NAoJCQkJICBFTFNFIGwuaHpzMl93dF9pc3N1ZSAqIDEuMAoJCUVORCBBUyB3dF9jb252ZXJ0CglGUk9NIHNsLi5oenMyX3N1cHBsaWVyX29yZGVyX2xuIEFTIGwKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uaHpzMV9zdXBwbGllcl9vcmRlcl9oZHIgQVMgaAoJCSAgICAgICAgICAgICAgIE9OIGguRjJfMWh6c19vcmRlcl9ubyA9IGwuaHpzMl9vcmRlcl9ubwoJCSAgICAgTEVGVCBKT0lOIHNsLmRiby5hdjBfc3R5bGUgQVMgYQoJCSAgICAgICAgICAgICAgIE9OIGEuYXYwX3N0eWxlID0gbC5oenMyX3N0eWxlX2NvZGUKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8udGNuX2xvY2F0aW9uIEFTIHQKCQkgICAgICAgICAgICAgICBPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gbC5oenMyX2xvY2F0aW9uCglXSEVSRSBoenMyX2NhbmNlbCA9IDAKCQlBTkQgYS5hdjBfa2FyYXQgSU4gKDkyLCAxMDApCikKU0VMRUNUCglTVU0oc2kud3RfY29udmVydCkKRlJPTSBhbGxfbG9jYXRpb25fc2lsX3N1YiBBUyBzaQoJICAgICBMRUZUIEpPSU4gc2wuZGJvLmxraF9jdXN0b21lcl9zdXBwbGllciBhcyBjcwoJICAgICAgICAgICAgICAgT04gY3MubGtoX3Nob3J0X2N1c3RvbWVyX25hbWUgPSBzaS5oenMyX3N1cHBsaWVyCldIRVJFIHNpLmh6czFfc3RhdHVzX29yZGVyIEJFVFdFRU4gMSBBTkQgMgoJQU5EIHNpLmh6czJfc3VwcGxpZXIgIE5PVCBMSUtFICdJTkgtJScKCUFORCBzaS5oenMyX2xvY2F0aW9uIE5PVCBJTiAoMCwgMTkpCglBTkQgY3MubGtoX2N1c3RvbWVyX2NvZGUgTk9UIElOICgKCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQ0NjMsIDkwLCAyMjczLAoJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNTQwLCA5MzIsIDM3NDgsCgkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0MjY5LCA0NjQ5LCAxNDUyLAoJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMzIyLCAzNTkKCSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldF9idXlfbmV3X3NpbF9zdHlsZSgkeWVhciA9IDEsICRtb250aCA9IDEpCiAgICB7CiAgICAgICAgJHNxbCA9ICJFWEVDIHp6X2dldF9kYXRhX2J1eV9uZXdfc2lsX3N0eWxlIEB5ZWFyPXskeWVhcn0sIEBtb250aD17JG1vbnRofSI7CiAgICAgICAgJHJlcyA9ICR0aGlzLT5zbC0+cXVlcnkoJHNxbCk7CiAgICAgICAgcmV0dXJuICgkcmVzLT5udW1fcm93cygpID09IDApPyBmYWxzZSA6ICRyZXMtPnJvdygpLT50b3RhbF93dF9zdHlsZTsKICAgIH0K</text>
+        <text encoding="base64">T1JERVIgQlkKCXNpLmh6czJfc3VwcGxpZXIgQVNDCiAgICAgICAsc2kuaHpzMV9vcmRlcl9kYXRlIEFTQwogICAgICAgLHNpLmh6czJfb3JkZXJfbm8gQVNDCiAgICAgICAsc2kuaHpzMl9saW5lIEFTQwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXNpLioK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldF9xcnlfZ2xkX3NpbCgkbWV0YWwpCiAgICB7CiAgICAgICAgaWYoJG1ldGFsID09ICdHTEQnKToKICAgICAgICAgICAgJHFyeSA9ICIgQU5EIG1zLm1ldGFsX25hbWUgSU4gKCc5JywgJzE0JywgJzE4JywgJzI0JywgJzI0LVRHJywgJzE4UEcnKSI7CiAgICAgICAgZWxzZToKICAgICAgICAgICAgJHFyeSA9ICIgQU5EIG1zLm1ldGFsX25hbWUgSU4gKCc5MicsICcxMDAnKSI7CiAgICAgICAgZW5kaWY7CgogICAgICAgIHJldHVybiAkcXJ5OwogICAgfQo=</text>
+        <text encoding="base64">CTwvc3ludGF4aGlnaGxpZ2h0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT0gUXVlcnkgMiBmb3IgREIgMjMwIChVc2UpPT0KPHN5bnRheGhpZ2hsaWdodCBsYW5nPSJ0c3FsIiBsaW5lPSdsaW5lJz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldF90b3RhbF9naXZlX3N1YigkbWV0YWwgPSBmYWxzZSwgJG1vbnRoID0gMSwgJHllYXIgPSBmYWxzZSkKICAgIHsKICAgICAgICAkdGhpcy0+bG9hZC0+aGVscGVyKCdtYXRlcmlhbF9oZWxwZXInKTsKICAgICAgICAkc3FsID0gZ2V0X3RvdGFsX2dpdmVfc3ViKCR5ZWFyLCAkbW9udGgsICRtZXRhbCk7CiAgICAgICAgJHJlcyA9ICR0aGlzLT5zbC0+cXVlcnkoJHNxbCk7CiAgICAgICAgcmV0dXJuICRyZXMtPnJlc3VsdF9hcnJheSgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -533,6 +536,7 @@
         <entry>ready</entry>
       </history-search>
       <history-cmd>
+        <entry>407</entry>
         <entry>754</entry>
         <entry>26</entry>
         <entry>689</entry>
@@ -551,7 +555,6 @@
         <entry encoding="base64">JzwsJz44OQ==</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e!</entry>
-        <entry>296</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -594,7 +597,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
