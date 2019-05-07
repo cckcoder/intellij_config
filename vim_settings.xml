@@ -103,8 +103,8 @@
         <mark key="." line="412" column="6" />
         <mark key="^" line="412" column="6" />
       </file>
-      <file name="/var/customers/webs/api3/api/main.py" timestamp="1557198636856">
-        <mark key="'" line="18" column="46" />
+      <file name="/var/customers/webs/api3/api/main.py" timestamp="1557198990463">
+        <mark key="'" line="18" column="36" />
         <mark key="[" line="82" column="23" />
         <mark key="]" line="82" column="46" />
       </file>
@@ -247,8 +247,8 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/controller/controller31.py" timestamp="1556002680275">
-        <mark key="'" line="29" column="37" />
+      <file name="/var/customers/webs/controller/controller31.py" timestamp="1557199060390">
+        <mark key="'" line="24" column="22" />
         <mark key="[" line="29" column="18" />
         <mark key="]" line="29" column="45" />
         <mark key="." line="29" column="45" />
@@ -363,8 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="514" column="8" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
-      <jump line="454" column="12" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="497" column="32" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="1483" column="46" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="150" column="11" filename="/var/customers/webs/api3/api/views/general_helper.py" />
@@ -462,14 +460,16 @@
       <jump line="70" column="71" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="0" column="0" filename="$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-916092671/__builtin__.py" />
-      <jump line="18" column="46" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="49" column="36" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="18" column="36" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="24" column="22" filename="/var/customers/webs/controller/controller31.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>{}</text>
       </register>
       <register name="/" type="4">
-        <text>ready</text>
+        <text>get_total</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlXSVRIIGJ1eV9uZXdfZmluaXNoX2dvb2RzIEFTICgKCQkJCQkJU0VMRUNUCgkJCQkJCQl0LnRzZ19kYXRlICAgICAgICBhcyBkb2N1bWVudF9kYXRlLAoJCQkJCQkJdC50c2dfZG9jdW1lbnRfbm8gYXMgZG9jLAoJCQkJCQkJdC50c2dfc3VwcGxpZXIgICAgYXMgc3VwcGxpZXIsCgkJCQkJCQljcy5sa2hfY3VzdG9tZXJfY29kZSBhcyBzdXBwbGllcl9jb2RlLAoJCQkJCQkJdDIudG5nX29yZGVyICAgICAgYXMgJ29yZGVyJywKCQkJCQkJCXQyLnRuZ19saW5lX29yZGVyIGFzICdsaW5lJywKCQkJCQkJCXQyLnRuZ19zdHlsZSAgICAgIGFzICdzdHlsZScsCgkJCQkJCQl0Mi50bmdfcXR5ICAgICAgICBhcyAncXR5JywKCQkJCQkJCWEuYXYwX2thcmF0ICAgICAgIGFzIGthcmF0LAoJCQkJCQkJYS5hdjBfbWV0YWwgICAgICAgYXMgbWF0ZXJpYWwsCgkJCQkJCQl0Mi50bmdfd3RfZ3Jvc3MgICBhcyBncm9zc193dCwKCQkJCQkJCU1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCB0LnRzZ19kYXRlLCAxMDQpKSBhcyBfbW9udGgKCQkJCQkJRlJPTSB0c2cxX2dvbGRfYm9va19kb2NfaGRyIGFzIHQKCQkJCQkJTEVGVCBKT0lOIFNMLmRiby50c2cyX2dvbGRfYm9va19kb2NfbG4gYXMgdDIKCQkJCQkJCU9OIHQyLnRuZ19kb2N1bWVudF9ubyA9IHQudHNnX2RvY3VtZW50X25vCgkJCQkJCUxFRlQgSk9JTiBTTC5kYm8uYXYwX3N0eWxlIGFzIGEKCQkJCQkJCU9OIGEuYXYwX3N0eWxlID0gdDIudG5nX3N0eWxlCgkJCQkJCUxFRlQgSk9JTiBsa2hfY3VzdG9tZXJfc3VwcGxpZXIgYXMgY3MKCQkJCQkJCU9OIGNzLmxraF9zaG9ydF9jdXN0b21lcl9uYW1lID0gdC50c2dfc3VwcGxpZXIKCQkJCQkJV0hFUkUgY3MubGtoX2N1c3RvbWVyX2NvZGUgSU4gKAoJCQkJCQkJMTgyOCwgOTAgLDM4NzcsCgkJCQkJCQkxNDUyICwzMjIgLDU0MCwKCQkJCQkJCTQ0NjMgLDQ2NDkgLDM1OSwKCQkJCQkJCTkKCQkJCQkJKQoJCQkJCQkJQU5EIGEuYXYwX2thcmF0ID0gOTIKCQkJCQkJCUFORCBhLmF2MF9rYXJhdCAhPSAxMDAKCQkJCQkJCUFORCBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCB0LnRzZ19kYXRlLCAxMDQpKSA9IHt9CgkJCQkJCQlBTkQgTk9UIGNzLmxraF9jdXN0b21lcl9jb2RlID0gNzY0CgkJCQkJKSwgcWNfcmVjZWl2ZSBBUyAoCgkJCQkJCVNFTEVDVAoJCQkJCQkJbC5oenMxMF9vcmRlciwKCQkJCQkJCWwuaHpzMTBfbGluZSwKCQkJCQkJCWwuaHpzMTBfd3RfZXhpdCwKCQkJCQkJCWwuaHpzMTBfd3RfbWV0YWwsCgkJCQkJCQlsLklERU5USVRZX0ZMRCwKCQkJCQkJCVJPV19OVU1CRVIoKSBvdmVyICgKCQkJCQkJCQlQQVJUSVRJT04gQlkKCQkJCQkJCQlsLmh6czEwX29yZGVyLCBsLmh6czEwX2xpbmUgT1JERVIgQlkgSURFTlRJVFlfRkxEIERFU0MKCQkJCQkJCSkgYXMgX3JvdwoJCQkJCQlGUk9NIHNsLmRiby5oenMxMF9zdXBwbGllcl9vcmRlcl90cmFuc2FjdGlvbl9sbiBhcyBsCgkJCQkJKQoJCQkJCVNFTEVDVAoJCQkJCQlmZy5kb2N1bWVudF9kYXRlCgkJCQkJICxmZy5kb2MKCQkJCQkgLGZnLl9tb250aAoJCQkJCSAsZmcuc3VwcGxpZXIKCQkJCQkgLGZnLnN1cHBsaWVyX2NvZGUKCQkJCQkgLGZnLltvcmRlcl0KCQkJCQkgLGZnLmxpbmUKCQkJCQkgLGZnLnN0eWxlCgkJCQkJICxmZy5xdHkKCQkJCQkgLGZnLmthcmF0CgkJCQkJICxmZy5tYXRlcmlhbAoJCQkJCSAsSUlGKGZnLmdyb3NzX3d0ICE9IDAsIGZnLmdyb3NzX3d0LCBxci5oenMxMF93dF9tZXRhbCkgYXMgZ3Jvc3Nfd3QKCQkJCQkgLENBU0UKCQkJCQkJCVdIRU4gZmcua2FyYXQgPSA5MiBUSEVOIElJRihmZy5ncm9zc193dCAhPSAwLCBmZy5ncm9zc193dCwgcXIuaHpzMTBfd3RfbWV0YWwpICogMC45NAoJCQkJCQkJRUxTRSBJSUYoZmcuZ3Jvc3Nfd3QgIT0gMCwgZmcuZ3Jvc3Nfd3QsIHFyLmh6czEwX3d0X21ldGFsKSAqIDEKCQkJCQkJRU5EIEFTIHd0X2NvbnZlcnQKCQkJCQlGUk9NIGJ1eV9uZXdfZmluaXNoX2dvb2RzIGFzIGZnCgkJCQkJTEVGVCBKT0lOIHFjX3JlY2VpdmUgYXMgcXIKCQkJCQkJT04gcXIuaHpzMTBfb3JkZXIgPSBmZy5bb3JkZXJdIEFORCBxci5oenMxMF9saW5lID0gZmcubGluZQoJCQkJCVdIRVJFIHFyLl9yb3cgPSAxCgkJCQkJCUFORCBmZy5xdHkgIT0gMAoJCQkJCU9SREVSIEJZCgkJCQkJCWZnLmRvY3VtZW50X2RhdGUgQVNDLAoJCQkJCQlmZy5zdXBwbGllciBBU0MK</text>
@@ -506,17 +506,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ready</last-search>
+      <last-search>get_total</last-search>
       <last-offset />
-      <last-pattern>ready</last-pattern>
+      <last-pattern>get_total</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_detail_location</entry>
         <entry>index</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxnZXRfYWxsX21hdGVyaWFsX3JlcXVlc3RcPg==</entry>
@@ -536,6 +535,7 @@
         <entry encoding="base64">XDxoczFfZGF0ZVw+</entry>
         <entry encoding="base64">XDxzaWxfYnV5X25ld19yYXdfbWF0ZXJpYWxcPg==</entry>
         <entry>ready</entry>
+        <entry>get_total</entry>
       </history-search>
       <history-cmd>
         <entry>754</entry>
@@ -599,7 +599,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
