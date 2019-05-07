@@ -54,10 +54,10 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1557204868282">
+      <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1557219453143">
         <mark key="'" line="497" column="13" />
-        <mark key="[" line="392" column="69" />
-        <mark key="]" line="392" column="86" />
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="460" column="61" />
         <mark key="^" line="695" column="7" />
         <mark key="." line="695" column="7" />
       </file>
@@ -119,8 +119,8 @@
       <file name="/var/customers/webs/api3/api/main.py" timestamp="1557217806941">
         <mark key="'" line="83" column="72" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" timestamp="1557218195828">
-        <mark key="'" line="155" column="29" />
+      <file name="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" timestamp="1557219447988">
+        <mark key="'" line="96" column="56" />
         <mark key="[" line="225" column="49" />
         <mark key="]" line="225" column="56" />
         <mark key="." line="225" column="56" />
@@ -173,11 +173,10 @@
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557214969993">
-        <mark key="[" line="72" column="47" />
-        <mark key="]" line="72" column="54" />
-        <mark key="." line="72" column="54" />
-        <mark key="^" line="72" column="54" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557220669536">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
         <mark key="'" line="94" column="12" />
@@ -381,17 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="71" filename="/var/customers/webs/api3/api/main.py" />
-      <jump line="50" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="74" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="65" column="71" filename="/var/customers/webs/api3/api/main.py" />
-      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
-      <jump line="70" column="71" filename="/var/customers/webs/api3/api/main.py" />
-      <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-916092671/__builtin__.py" />
-      <jump line="49" column="36" filename="/var/customers/webs/api3/api/main.py" />
-      <jump line="18" column="36" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="24" column="22" filename="/var/customers/webs/controller/controller31.py" />
       <jump line="28" column="10" filename="/mnt/sdb1/GMS/application/views/general/stock_reports/stock.php" />
       <jump line="150" column="0" filename="/mnt/sdb1/GMS/application/views/general/stock_reports/stock.php" />
@@ -469,7 +457,6 @@
       <jump line="1430" column="31" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="1410" column="28" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="1408" column="25" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="75" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="94" column="70" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="83" column="72" filename="/var/customers/webs/api3/api/main.py" />
@@ -481,52 +468,64 @@
       <jump line="86" column="19" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="154" column="23" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="155" column="29" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="225" column="56" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="670" column="29" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="227" column="27" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="209" column="34" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="193" column="33" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="195" column="33" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="194" column="34" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="96" column="56" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="14" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="78" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="79" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>70236.34</text>
+        <text>2019</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaWxfYnV5X2ZpbmlzaF9nb29kc1w+</text>
+        <text>pay</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCSR0aGlzLT5zaWxfYnV5X2ZpbmlzaF9nb29kc1szXSA9IDcwMjM2LjM0Owo=</text>
+        <text encoding="base64">CUFORCBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCBoLnRtYV9kYXRlLCAxMDQpKSA9IDIwMTkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0lUSCBsb3NzX3d0IEFTICgKCVNFTEVDVAoJCU1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCB0LnRzZ19kYXRlLCAxMDQpKSBhcyBtb250aAoJCQkgLHQudHNnX2RvY3VtZW50X25vCgkJCSAsdC50c2dfc3VwcGxpZXIKCQkJICx0Mi50bmdfZW50ZXJlbmNlX2xvY2F0aW9uCgkJCSAsYS5hdjBfa2FyYXQKCQkJICx0Mi50bmdfd3RfZ3Jvc3MKCQkJICxDQVNFCgkJCQkgIFdIRU4gYS5hdjBfa2FyYXQgPSA5ICBUSEVOIHQyLnRuZ193dF9ncm9zcyAqIDAuMzg1CgkJCQkgIFdIRU4gYS5hdjBfa2FyYXQgPSAxNCBUSEVOIHQyLnRuZ193dF9ncm9zcyAqIDAuNTkKCQkJCSAgV0hFTiBhLmF2MF9rYXJhdCA9IDE4IFRIRU4gdDIudG5nX3d0X2dyb3NzICogMC43NgoJCQkJICBFTFNFIHQyLnRuZ193dF9ncm9zcyAqIDEuMAoJCUVORCBBUyBjb252ZXJ0X2dsZF8yNAoJRlJPTSB0c2cxX2dvbGRfYm9va19kb2NfaGRyIGFzIHQKCQkgICAgIExFRlQgSk9JTiBTTC5kYm8udHNnMl9nb2xkX2Jvb2tfZG9jX2xuIGFzIHQyCgkJICAgICAgICAgICAgICAgT04gdDIudG5nX2RvY3VtZW50X25vID0gdC50c2dfZG9jdW1lbnRfbm8KCQkgICAgIExFRlQgSk9JTiBTTC5kYm8uYXYwX3N0eWxlIGFzIGEKCQkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IHQyLnRuZ19zdHlsZQoJV0hFUkUgdDIudG5nX2VudGVyZW5jZV9sb2NhdGlvbiBJTiAoODAzNywgODAzOCkKCQlBTkQgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgdC50c2dfZGF0ZSwgMTA0KSkgPSAyMDE5CikKU0VMRUNUCglsdy5tb250aCwKICBsdy4qCkZST00gbG9zc193dCBhcyBsdwpXSEVSRSBsdy5tb250aCA9IDMKCldJVEggZ2xkX2ludm9pY2UgQVMgKAogIFNFTEVDVAogICAgaC5GMV9oczFfc3RhdHVzCiAgICAsaC5oczFfZGF0ZQogICAgLGwuW2hzMl9pbnZvaWNlX25vXQogICAgLGguaHMxX2N1c3RvbWVyCiAgICAsbC5baHMyX2xpbmVdCiAgICAsbC5baHMyX3N0eWxlXQogICAgLGwuaHMyX3F0eV9pdGVtCiAgICAsYS5hdjBfd2VpZ2h0IGFzIGJvbV93ZWlnaHQKICAgICxhLmF2MF9rYXJhdAogICAgLGEuYXYwX21ldGFsCiAgICAsSUlGKGwuaHMyX3d0X2ludm9pY2UgPSAwLCBsLmhzMl9xdHlfaXRlbSAqIGEuYXYwX3dlaWdodCwgbC5oczJfd3RfaW52b2ljZSkgYXMgd3RfaW52b2ljZQogICAgLGwuW2hzMl9saW5lX2tpbmRdCiAgRlJPTSBbU0xdLltkYm9dLltoczJfaW52b2ljZV9sbl0gQVMgbAogIExFRlQgSk9JTiBbU0xdLltkYm9dLltoczFfaW52b2ljZV9oZHJdIEFTIGgKICAgIE9OICBoLltoczFfaW52b2ljZV0gPSBsLltoczJfaW52b2ljZV9ub10KICBMRUZUIEpPSU4gc2wuZGJvLmF2MF9zdHlsZSBhcyBhCiAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHMyX3N0eWxlCldIRVJFIGEuYXYwX21ldGFsIExJS0UgJzklJwpPUiBhLmF2MF9tZXRhbCBMSUtFICcxNCUnCk9SIGEuYXYwX21ldGFsIExJS0UgJzE4JScKT1IgYS5hdjBfbWV0YWwgTElLRSAnMjQlJwopClNFTEVDVAoqCkZST00gZ2xkX2ludm9pY2UgYXMgZ2kKV0hFUkUgZ2kuaHMyX2xpbmVfa2luZCA9ICdPJwogIEFORCBnaS5oczJfaW52b2ljZV9ubyA8IDAKICBBTkQgZ2kuaHMyX2ludm9pY2Vfbm8gSVMgTk9UIE5VTEwKICBBTkQgZ2kuaHMxX2N1c3RvbWVyIElTIE5PVCBOVUxMCgpTRUxFQ1QKICBsLnRuZ19kYXRlLAogIGwudG5nX2RvY3VtZW50X25vLAogIGwudG5nX2xpbmUsCiAgbC50bmdfc3VwcGxpZXIsCiAgbC50bmdfc3R5bGUsCiAgbC50bmdfd3RfZ3Jvc3MKRlJPTSBzbC5kYm8udHNnMV9nb2xkX2Jvb2tfZG9jX2hkciBhcyBoCkxFRlQgSk9JTiBzbC5kYm8udHNnMl9nb2xkX2Jvb2tfZG9jX2xuIGFzIGwKICBPTiBsLnRuZ19kb2N1bWVudF9ubyA9IGgudHNnX2RvY3VtZW50X25vCkxFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIGFzIGEKICBPTiBhLmF2MF9zdHlsZSA9IGwudG5nX3N0eWxlCkxFRlQgSk9JTiBzbC5kYm8ubWxrX2N1c3RvbWVyX2ZpbmFuY2lhbF9zdGF0dXMgYXMgbQogIE9OIG0ubWxrX3JlZmVyZW5jZV9udW1yaWMgPSBsLnRuZ19kb2N1bWVudF9ubwpXSEVSRSBoLnRzZ19mcm9tX3VudGlsX2xvY2F0aW9uID0gMjAKICBBTkQgYS5hdjBfa2FyYXQgPSAxMDAKICBBTkQgbC50bmdfZW50ZXJlbmNlX2V4aXRfZ29sZCA9ICdJJwogIEFORCBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCBtLm1sa192YWx1ZV9kYXRlLCAxMDQpKSA9IDIwMTkKICBBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIG0ubWxrX3ZhbHVlX2RhdGUsIDEwNCkpID0gNApPUkRFUiBCWSBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgaC50c2dfZGF0ZSwgMTA0KSkgQVNDCgpXSVRIIHNpbF9yZWFkeV9zaGlwIEFTICgKCVNFTEVDVAoJCWguRjFfaHMxX3N0YXR1cwoJCQkgLGguaHMxX2RhdGUKCQkJICxsLltoczJfaW52b2ljZV9ub10KCQkJICxoLmhzMV9jdXN0b21lcgoJCQkgLGwuW2hzMl9saW5lXQoJCQkgLGwuW2hzMl9zdHlsZV0KCQkJICxsLmhzMl9xdHlfaXRlbQoJCQkgLGEuYXYwX3dlaWdodCBhcyBib21fd2VpZ2h0CgkJCSAsYS5hdjBfa2FyYXQKCQkJICxhLmF2MF9tZXRhbAoJCQkgLElJRihsLmhzMl93dF9pbnZvaWNlID0gMCwgbC5oczJfcXR5X2l0ZW0gKiBhLmF2MF93ZWlnaHQsIGwuaHMyX3d0X2ludm9pY2UpIGFzIHd0X2ludm9pY2UKCQkJICxsLltoczJfbGluZV9raW5kXQoJRlJPTSBbU0xdLltkYm9dLltoczJfaW52b2ljZV9sbl0gQVMgbAoJCSAgICAgTEVGVCBKT0lOIFtTTF0uW2Rib10uW2hzMV9pbnZvaWNlX2hkcl0gQVMgaAoJCSAgICAgICAgICAgICAgIE9OICBoLltoczFfaW52b2ljZV0gPSBsLltoczJfaW52b2ljZV9ub10KCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIGFzIGEKCQkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHMyX3N0eWxlCglXSEVSRSBhLmF2MF9rYXJhdCBJTiAoOTIsIDEwMCkKKQpTRUxFQ1QKCVNVTShzaS53dF9pbnZvaWNlICogMC45NCkKLS0gCXNpLioKLS0gCQkgLENBU0UKLS0gCQkJICBXSEVOIHNpLmF2MF9rYXJhdCA9IDkyICBUSEVOIHNpLnd0X2ludm9pY2UgKiAwLjk0Ci0tIAkJCSAgRUxTRSBzaS53dF9pbnZvaWNlICogMS4wCi0tIAlFTkQgQVMgd3RfY29udmVydApGUk9NIHNpbF9yZWFkeV9zaGlwIGFzIHNpCldIRVJFIHNpLmhzMl9saW5lX2tpbmQgPSAnTycKCUFORCBzaS5oczJfaW52b2ljZV9ubyA8IDAKCUFORCBzaS5oczJfaW52b2ljZV9ubyBJUyBOT1QgTlVMTAoJQU5EIHNpLmhzMV9jdXN0b21lciBJUyBOT1QgTlVMTAo=</text>
+        <text encoding="base64">V0lUSCBhbGxfbG9jYXRpb25fc2lsX2luaCBBUyAoCglTRUxFQ1QKCQlsLmh6czJfc3RhdHVzCgkJCSAsaC5oenMxX29yZGVyX2RhdGUKCQkJICxsLmh6czJfc3VwcGxpZXIKCQkJICxsLmh6czJfb3JkZXJfbm8KCQkJICxsLmh6czJfbGluZQoJCQkgLGwuaHpzMl9zdHlsZV9jb2RlCgkJCSAsbC5oenMyX3F0eV9vcmRlcmVkCgkJCSAsYS5hdjBfa2FyYXQKCQkJICxhLmF2MF9tZXRhbAoJCQkgLGwuaHpzMl9sb2NhdGlvbgoJCQkgLHQudGNuX2xvY2F0aW9uX2Rlc2NyaXB0aW9uCgkJCSAsbC5oenMyX2RlbGl2ZXJ5X2RhdGUKCQkJICxsLmh6czJfd3RfaXNzdWUKCQkJICxDQVNFCgkJCQkgIFdIRU4gYS5hdjBfbWV0YWwgPSAnU0lMJyBUSEVOIGwuaHpzMl93dF9pc3N1ZSAqIDAuOTQKCQkJCSAgRUxTRSBsLmh6czJfd3RfaXNzdWUgKiAxLjAKCQlFTkQgQVMgd3RfY29udmVydAoJRlJPTSBzbC5kYm8uaHpzMl9zdXBwbGllcl9vcmRlcl9sbiBBUyBsCgkJICAgICBMRUZUIEpPSU4gc2wuZGJvLmh6czFfc3VwcGxpZXJfb3JkZXJfaGRyIEFTIGgKCQkgICAgICAgICAgICAgICBPTiBoLkYyXzFoenNfb3JkZXJfbm8gPSBsLmh6czJfb3JkZXJfbm8KCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIEFTIGEKCQkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHpzMl9zdHlsZV9jb2RlCgkJICAgICBMRUZUIEpPSU4gc2wuZGJvLnRjbl9sb2NhdGlvbiBBUyB0CgkJICAgICAgICAgICAgICAgT04gdC50Y25fbG9jYXRpb25fY29kZSA9IGwuaHpzMl9sb2NhdGlvbgoJV0hFUkUgaHpzMl9jYW5jZWwgPSAwCgkJQU5EIGEuYXYwX21ldGFsID0gJ1NJTCcKCQlBTkQgbC5oenMyX3N1cHBsaWVyIExJS0UgJ0lOSC0lJwoJCUFORCBsLmh6czJfc3RhdHVzIEJFVFdFRU4gMSBBTkQgMgoJCUFORCBsLmh6czJfbG9jYXRpb24gTk9UIElOICgwLCAxOSkKKSwgc2lsX21hcyBBUyAoCglTRUxFQ1QKCQlsLmh6czJfc3RhdHVzCgkJCSAsaC5oenMxX29yZGVyX2RhdGUKCQkJICxsLmh6czJfc3VwcGxpZXIKCQkJICxsLmh6czJfb3JkZXJfbm8KCQkJICxsLmh6czJfbGluZQoJCQkgLGwuaHpzMl9zdHlsZV9jb2RlCgkJCSAsbC5oenMyX3F0eV9vcmRlcmVkCgkJCSAsYS5hdjBfa2FyYXQKCQkJICxhLmF2MF9tZXRhbAoJCQkgLGwuaHpzMl9sb2NhdGlvbgoJCQkgLHQudGNuX2xvY2F0aW9uX2Rlc2NyaXB0aW9uCgkJCSAsbC5oenMyX2RlbGl2ZXJ5X2RhdGUKCQkJICxsLmh6czJfd3RfaXNzdWUKCQkJICxDQVNFCgkJCQkgIFdIRU4gYS5hdjBfbWV0YWwgPSAnU0lMJyBUSEVOIGwuaHpzMl93dF9pc3N1ZSAqIDAuOTQKCQkJCSAgRUxTRSBsLmh6czJfd3RfaXNzdWUgKiAxLjAKCQlFTkQgQVMgd3RfY29udmVydAoJRlJPTSBzbC5kYm8uaHpzMl9zdXBwbGllcl9vcmRlcl9sbiBBUyBsCgkJICAgICBMRUZUIEpPSU4gc2wuZGJvLmh6czFfc3VwcGxpZXJfb3JkZXJfaGRyIEFTIGgKCQkgICAgICAgICAgICAgICBPTiBoLkYyXzFoenNfb3JkZXJfbm8gPSBsLmh6czJfb3JkZXJfbm8KCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIEFTIGEKCQkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHpzMl9zdHlsZV9jb2RlCgkJICAgICBMRUZUIEpPSU4gc2wuZGJvLnRjbl9sb2NhdGlvbiBBUyB0CgkJICAgICAgICAgICAgICAgT04gdC50Y25fbG9jYXRpb25fY29kZSA9IGwuaHpzMl9sb2NhdGlvbgoJV0hFUkUgaHpzMl9jYW5jZWwgPSAwCgkJQU5EIGEuYXYwX2thcmF0ID0gOTIKCQlBTkQgbC5oenMyX3N1cHBsaWVyID0gJ0lOSC1NQVNURVInCgkJQU5EIGwuaHpzMl9zdGF0dXMgQkVUV0VFTiAxIEFORCAyCgkJQU5EIGwuaHpzMl9sb2NhdGlvbiBOT1QgSU4gKDAsIDE5KQopLCBjb21iaW5lIEFTICgKCVNFTEVDVAoJCSoKCUZST00gYWxsX2xvY2F0aW9uX3NpbF9pbmgKCVVOSU9OCglTRUxFQ1QKCQkqCglGUk9NIHNpbF9tYXMKKQpTRUxFQ1QKICBDT05DQVQoYy5oenMyX29yZGVyX25vLCAnLScsIGMuaHpzMl9saW5lKSBhcyB3X2NvbmNhdAoJLGMuKgotLSAJU1VNKGMud3RfY29udmVydCkKRlJPTSBjb21iaW5lIGFzIGMKCgoKU0VMRUNUCi0tIAlNT05USChUUllfQ09OVkVSVChEQVRFVElNRSxoLnRtYV9kYXRlLCAxMDQpKSBhcyBfbW9udGgKLS0gCQkgLFNVTShsLnRtYl93dF9ncm9zc19wcm9wZXIpIGFzIHd0X2dyb3NzCglsLioKRlJPTSB0bWFfdHJhbnNmZXJfZG9jX2hkciBhcyBoCgkgICAgIExFRlQgSk9JTiB0Y25fbG9jYXRpb24gQVMgdAoJICAgICAgICAgICAgICAgT04gdC50Y25fbG9jYXRpb25fY29kZSA9IGgudG1hX3VudGlsX2xvY2F0aW9uCgkgICAgIExFRlQgSk9JTiB0bWJfdHJhbnNmZXJfZG9jX2xuIEFTIGwKCSAgICAgICAgICAgICAgIE9OIGwudG1iX2RvY3VtZW50ID0gaC50bWFfZG9jdW1lbnQKCSAgICAgTEVGVCBKT0lOIGF2MF9zdHlsZSBBUyBhCgkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IGwudG1iX2ZpbmRpbmdfc3R5bGVfY29kZQpXSEVSRSBoLnRtYV9mcm9tX2xvY2F0aW9uID0gMjAKCUFORCBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCBoLnRtYV9kYXRlLCAxMDQpKSA9IDIwMTkKLS0gCUFORCBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgaC50bWFfZGF0ZSwgMTA0KSkgPSA0CglBTkQgYS5hdjBfa2FyYXQgPSAxMDAKCUFORCBoLnRtYV91bnRpbF9sb2NhdGlvbiBOT1QgSU4gKAoJNTMxNSwgNTA3NwoJKQoJQU5EIGgudG1hX2RvY3VtZW50ID0gOTE2NjQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCQllbnRlcl9kYXRlCg==</text>
+        <text encoding="base64">ICBoLnRtYV9kYXRlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CVNVTShhX2luaC53dF9jb252ZXJ0KQo=</text>
+        <text encoding="base64">R1JPVVAgQlkKCU1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLGgudG1hX2RhdGUsIDEwNCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CVdIRVJFIERBWShUUllfQ09OVkVSVChEQVRFVElNRSwgYV9pbmguZW50ZXJfZGF0ZSwgMTAzKSkgPSAoU0VMRUNUIGx0LkRBWSBGUk9NIGxhdGVzdF90cmFuIEFTIGx0KQo=</text>
+        <text encoding="base64">V0lUSCBsb3NzX3d0IEFTICgKCVNFTEVDVAoJCU1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCB0LnRzZ19kYXRlLCAxMDQpKSBhcyBtb250aAoJCQkgLHQudHNnX2RvY3VtZW50X25vCgkJCSAsdC50c2dfc3VwcGxpZXIKCQkJICx0Mi50bmdfZW50ZXJlbmNlX2xvY2F0aW9uCgkJCSAsYS5hdjBfa2FyYXQKCQkJICx0Mi50bmdfd3RfZ3Jvc3MKCQkJICxDQVNFCgkJCQkgIFdIRU4gYS5hdjBfa2FyYXQgPSA5ICBUSEVOIHQyLnRuZ193dF9ncm9zcyAqIDAuMzg1CgkJCQkgIFdIRU4gYS5hdjBfa2FyYXQgPSAxNCBUSEVOIHQyLnRuZ193dF9ncm9zcyAqIDAuNTkKCQkJCSAgV0hFTiBhLmF2MF9rYXJhdCA9IDE4IFRIRU4gdDIudG5nX3d0X2dyb3NzICogMC43NgoJCQkJICBFTFNFIHQyLnRuZ193dF9ncm9zcyAqIDEuMAoJCUVORCBBUyBjb252ZXJ0X2dsZF8yNAoJRlJPTSB0c2cxX2dvbGRfYm9va19kb2NfaGRyIGFzIHQKCQkgICAgIExFRlQgSk9JTiBTTC5kYm8udHNnMl9nb2xkX2Jvb2tfZG9jX2xuIGFzIHQyCgkJICAgICAgICAgICAgICAgT04gdDIudG5nX2RvY3VtZW50X25vID0gdC50c2dfZG9jdW1lbnRfbm8KCQkgICAgIExFRlQgSk9JTiBTTC5kYm8uYXYwX3N0eWxlIGFzIGEKCQkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IHQyLnRuZ19zdHlsZQoJV0hFUkUgdDIudG5nX2VudGVyZW5jZV9sb2NhdGlvbiBJTiAoODAzNywgODAzOCkKCQlBTkQgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgdC50c2dfZGF0ZSwgMTA0KSkgPSAyMDE5CikKU0VMRUNUCglsdy5tb250aCwKICBsdy4qCkZST00gbG9zc193dCBhcyBsdwpXSEVSRSBsdy5tb250aCA9IDMKCldJVEggZ2xkX2ludm9pY2UgQVMgKAogIFNFTEVDVAogICAgaC5GMV9oczFfc3RhdHVzCiAgICAsaC5oczFfZGF0ZQogICAgLGwuW2hzMl9pbnZvaWNlX25vXQogICAgLGguaHMxX2N1c3RvbWVyCiAgICAsbC5baHMyX2xpbmVdCiAgICAsbC5baHMyX3N0eWxlXQogICAgLGwuaHMyX3F0eV9pdGVtCiAgICAsYS5hdjBfd2VpZ2h0IGFzIGJvbV93ZWlnaHQKICAgICxhLmF2MF9rYXJhdAogICAgLGEuYXYwX21ldGFsCiAgICAsSUlGKGwuaHMyX3d0X2ludm9pY2UgPSAwLCBsLmhzMl9xdHlfaXRlbSAqIGEuYXYwX3dlaWdodCwgbC5oczJfd3RfaW52b2ljZSkgYXMgd3RfaW52b2ljZQogICAgLGwuW2hzMl9saW5lX2tpbmRdCiAgRlJPTSBbU0xdLltkYm9dLltoczJfaW52b2ljZV9sbl0gQVMgbAogIExFRlQgSk9JTiBbU0xdLltkYm9dLltoczFfaW52b2ljZV9oZHJdIEFTIGgKICAgIE9OICBoLltoczFfaW52b2ljZV0gPSBsLltoczJfaW52b2ljZV9ub10KICBMRUZUIEpPSU4gc2wuZGJvLmF2MF9zdHlsZSBhcyBhCiAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHMyX3N0eWxlCldIRVJFIGEuYXYwX21ldGFsIExJS0UgJzklJwpPUiBhLmF2MF9tZXRhbCBMSUtFICcxNCUnCk9SIGEuYXYwX21ldGFsIExJS0UgJzE4JScKT1IgYS5hdjBfbWV0YWwgTElLRSAnMjQlJwopClNFTEVDVAoqCkZST00gZ2xkX2ludm9pY2UgYXMgZ2kKV0hFUkUgZ2kuaHMyX2xpbmVfa2luZCA9ICdPJwogIEFORCBnaS5oczJfaW52b2ljZV9ubyA8IDAKICBBTkQgZ2kuaHMyX2ludm9pY2Vfbm8gSVMgTk9UIE5VTEwKICBBTkQgZ2kuaHMxX2N1c3RvbWVyIElTIE5PVCBOVUxMCgpTRUxFQ1QKICBsLnRuZ19kYXRlLAogIGwudG5nX2RvY3VtZW50X25vLAogIGwudG5nX2xpbmUsCiAgbC50bmdfc3VwcGxpZXIsCiAgbC50bmdfc3R5bGUsCiAgbC50bmdfd3RfZ3Jvc3MKRlJPTSBzbC5kYm8udHNnMV9nb2xkX2Jvb2tfZG9jX2hkciBhcyBoCkxFRlQgSk9JTiBzbC5kYm8udHNnMl9nb2xkX2Jvb2tfZG9jX2xuIGFzIGwKICBPTiBsLnRuZ19kb2N1bWVudF9ubyA9IGgudHNnX2RvY3VtZW50X25vCkxFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIGFzIGEKICBPTiBhLmF2MF9zdHlsZSA9IGwudG5nX3N0eWxlCkxFRlQgSk9JTiBzbC5kYm8ubWxrX2N1c3RvbWVyX2ZpbmFuY2lhbF9zdGF0dXMgYXMgbQogIE9OIG0ubWxrX3JlZmVyZW5jZV9udW1yaWMgPSBsLnRuZ19kb2N1bWVudF9ubwpXSEVSRSBoLnRzZ19mcm9tX3VudGlsX2xvY2F0aW9uID0gMjAKICBBTkQgYS5hdjBfa2FyYXQgPSAxMDAKICBBTkQgbC50bmdfZW50ZXJlbmNlX2V4aXRfZ29sZCA9ICdJJwogIEFORCBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCBtLm1sa192YWx1ZV9kYXRlLCAxMDQpKSA9IDIwMTkKICBBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIG0ubWxrX3ZhbHVlX2RhdGUsIDEwNCkpID0gNApPUkRFUiBCWSBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgaC50c2dfZGF0ZSwgMTA0KSkgQVNDCgpXSVRIIHNpbF9yZWFkeV9zaGlwIEFTICgKCVNFTEVDVAoJCWguRjFfaHMxX3N0YXR1cwoJCQkgLGguaHMxX2RhdGUKCQkJICxsLltoczJfaW52b2ljZV9ub10KCQkJICxoLmhzMV9jdXN0b21lcgoJCQkgLGwuW2hzMl9saW5lXQoJCQkgLGwuW2hzMl9zdHlsZV0KCQkJICxsLmhzMl9xdHlfaXRlbQoJCQkgLGEuYXYwX3dlaWdodCBhcyBib21fd2VpZ2h0CgkJCSAsYS5hdjBfa2FyYXQKCQkJICxhLmF2MF9tZXRhbAoJCQkgLElJRihsLmhzMl93dF9pbnZvaWNlID0gMCwgbC5oczJfcXR5X2l0ZW0gKiBhLmF2MF93ZWlnaHQsIGwuaHMyX3d0X2ludm9pY2UpIGFzIHd0X2ludm9pY2UKCQkJICxsLltoczJfbGluZV9raW5kXQoJRlJPTSBbU0xdLltkYm9dLltoczJfaW52b2ljZV9sbl0gQVMgbAoJCSAgICAgTEVGVCBKT0lOIFtTTF0uW2Rib10uW2hzMV9pbnZvaWNlX2hkcl0gQVMgaAoJCSAgICAgICAgICAgICAgIE9OICBoLltoczFfaW52b2ljZV0gPSBsLltoczJfaW52b2ljZV9ub10KCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIGFzIGEKCQkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHMyX3N0eWxlCglXSEVSRSBhLmF2MF9rYXJhdCBJTiAoOTIsIDEwMCkKKQpTRUxFQ1QKCVNVTShzaS53dF9pbnZvaWNlICogMC45NCkKLS0gCXNpLioKLS0gCQkgLENBU0UKLS0gCQkJICBXSEVOIHNpLmF2MF9rYXJhdCA9IDkyICBUSEVOIHNpLnd0X2ludm9pY2UgKiAwLjk0Ci0tIAkJCSAgRUxTRSBzaS53dF9pbnZvaWNlICogMS4wCi0tIAlFTkQgQVMgd3RfY29udmVydApGUk9NIHNpbF9yZWFkeV9zaGlwIGFzIHNpCldIRVJFIHNpLmhzMl9saW5lX2tpbmQgPSAnTycKCUFORCBzaS5oczJfaW52b2ljZV9ubyA8IDAKCUFORCBzaS5oczJfaW52b2ljZV9ubyBJUyBOT1QgTlVMTAoJQU5EIHNpLmhzMV9jdXN0b21lciBJUyBOT1QgTlVMTAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlBTkQgREFZKFRSWV9DT05WRVJUKERBVEVUSU1FLCBlbnRlcl9kYXRlLCAxMDQpKSA9IDMK</text>
+        <text encoding="base64">CQkJCQkJCQllbnRlcl9kYXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V0hFUkUgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CUFORCBhX2luaC5fcm93ID0gMQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CVNVTShhX2luaC53dF9jb252ZXJ0KQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CVdIRVJFIERBWShUUllfQ09OVkVSVChEQVRFVElNRSwgYV9pbmguZW50ZXJfZGF0ZSwgMTAzKSkgPSAoU0VMRUNUIGx0LkRBWSBGUk9NIGxhdGVzdF90cmFuIEFTIGx0KQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlBTkQgREFZKFRSWV9DT05WRVJUKERBVEVUSU1FLCBlbnRlcl9kYXRlLCAxMDQpKSA9IDMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">T1JERVIgQlkKCWMuaHpzMl9vcmRlcl9ubyBBU0MsCgljLmh6czJfbGluZSBBU0MsCgljLmh6czJfc3R5bGVfY29kZSBBU0MK</text>
+        <text encoding="base64">V0hFUkUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaWxfYnV5X2ZpbmlzaF9nb29kc1w+</last-search>
+      <last-search>pay</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaWxfYnV5X2ZpbmlzaF9nb29kc1w+</last-pattern>
+      <last-pattern>pay</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -534,7 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWx1ZV9zdGtfbWF0ZXJpYWxcPg==</entry>
         <entry encoding="base64">XDxnZXRfYnV5X25ld19maW5pc2hfZ29vZHNcPg==</entry>
         <entry encoding="base64">XDxmaW5pc2hfZ29vZHNcPg==</entry>
         <entry>buy_new</entry>
@@ -554,6 +552,7 @@
         <entry encoding="base64">XDxpbnZlbnRvcnlcPg==</entry>
         <entry encoding="base64">XDxzaWxfaW5oX3ZhbHVlXD4=</entry>
         <entry encoding="base64">XDxzaWxfYnV5X2ZpbmlzaF9nb29kc1w+</entry>
+        <entry>pay</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
