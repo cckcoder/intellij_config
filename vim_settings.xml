@@ -195,7 +195,6 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1556867350015" />
       <file name="/silver_monthly_report.py" timestamp="1556873206098">
         <mark key="'" line="936" column="7" />
         <mark key="[" line="890" column="0" />
@@ -597,7 +596,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
