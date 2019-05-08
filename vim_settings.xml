@@ -79,12 +79,12 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1557301258519">
-        <mark key="'" line="675" column="18" />
-        <mark key="[" line="683" column="4" />
-        <mark key="]" line="683" column="4" />
-        <mark key="." line="683" column="4" />
-        <mark key="^" line="683" column="15" />
+      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1557302003530">
+        <mark key="'" line="653" column="0" />
+        <mark key="[" line="684" column="20" />
+        <mark key="]" line="685" column="14" />
+        <mark key="." line="685" column="14" />
+        <mark key="^" line="685" column="14" />
       </file>
       <file name="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" timestamp="1557201604690">
         <mark key="'" line="194" column="50" />
@@ -181,9 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="19" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="0" column="0" filename="/f2e83909/4d0a6c2a-9183-469d-8942-030d3354f1a2/database/SL/schema/dbo/routine/zz_get_stock.sql" />
-      <jump line="13" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="51" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="306" column="14" filename="/var/customers/webs/controller/models/yz3_stock.py" />
       <jump line="327" column="0" filename="/var/customers/webs/controller/models/yz3_stock.py" />
@@ -274,51 +271,53 @@
       <jump line="79" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="1596" column="11" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
-      <jump line="674" column="19" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="675" column="18" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="1594" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="41" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="1640" column="12" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="1632" column="10" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="384" column="17" filename="/gold_monthly_report.py" />
+      <jump line="674" column="23" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="797" column="18" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="1885" column="4" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="653" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>print(target)</text>
+        <text>print(i)</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQl0XzI0ID0gdGFyZ2V0XzI0KHNlbGYuY29uZiwgeWVhciwgbW9udGgpCgkJaWYgdF8yNFswXVsneXoyX2VudGVyZW5jZV9leGl0X2ZpbmRpbmcnXSAhPSAnTyc6CgkJCXRhcmdldCArPSB0XzI0WzBdWyd3dF9jb252ZXJ0J10K</text>
+      <register name="0" type="4">
+        <text>sortedcontainers.SortedDict(),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIGgudG1hX2RhdGUsIDEwNCkpID0gMwo=</text>
+        <text encoding="base64">ICAgICAgJ3RhcmdldF9kZXRhaWwnOiBzb3J0ZWRjb250YWluZXJzLnNvcnRlZGRpY3QoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCVdJVEggdGFyZ2V0XzI0IEFTICgKCQkJCQlTRUxFQ1QKCQkJCQkJaC50bWFfZG9jdW1lbnQsCgkJCQkJCWgudG1hX2RhdGUsCgkJCQkJCWgudG1hX2Zyb21fbG9jYXRpb24sCgkJCQkJCWgudG1hX3VudGlsX2xvY2F0aW9uLAoJCQkJCQlmLnl6Ml9lbnRlcmVuY2VfZXhpdF9maW5kaW5nLAoJCQkJCQl0LnRjbl9sb2NhdGlvbl9kZXNjcmlwdGlvbiwKCQkJCQkJbC50bWJfZmluZGluZ19zdHlsZV9jb2RlLAoJCQkJCQloLnRtYV9jb21tZW50LAoJCQkJCQlsLnRtYl93dF9ncm9zc19wcm9wZXIsCgkJCQkJCWYuSURFTlRJVFlfRkxELAoJCQkJCQlST1dfTlVNQkVSKCkgb3ZlciAoCgkJCQkJCQlQQVJUSVRJT04gQlkKCQkJCQkJCWEuYXYwX2thcmF0CgkJCQkJCQlPUkRFUiBCWSBmLklERU5USVRZX0ZMRCBERVNDCgkJCQkJCQkpIEFTIF9yb3csCgkJCQkJCUNBU0UKCQkJCQkJCVdIRU4gYS5hdjBfa2FyYXQgPSAxOCBUSEVOICBJU05VTEwobC50bWJfd3RfZ3Jvc3NfcHJvcGVyICogMC43NiwwKQoJCQkJCQkJRUxTRSBJU05VTEwobC50bWJfd3RfZ3Jvc3NfcHJvcGVyLDApICogMS4wCgkJCQkJCQlFTkQgd3RfY29udmVydAoJCQkJCUZST00gdG1hX3RyYW5zZmVyX2RvY19oZHIgYXMgaAoJCQkJCUxFRlQgSk9JTiB0Y25fbG9jYXRpb24gQVMgdAoJCQkJCQlPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gaC50bWFfdW50aWxfbG9jYXRpb24KCQkJCQlMRUZUIEpPSU4gdG1iX3RyYW5zZmVyX2RvY19sbiBBUyBsCgkJCQkJCU9OIGwudG1iX2RvY3VtZW50ID0gaC50bWFfZG9jdW1lbnQKCQkJCQlMRUZUIEpPSU4gYXYwX3N0eWxlIEFTIGEKCQkJCQkJT04gYS5hdjBfc3R5bGUgPSBsLnRtYl9maW5kaW5nX3N0eWxlX2NvZGUKCQkJCQlMRUZUIEpPSU4gc2wuZGJvLkYzMzBfMTQwcHJldmlvdXNfdHJhbnNhY3Rpb25fZmluZGluZyBhcyBmCgkJCQkJCU9OIGYueXoyX2RvY3VtZW50X25vID0gaC50bWFfZG9jdW1lbnQgYW5kIGYueXoyX2xvY2F0aW9uID0gODAzMAoJCQkJCVdIRVJFIGEuYXYwX2thcmF0ID0gMjQKCQkJCQkJQU5EIFlFQVIoVFJZX0NPTlZFUlQoREFURVRJTUUsIGgudG1hX2RhdGUsIDEwNCkpID0ge30KCQkJCQkJQU5EIE1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCBoLnRtYV9kYXRlLCAxMDQpKSA9IHt9CgkJCQkJCUFORCAoaC50bWFfZnJvbV9sb2NhdGlvbiA9IDgwMzAgb3IgaC50bWFfdW50aWxfbG9jYXRpb24gPSA4MDMwKQoJCQkJKQoJCQkJU0VMRUNUCgkJCQkJKgoJCQkJRlJPTSB0YXJnZXRfMjQKCQkJCVdIRVJFIF9yb3cgPSAxCg==</text>
+        <text encoding="base64">ICAgICAgYXBpWyd0YXJnZXRfZGV0YWlsJ10gPSB0XzE4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WwoKXQo=</text>
+        <text encoding="base64">CSAgICBmb3IK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRhcmdldF8yNChjb25mLCB5ZWFyLCBtb250aCk6Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQodF8xOCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcHJpbnQoImhlbGxvIikK</text>
+        <text encoding="base64">ICAgICAgJ3RhcmdldF9kZXRhaWwnOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkjIHByaW50KHRfMjRbMF1bJ3l6Ml9lbnRlcmVuY2VfZXhpdF9maW5kaW5nJ10pCg==</text>
+        <text encoding="base64">ICAgICAgJ3RhcmdldF9kZXRhaWwnOiBzb3J0ZWRjb250YWluZXJzLnNvcnRlZGRpY3QoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludCh0XzI0LmluZCkK</text>
+        <text encoding="base64">ICAgIHllYXIgPSByZXEuZ2V0X3BhcmFtKCd5ZWFyJykgaWYgcmVxLmdldF9wYXJhbSgneWVhcicpIGVsc2UgZGF0ZXRpbWUudG9kYXkoKS5zdHJmdGltZSgnJVknKQogICAgbSA9IHJlcS5nZXRfcGFyYW0oJ21vbnRoJykgaWYgcmVxLmdldF9wYXJhbSgnbW9udGgnKSBlbHNlIGRhdGV0aW1lLnRvZGF5KCkuc3RyZnRpbWUoJyVtJykKICAgIG1vbnRoID0gaW50KG0pCiAgICBmID0gcmVxLmdldF9wYXJhbSgnZicpIGlmIHJlcS5nZXRfcGFyYW0oJ2YnKSBlbHNlICdqc29uJwogICAgdGhpc19tb250aCA9IGRhdGV0aW1lLnRvZGF5KCkuc3RyZnRpbWUoJyVtJykubHN0cmlwKCIwIikucmVwbGFjZSgiIDAiLCAiIikKICAgIHRhcmdldCA9IDAK</text>
       </register>
-      <register name="8" type="4">
-        <text>3
-						AND</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgJ3RvdGFsX3N0eWxlJzogMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIGgudG1hX2RhdGUsIDEwNCkpID0gMwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -335,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry encoding="base64">XDwyOVw+</entry>
         <entry encoding="base64">XDxoczFfZGF0ZVw+</entry>
         <entry encoding="base64">XDxzaWxfYnV5X25ld19yYXdfbWF0ZXJpYWxcPg==</entry>
@@ -354,6 +352,7 @@
         <entry>pay</entry>
         <entry encoding="base64">XDxnZXRfbG9zc193dFw+</entry>
         <entry encoding="base64">XDxjb25mXD4=</entry>
+        <entry encoding="base64">XDxzb3J0ZWRjb250YWluZXJzXD4=</entry>
         <entry>target</entry>
       </history-search>
       <history-cmd>
