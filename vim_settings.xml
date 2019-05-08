@@ -30,9 +30,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1556859554157">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/var/customers/webs/controller/models/__init__.py" timestamp="1555992640035">
         <mark key="'" line="30" column="25" />
         <mark key="[" line="82" column="13" />
@@ -185,9 +182,6 @@
         <mark key="." line="179" column="32" />
         <mark key="^" line="179" column="47" />
       </file>
-      <file name="vim_settings.xml" timestamp="1557197211709">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/f2e83909/4d0a6c2a-9183-469d-8942-030d3354f1a2/database/SL/schema/dbo/routine/zz_get_cimmco_item_uom.sql" timestamp="1553490132626">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="0" column="0" />
@@ -236,7 +230,7 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1556878989361">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1557279368141">
         <mark key="[" line="66" column="6" />
         <mark key="]" line="66" column="18" />
         <mark key="." line="66" column="18" />
@@ -254,7 +248,7 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557217237736">
+      <file name="/Dummy.txt" timestamp="1557279345080">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
@@ -367,9 +361,6 @@
         <mark key="]" line="233" column="67" />
         <mark key="^" line="304" column="72" />
         <mark key="." line="232" column="42" />
-      </file>
-      <file name="/fragment.java" timestamp="1556779745800">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/sil_gld_ctrl/casting_rm.php" timestamp="1556771977822">
         <mark key="'" line="12" column="53" />
