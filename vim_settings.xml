@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/var/customers/webs/django_tutorial/btre/settings.py" timestamp="1552966884022">
-        <mark key="'" line="120" column="22" />
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="28" />
-      </file>
       <file name="/var/customers/webs/controller/config.ini" timestamp="1557201972053">
         <mark key="'" line="259" column="12" />
         <mark key="[" line="261" column="20" />
@@ -23,34 +16,6 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="15" column="28" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bfdf871-16bb-4a1b-b4f7-f197f4bb1e1e/console.sql" timestamp="1553500579327">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="69" column="14" />
-        <mark key="^" line="44" column="20" />
-        <mark key="." line="29" column="34" />
-      </file>
-      <file name="/var/customers/webs/controller/models/__init__.py" timestamp="1555992640035">
-        <mark key="'" line="30" column="25" />
-        <mark key="[" line="82" column="13" />
-        <mark key="]" line="83" column="21" />
-        <mark key="^" line="83" column="21" />
-        <mark key="." line="83" column="21" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console_1.sql" timestamp="1552623708229">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="26" />
-        <mark key="^" line="41" column="26" />
-      </file>
-      <file name="/var/customers/webs/django_tutorial/python_refresh/classes.py" timestamp="1552711545031">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="36" column="11" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
       </file>
       <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1557219453143">
         <mark key="'" line="497" column="13" />
@@ -68,13 +33,6 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/models/sil_gld_admin.php" timestamp="1553244912778">
-        <mark key="'" line="18" column="20" />
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1557292608998">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="25" column="0" />
@@ -87,32 +45,14 @@
         <mark key="]" line="219" column="0" />
         <mark key="." line="219" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1556773345201">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="134" column="26" />
-        <mark key="." line="134" column="26" />
-        <mark key="^" line="133" column="32" />
-      </file>
-      <file name="/var/customers/webs/controller/models/kb3_receipt_lnd.py" timestamp="1556002716381">
-        <mark key="'" line="51" column="6" />
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="12" />
-        <mark key="^" line="95" column="37" />
+      <file name="/gold_monthly_report.py" timestamp="1557301309377">
+        <mark key="'" line="384" column="17" />
       </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/index.html" timestamp="1557282831683">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="33" />
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/models/casting_rm.php" timestamp="1556778780819">
-        <mark key="'" line="86" column="20" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="114" column="19" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1557217812026">
         <mark key="'" line="408" column="40" />
@@ -121,8 +61,10 @@
         <mark key="." line="1355" column="29" />
         <mark key="^" line="1355" column="29" />
       </file>
-      <file name="/var/customers/webs/api3/api/main.py" timestamp="1557298184110">
-        <mark key="'" line="68" column="60" />
+      <file name="/var/customers/webs/api3/api/main.py" timestamp="1557300284619">
+        <mark key="'" line="68" column="67" />
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="68" column="36" />
       </file>
       <file name="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" timestamp="1557298153675">
         <mark key="'" line="80" column="56" />
@@ -137,19 +79,12 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1557206249165">
-        <mark key="'" line="574" column="37" />
-        <mark key="[" line="625" column="9" />
-        <mark key="]" line="626" column="7" />
-        <mark key="." line="626" column="7" />
-        <mark key="^" line="626" column="7" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/sum_all_sil.php" timestamp="1553149759533">
-        <mark key="'" line="91" column="19" />
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="88" />
-        <mark key="^" line="92" column="7" />
-        <mark key="." line="92" column="7" />
+      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1557301258519">
+        <mark key="'" line="675" column="18" />
+        <mark key="[" line="683" column="4" />
+        <mark key="]" line="683" column="4" />
+        <mark key="." line="683" column="4" />
+        <mark key="^" line="683" column="15" />
       </file>
       <file name="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" timestamp="1557201604690">
         <mark key="'" line="194" column="50" />
@@ -158,73 +93,18 @@
         <mark key="." line="194" column="63" />
         <mark key="^" line="194" column="63" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/cimco_cost.php" timestamp="1553850469133">
-        <mark key="'" line="2002" column="0" />
-        <mark key="[" line="29" column="82" />
-        <mark key="]" line="29" column="84" />
-        <mark key="^" line="29" column="84" />
-        <mark key="." line="29" column="84" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/sil_gld_ctrl/report_material.php" timestamp="1554203533065">
-        <mark key="'" line="1307" column="0" />
-        <mark key="[" line="544" column="171" />
-        <mark key="]" line="544" column="171" />
-        <mark key="." line="544" column="173" />
-        <mark key="^" line="542" column="159" />
-      </file>
       <file name="/var/customers/webs/controller/models/couch_inventory.py" timestamp="1554266020183">
         <mark key="[" line="145" column="38" />
         <mark key="]" line="145" column="38" />
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557298673146">
-        <mark key="[" line="29" column="55" />
-        <mark key="]" line="29" column="58" />
-        <mark key="." line="29" column="58" />
-        <mark key="^" line="29" column="58" />
-      </file>
-      <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
-        <mark key="'" line="94" column="12" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="155" column="81" />
-        <mark key="." line="179" column="32" />
-        <mark key="^" line="179" column="47" />
-      </file>
-      <file name="/f2e83909/4d0a6c2a-9183-469d-8942-030d3354f1a2/database/SL/schema/dbo/routine/zz_get_cimmco_item_uom.sql" timestamp="1553490132626">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="/var/customers/webs/python_tutor/ORCA/flow_control_exercise.py" timestamp="1552702793416">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-        <mark key="^" line="29" column="7" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/models/gld_ctrl.php" timestamp="1553224062976">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="239" column="40" />
-        <mark key="]" line="240" column="7" />
-        <mark key="." line="240" column="7" />
-        <mark key="^" line="240" column="7" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/invoices_tamuz.php" timestamp="1554707500218">
-        <mark key="'" line="61" column="21" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="7" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="7" />
-      </file>
-      <file name="/var/customers/webs/controller/controller.py" timestamp="1557198541094">
-        <mark key="'" line="104" column="54" />
-        <mark key="[" line="172" column="47" />
-        <mark key="]" line="172" column="61" />
-        <mark key="." line="172" column="33" />
-        <mark key="^" line="172" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557301343256">
+        <mark key="'" line="41" column="13" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="29" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" timestamp="1557298223386">
         <mark key="[" line="0" column="0" />
@@ -250,11 +130,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557217822385">
-        <mark key="'" line="1541" column="4" />
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="325" column="27" />
-        <mark key="." line="918" column="0" />
+      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557301105793">
+        <mark key="'" line="1640" column="12" />
+        <mark key="[" line="1672" column="64" />
+        <mark key="]" line="1672" column="64" />
+        <mark key="." line="1672" column="64" />
+        <mark key="^" line="1672" column="64" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
         <mark key="[" line="2" column="11" />
@@ -275,41 +156,6 @@
         <mark key="." line="27" column="31" />
         <mark key="^" line="27" column="31" />
       </file>
-      <file name="/var/customers/webs/django_tutorial/pages/urls.py" timestamp="1552967530791">
-        <mark key="'" line="4" column="18" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="8" />
-      </file>
-      <file name="/var/customers/webs/vue_creash_todolist/src/components/Todos.vue" timestamp="1555674245095">
-        <mark key="'" line="3" column="13" />
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="42" />
-        <mark key="^" line="3" column="42" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/casting_rms.php" timestamp="1556779864297">
-        <mark key="'" line="130" column="44" />
-        <mark key="[" line="193" column="14" />
-        <mark key="]" line="194" column="7" />
-        <mark key="." line="194" column="7" />
-        <mark key="^" line="194" column="7" />
-      </file>
-      <file name="/var/customers/webs/django_tutorial/btre/urls.py" timestamp="1552967551632">
-        <mark key="'" line="19" column="22" />
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="12" />
-        <mark key="^" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5254ba3b-ec8a-4bc9-a230-d7b31e447012/console.sql" timestamp="1556620327476">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-        <mark key="^" line="6" column="6" />
-      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/plate_pvd_ctrl.php" timestamp="1553850402939">
         <mark key="[" line="30" column="74" />
         <mark key="]" line="30" column="76" />
@@ -326,55 +172,6 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="/var/customers/webs/django_tutorial/pages/views.py" timestamp="1552967358092">
-        <mark key="'" line="4" column="4" />
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-      </file>
-      <file name="/var/customers/webs/controller/models/hzs1_supplier_order_hdr.py" timestamp="1555992913932">
-        <mark key="'" line="350" column="6" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="270" column="23" />
-        <mark key="." line="306" column="26" />
-        <mark key="^" line="158" column="35" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/gld_locations.php" timestamp="1553139435166">
-        <mark key="'" line="48" column="34" />
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
-      </file>
-      <file name="/var/customers/webs/sapi/api/views/stocks.py" timestamp="1556244139432">
-        <mark key="'" line="703" column="39" />
-        <mark key="[" line="703" column="4" />
-        <mark key="]" line="703" column="11" />
-        <mark key="." line="703" column="11" />
-        <mark key="^" line="703" column="11" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/models/plating_cost_m.php" timestamp="1553844309104">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="493" column="0" />
-        <mark key="]" line="525" column="44" />
-        <mark key="." line="545" column="7" />
-        <mark key="^" line="545" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3010cfa1-f73a-4d22-855b-f7e9f235de81/console.sql" timestamp="1554714411755">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="81" column="22" />
-        <mark key="." line="95" column="8" />
-        <mark key="^" line="95" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bc74724b-aad6-467a-9e9a-2a0ff7df8cf1/console.sql" timestamp="1552898514661">
-        <mark key="'" line="0" column="42" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-        <mark key="." line="0" column="42" />
-      </file>
       <file name="/var/customers/webs/controller/models/yz3_stock.py" timestamp="1557213153315">
         <mark key="'" line="317" column="7" />
         <mark key="[" line="233" column="19" />
@@ -382,31 +179,8 @@
         <mark key="^" line="304" column="72" />
         <mark key="." line="232" column="42" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/sil_gld_ctrl/casting_rm.php" timestamp="1556771977822">
-        <mark key="'" line="12" column="53" />
-        <mark key="[" line="10" column="80" />
-        <mark key="]" line="10" column="92" />
-        <mark key="." line="10" column="92" />
-        <mark key="^" line="10" column="92" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="37" filename="/var/customers/webs/controller/config.ini" />
-      <jump line="257" column="12" filename="/var/customers/webs/controller/config.ini" />
-      <jump line="258" column="12" filename="/var/customers/webs/controller/config.ini" />
-      <jump line="259" column="12" filename="/var/customers/webs/controller/config.ini" />
-      <jump line="27" column="28" filename="/var/customers/webs/controller/controller31.py" />
-      <jump line="288" column="12" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="277" column="8" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="295" column="10" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="289" column="8" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="298" column="12" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="308" column="0" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="294" column="10" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="191" column="26" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="196" column="48" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="237" column="39" filename="/var/customers/webs/controller/models/yz3_stock.py" />
       <jump line="243" column="19" filename="/var/customers/webs/controller/models/yz3_stock.py" />
       <jump line="0" column="0" filename="/f2e83909/4d0a6c2a-9183-469d-8942-030d3354f1a2/database/SL/schema/dbo/routine/zz_get_stock.sql" />
       <jump line="13" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
@@ -418,7 +192,6 @@
       <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
       <jump line="81" column="58" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="17" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" />
-      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="66" column="62" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="574" column="37" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="538" column="48" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
@@ -426,7 +199,6 @@
       <jump line="317" column="25" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="508" column="25" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="12" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="11" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="4" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="198" column="26" filename="/var/customers/webs/controller/models/yz3_stock.py" />
@@ -468,8 +240,6 @@
       <jump line="96" column="56" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="14" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="78" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="79" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="17" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
       <jump line="26" column="28" filename="/var/customers/webs/react_web_dev/refresh_js_es6/class.js" />
       <jump line="1" column="6" filename="/var/customers/webs/react_web_dev/refresh_js_es6/class.js" />
@@ -488,55 +258,76 @@
       <jump line="47" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" />
       <jump line="32" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="80" column="56" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="68" column="60" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="51" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" />
+      <jump line="12" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="36" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="39" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="3" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="68" column="67" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="671" column="19" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="672" column="19" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="254" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="1572" column="8" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="79" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="1596" column="11" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="674" column="19" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="675" column="18" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="1594" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="41" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="1640" column="12" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="1632" column="10" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="384" column="17" filename="/gold_monthly_report.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>4</text>
+        <text>print(target)</text>
       </register>
       <register name="/" type="4">
-        <text>pay</text>
+        <text>target</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIGgudG1hX2RhdGUsIDEwNCkpID0gNAo=</text>
+        <text encoding="base64">CQl0XzI0ID0gdGFyZ2V0XzI0KHNlbGYuY29uZiwgeWVhciwgbW9udGgpCgkJaWYgdF8yNFswXVsneXoyX2VudGVyZW5jZV9leGl0X2ZpbmRpbmcnXSAhPSAnTyc6CgkJCXRhcmdldCArPSB0XzI0WzBdWyd3dF9jb252ZXJ0J10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlBTkQgWUVBUihoLnRtYV9kYXRlKSA9IDIwMTkK</text>
+        <text encoding="base64">CQlBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIGgudG1hX2RhdGUsIDEwNCkpID0gMwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGguKiwK</text>
+        <text encoding="base64">CQkJCVdJVEggdGFyZ2V0XzI0IEFTICgKCQkJCQlTRUxFQ1QKCQkJCQkJaC50bWFfZG9jdW1lbnQsCgkJCQkJCWgudG1hX2RhdGUsCgkJCQkJCWgudG1hX2Zyb21fbG9jYXRpb24sCgkJCQkJCWgudG1hX3VudGlsX2xvY2F0aW9uLAoJCQkJCQlmLnl6Ml9lbnRlcmVuY2VfZXhpdF9maW5kaW5nLAoJCQkJCQl0LnRjbl9sb2NhdGlvbl9kZXNjcmlwdGlvbiwKCQkJCQkJbC50bWJfZmluZGluZ19zdHlsZV9jb2RlLAoJCQkJCQloLnRtYV9jb21tZW50LAoJCQkJCQlsLnRtYl93dF9ncm9zc19wcm9wZXIsCgkJCQkJCWYuSURFTlRJVFlfRkxELAoJCQkJCQlST1dfTlVNQkVSKCkgb3ZlciAoCgkJCQkJCQlQQVJUSVRJT04gQlkKCQkJCQkJCWEuYXYwX2thcmF0CgkJCQkJCQlPUkRFUiBCWSBmLklERU5USVRZX0ZMRCBERVNDCgkJCQkJCQkpIEFTIF9yb3csCgkJCQkJCUNBU0UKCQkJCQkJCVdIRU4gYS5hdjBfa2FyYXQgPSAxOCBUSEVOICBJU05VTEwobC50bWJfd3RfZ3Jvc3NfcHJvcGVyICogMC43NiwwKQoJCQkJCQkJRUxTRSBJU05VTEwobC50bWJfd3RfZ3Jvc3NfcHJvcGVyLDApICogMS4wCgkJCQkJCQlFTkQgd3RfY29udmVydAoJCQkJCUZST00gdG1hX3RyYW5zZmVyX2RvY19oZHIgYXMgaAoJCQkJCUxFRlQgSk9JTiB0Y25fbG9jYXRpb24gQVMgdAoJCQkJCQlPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gaC50bWFfdW50aWxfbG9jYXRpb24KCQkJCQlMRUZUIEpPSU4gdG1iX3RyYW5zZmVyX2RvY19sbiBBUyBsCgkJCQkJCU9OIGwudG1iX2RvY3VtZW50ID0gaC50bWFfZG9jdW1lbnQKCQkJCQlMRUZUIEpPSU4gYXYwX3N0eWxlIEFTIGEKCQkJCQkJT04gYS5hdjBfc3R5bGUgPSBsLnRtYl9maW5kaW5nX3N0eWxlX2NvZGUKCQkJCQlMRUZUIEpPSU4gc2wuZGJvLkYzMzBfMTQwcHJldmlvdXNfdHJhbnNhY3Rpb25fZmluZGluZyBhcyBmCgkJCQkJCU9OIGYueXoyX2RvY3VtZW50X25vID0gaC50bWFfZG9jdW1lbnQgYW5kIGYueXoyX2xvY2F0aW9uID0gODAzMAoJCQkJCVdIRVJFIGEuYXYwX2thcmF0ID0gMjQKCQkJCQkJQU5EIFlFQVIoVFJZX0NPTlZFUlQoREFURVRJTUUsIGgudG1hX2RhdGUsIDEwNCkpID0ge30KCQkJCQkJQU5EIE1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCBoLnRtYV9kYXRlLCAxMDQpKSA9IHt9CgkJCQkJCUFORCAoaC50bWFfZnJvbV9sb2NhdGlvbiA9IDgwMzAgb3IgaC50bWFfdW50aWxfbG9jYXRpb24gPSA4MDMwKQoJCQkJKQoJCQkJU0VMRUNUCgkJCQkJKgoJCQkJRlJPTSB0YXJnZXRfMjQKCQkJCVdIRVJFIF9yb3cgPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlBTkQgdC50Y25fbG9jYXRpb25fY29kZSBJTiAoODAyOSwgODAzMCkK</text>
+        <text encoding="base64">WwoKXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBXSEVSRSBoLnRtYV9mcm9tX2xvY2F0aW9uID0gMjAKICAgIEFORCBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCBoLnRtYV9kYXRlLCAxMDQpKSA9IDIwMTkKCQlBTkQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIGgudG1hX2RhdGUsIDEwNCkpID0gNAo=</text>
+        <text encoding="base64">ZGVmIHRhcmdldF8yNChjb25mLCB5ZWFyLCBtb250aCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlXSEVSRSBoLnRtYV9kb2N1bWVudCA9IDkxNzg5Cg==</text>
+        <text encoding="base64">CQkJcHJpbnQoImhlbGxvIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUCgkqCkZST00gc2wuZGJvLkYzMzBfMTQwcHJldmlvdXNfdHJhbnNhY3Rpb25fZmluZGluZwpXSEVSRSB5ejJfbG9jYXRpb24gPSA4MDMwCg==</text>
+        <text encoding="base64">CQkjIHByaW50KHRfMjRbMF1bJ3l6Ml9lbnRlcmVuY2VfZXhpdF9maW5kaW5nJ10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFORCB0LnRjbl9sb2NhdGlvbl9jb2RlIElOICg4MDI5LCA4MDMwKQo=</text>
+        <text encoding="base64">CQlwcmludCh0XzI0LmluZCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">V0lUSCBidXlfbmV3X2ZpbmlzaF9nb29kcyBBUyAoCglTRUxFQ1QKCQl0LnRzZ19kYXRlICAgICAgICBhcyBkb2N1bWVudF9kYXRlLAoJCXQudHNnX2RvY3VtZW50X25vIGFzIGRvYywKCQl0LnRzZ19zdXBwbGllciAgICBhcyBzdXBwbGllciwKCQljcy5sa2hfY3VzdG9tZXJfY29kZSBhcyBzdXBwbGllcl9jb2RlLAoJCXQyLnRuZ19vcmRlciAgICAgIGFzICdvcmRlcicsCgkJdDIudG5nX2xpbmVfb3JkZXIgYXMgJ2xpbmUnLAoJCXQyLnRuZ19zdHlsZSAgICAgIGFzICdzdHlsZScsCgkJdDIudG5nX3F0eSAgICAgICAgYXMgJ3F0eScsCgkJYS5hdjBfa2FyYXQgICAgICAgYXMga2FyYXQsCgkJYS5hdjBfbWV0YWwgICAgICAgYXMgbWF0ZXJpYWwsCgkJdDIudG5nX3d0X2dyb3NzICAgYXMgZ3Jvc3Nfd3QsCgkJTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIHQudHNnX2RhdGUsIDEwNCkpIGFzIF9tb250aAoJRlJPTSB0c2cxX2dvbGRfYm9va19kb2NfaGRyIGFzIHQKCQkgICAgIExFRlQgSk9JTiBTTC5kYm8udHNnMl9nb2xkX2Jvb2tfZG9jX2xuIGFzIHQyCgkJICAgICAgICAgICAgICAgT04gdDIudG5nX2RvY3VtZW50X25vID0gdC50c2dfZG9jdW1lbnRfbm8KCQkgICAgIExFRlQgSk9JTiBTTC5kYm8uYXYwX3N0eWxlIGFzIGEKCQkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IHQyLnRuZ19zdHlsZQoJCSAgICAgTEVGVCBKT0lOIGxraF9jdXN0b21lcl9zdXBwbGllciBhcyBjcwoJCSAgICAgICAgICAgICAgIE9OIGNzLmxraF9zaG9ydF9jdXN0b21lcl9uYW1lID0gdC50c2dfc3VwcGxpZXIKCVdIRVJFIGNzLmxraF9jdXN0b21lcl9jb2RlIElOICgKCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxODI4LCA5MCAsMzg3NywKCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxNDUyICwzMjIgLDU0MCwKCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0NDYzICw0NjQ5ICwzNTksCgkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOQoJCSkKCQlBTkQgYS5hdjBfa2FyYXQgPSA5MgoJCUFORCBhLmF2MF9rYXJhdCAhPSAxMDAKCQlBTkQgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgdC50c2dfZGF0ZSwgMTA0KSkgPSAyMDE5CgkJQU5EIE1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCB0LnRzZ19kYXRlLCAxMDQpKSA9IDQKCQlBTkQgTk9UIGNzLmxraF9jdXN0b21lcl9jb2RlID0gNzY0CiksIHFjX3JlY2VpdmUgQVMgKAoJU0VMRUNUCgkJbC5oenMxMF9vcmRlciwKCQlsLmh6czEwX2xpbmUsCgkJbC5oenMxMF93dF9leGl0LAoJCWwuaHpzMTBfd3RfbWV0YWwsCgkJbC5JREVOVElUWV9GTEQsCgkJUk9XX05VTUJFUigpIG92ZXIgKAoJCQlQQVJUSVRJT04gQlkKCQkJbC5oenMxMF9vcmRlciwgbC5oenMxMF9saW5lIE9SREVSIEJZIElERU5USVRZX0ZMRCBERVNDCgkJCSkgYXMgX3JvdwoJRlJPTSBzbC5kYm8uaHpzMTBfc3VwcGxpZXJfb3JkZXJfdHJhbnNhY3Rpb25fbG4gYXMgbAopClNFTEVDVAoJZmcuZG9jdW1lbnRfZGF0ZQoJCSAsZmcuZG9jCgkJICxmZy5fbW9udGgKCQkgLGZnLnN1cHBsaWVyCgkJICxmZy5zdXBwbGllcl9jb2RlCgkJICxmZy5bb3JkZXJdCgkJICxmZy5saW5lCgkJICxmZy5zdHlsZQoJCSAsZmcucXR5CgkJICxmZy5rYXJhdAoJCSAsZmcubWF0ZXJpYWwKCQkgLElJRihmZy5ncm9zc193dCAhPSAwLCBmZy5ncm9zc193dCwgcXIuaHpzMTBfd3RfbWV0YWwpIGFzIGdyb3NzX3d0CgkJICxDQVNFCgkJCSAgV0hFTiBmZy5rYXJhdCA9IDkyIFRIRU4gSUlGKGZnLmdyb3NzX3d0ICE9IDAsIGZnLmdyb3NzX3d0LCBxci5oenMxMF93dF9tZXRhbCkgKiAwLjk0CgkJCSAgRUxTRSBJSUYoZmcuZ3Jvc3Nfd3QgIT0gMCwgZmcuZ3Jvc3Nfd3QsIHFyLmh6czEwX3d0X21ldGFsKSAqIDEKCUVORCBBUyB3dF9jb252ZXJ0CkZST00gYnV5X25ld19maW5pc2hfZ29vZHMgYXMgZmcKCSAgICAgTEVGVCBKT0lOIHFjX3JlY2VpdmUgYXMgcXIKCSAgICAgICAgICAgICAgIE9OIHFyLmh6czEwX29yZGVyID0gZmcuW29yZGVyXSBBTkQgcXIuaHpzMTBfbGluZSA9IGZnLmxpbmUKV0hFUkUgcXIuX3JvdyA9IDEKCUFORCBmZy5xdHkgIT0gMApPUkRFUiBCWQoJZmcuZG9jdW1lbnRfZGF0ZSBBU0MsCglmZy5zdXBwbGllciBBU0MKCg==</text>
+      <register name="8" type="4">
+        <text>3
+						AND</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V0lUSCB0X3B2ZCBBUyAoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pay</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>pay</last-pattern>
+      <last-pattern>target</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -544,9 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfYnV5X25ld19maW5pc2hfZ29vZHNcPg==</entry>
-        <entry encoding="base64">XDxmaW5pc2hfZ29vZHNcPg==</entry>
-        <entry>buy_new</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry encoding="base64">XDwyOVw+</entry>
         <entry encoding="base64">XDxoczFfZGF0ZVw+</entry>
@@ -564,6 +352,9 @@
         <entry encoding="base64">XDxzaWxfaW5oX3ZhbHVlXD4=</entry>
         <entry encoding="base64">XDxzaWxfYnV5X2ZpbmlzaF9nb29kc1w+</entry>
         <entry>pay</entry>
+        <entry encoding="base64">XDxnZXRfbG9zc193dFw+</entry>
+        <entry encoding="base64">XDxjb25mXD4=</entry>
+        <entry>target</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
