@@ -111,6 +111,12 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="29" column="2" />
       </file>
+      <file name="/var/customers/webs/react_web_dev/package.json" timestamp="1557384311417">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
       <file name="vim_settings.xml" timestamp="1557197211709">
         <mark key="[" line="0" column="0" />
       </file>
@@ -189,8 +195,8 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="/var/customers/webs/react_web_dev/refresh_js_es6/call_module.js" timestamp="1557379112447">
-        <mark key="'" line="0" column="26" />
+      <file name="/var/customers/webs/react_web_dev/refresh_js_es6/call_module.js" timestamp="1557383991181">
+        <mark key="'" line="0" column="25" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="26" />
@@ -306,8 +312,8 @@
       <jump line="17" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
       <jump line="59" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
       <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" />
-      <jump line="0" column="26" filename="/var/customers/webs/react_web_dev/refresh_js_es6/call_module.js" />
       <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/module.js" />
+      <jump line="0" column="25" filename="/var/customers/webs/react_web_dev/refresh_js_es6/call_module.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -347,7 +353,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRhcmdldDsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -383,7 +389,6 @@
         <entry>target</entry>
       </history-search>
       <history-cmd>
-        <entry>26</entry>
         <entry>689</entry>
         <entry>704</entry>
         <entry>175</entry>
@@ -403,6 +408,7 @@
         <entry>296</entry>
         <entry>241</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
