@@ -80,10 +80,10 @@
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/models/couch_inventory.php" timestamp="1557201611368">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
+      <file name="/mnt/sdb1/GMS/application/models/couch_inventory.php" timestamp="1557390092861">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
         <mark key="[" line="1231" column="0" />
@@ -97,7 +97,7 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557305478624">
+      <file name="/Dummy.txt" timestamp="1557390315902">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
@@ -173,11 +173,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" timestamp="1557389568834">
-        <mark key="'" line="226" column="81" />
-        <mark key="[" line="257" column="23" />
-        <mark key="]" line="257" column="49" />
-        <mark key="." line="206" column="0" />
+      <file name="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" timestamp="1557390220369">
+        <mark key="'" line="210" column="50" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="221" column="9" />
+        <mark key="^" line="220" column="31" />
       </file>
       <file name="/var/customers/webs/controller/models/couch_inventory.py" timestamp="1554266020183">
         <mark key="[" line="145" column="38" />
@@ -217,8 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="29" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="235" column="19" filename="/var/customers/webs/controller/models/yz3_stock.py" />
       <jump line="212" column="4" filename="/var/customers/webs/controller/models/yz3_stock.py" />
       <jump line="319" column="7" filename="/var/customers/webs/controller/models/yz3_stock.py" />
       <jump line="33" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
@@ -315,62 +314,63 @@
       <jump line="246" column="25" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
       <jump line="253" column="62" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
       <jump line="240" column="25" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
-      <jump line="238" column="25" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
       <jump line="226" column="81" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
+      <jump line="238" column="25" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
+      <jump line="210" column="50" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
+      <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/models/couch_inventory.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>add</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
-        <text>dead_stock</text>
+        <text encoding="base64">XDxkZWFkX3N0b2NrXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>dead_stock</text>
+        <text>dead_stk_not_sale</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwogICAgICAgICAgICBwcmludF9yKCR0aGlzLT5kYXRhWydkZWFkX3N0a19ub3Rfc2FsZSddKTsKICAgICAgICAgICAgZWNobyAiPC9wcmU+IjsKICAgICAgICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIjxwcmU+IjsKICAgIHByaW50X3IoJHN0b2NrKTsKICAgIGVjaG8gIjwvcHJlPiI7CiAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwogICAgICAgICAgICBwcmludF9yKCR0aGlzLT5kYXRhWydkZWFkX3N0b2NrJ10pOwogICAgICAgICAgICBlY2hvICI8L3ByZT4iOwogICAgICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwogICAgICAgICAgICBwcmludF9yKCR0aGlzLT5kYXRhWydkZWFkX3N0b2NrJ10pOwogICAgICAgICAgICBlY2hvICI8L3ByZT4iOwogICAgICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgbXVsdGlwbGUgPSAoYSwgYikgPT4gYSAqIGI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gIjxwcmU+IjsKICAgICAgICAgIHByaW50X3IoJGkpOwogICAgICAgICAgZWNobyAiPC9wcmU+IjsKICAgICAgICAgIGRpZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZnJ1aXRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRpZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZnJ1aXRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiPHByZT4iOwogICAgICAgICAgICBwcmludF9yKCR0aGlzLT5kYXRhWydkZWFkX3N0b2NrJ10pOwogICAgICAgICAgICBlY2hvICI8L3ByZT4iOwogICAgICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGVyc29uYWwuZ3JlZXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgX3RoaXMgPSB0aGlzOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIjxwcmU+IjsKICAgIHByaW50X3IoJHN0b2NrKTsKICAgIGVjaG8gIjwvcHJlPiI7CiAgICBkaWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBfdGhpcyA9IHRoaXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dead_stock</last-search>
+      <last-search encoding="base64">XDxkZWFkX3N0b2NrXD4=</last-search>
       <last-offset />
-      <last-pattern>dead_stock</last-pattern>
+      <last-pattern encoding="base64">XDxkZWFkX3N0b2NrXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ready</entry>
         <entry>get_total</entry>
         <entry>stock</entry>
         <entry>make_inventory</entry>
@@ -390,6 +390,7 @@
         <entry>dead_stk_not_sale</entry>
         <entry>to sale</entry>
         <entry>dead_stock</entry>
+        <entry encoding="base64">XDxkZWFkX3N0b2NrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>689</entry>
