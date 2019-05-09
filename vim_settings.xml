@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1557197211709">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/var/customers/webs/controller/config.ini" timestamp="1557201972053">
         <mark key="'" line="259" column="12" />
         <mark key="[" line="261" column="20" />
@@ -17,6 +20,11 @@
         <mark key="." line="67" column="39" />
         <mark key="^" line="67" column="39" />
       </file>
+      <file name="/mnt/sdb1/GMS/application/views/general/stock_reports/stock.php" timestamp="1557389530040">
+        <mark key="'" line="42" column="9" />
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="25" />
+      </file>
       <file name="/fragment.js" timestamp="1557376469309">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,20 +32,46 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1557304887247">
-        <mark key="'" line="377" column="21" />
-        <mark key="[" line="394" column="11" />
-        <mark key="]" line="394" column="12" />
-        <mark key="." line="394" column="12" />
-        <mark key="^" line="394" column="12" />
+        <mark key="[" line="359" column="11" />
+        <mark key="]" line="359" column="12" />
+        <mark key="." line="359" column="12" />
+        <mark key="^" line="359" column="12" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/__common/footer.php" timestamp="1557201460598">
         <mark key="'" line="11" column="40" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" timestamp="1557298223386">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/spread_operators.js" timestamp="1557285048061">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
         <mark key="." line="4" column="16" />
         <mark key="^" line="12" column="20" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1557376523940">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/var/customers/webs/vue_creash_todolist/src/components/Todoitem.vue" timestamp="1555673941456">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
+      <file name="/var/customers/webs/react_web_dev/refresh_js_es6/class.js" timestamp="1557287105803">
+        <mark key="'" line="26" column="28" />
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1557291945015">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="39" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1557292608998">
         <mark key="'" line="30" column="0" />
@@ -50,6 +84,36 @@
         <mark key="[" line="219" column="0" />
         <mark key="]" line="219" column="0" />
         <mark key="." line="219" column="0" />
+      </file>
+      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
+        <mark key="[" line="1231" column="0" />
+        <mark key="]" line="1231" column="0" />
+        <mark key="^" line="1628" column="64" />
+        <mark key="." line="1231" column="0" />
+      </file>
+      <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557305478624">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="48" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="/var/customers/webs/controller/controller31.py" timestamp="1557202332163">
+        <mark key="'" line="27" column="28" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+      </file>
+      <file name="/general_helper.py" timestamp="1557369708042">
+        <mark key="'" line="1596" column="8" />
+        <mark key="[" line="1596" column="0" />
+        <mark key="]" line="1634" column="23" />
       </file>
       <file name="/gold_monthly_report.py" timestamp="1557301309377">
         <mark key="'" line="384" column="17" />
@@ -91,92 +155,6 @@
         <mark key="." line="713" column="68" />
         <mark key="^" line="713" column="68" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" timestamp="1557201604690">
-        <mark key="'" line="194" column="50" />
-        <mark key="[" line="194" column="63" />
-        <mark key="]" line="194" column="63" />
-        <mark key="." line="194" column="63" />
-        <mark key="^" line="194" column="63" />
-      </file>
-      <file name="/var/customers/webs/controller/models/couch_inventory.py" timestamp="1554266020183">
-        <mark key="[" line="145" column="38" />
-        <mark key="]" line="145" column="38" />
-        <mark key="^" line="145" column="38" />
-        <mark key="." line="145" column="38" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557301343256">
-        <mark key="'" line="41" column="13" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="29" column="2" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/package.json" timestamp="1557384311417">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1557197211709">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" timestamp="1557298223386">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1557376523940">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/vue_creash_todolist/src/components/Todoitem.vue" timestamp="1555673941456">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/refresh_js_es6/class.js" timestamp="1557287105803">
-        <mark key="'" line="26" column="28" />
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="18" />
-        <mark key="." line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1557291945015">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="39" column="17" />
-      </file>
-      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
-        <mark key="[" line="1231" column="0" />
-        <mark key="]" line="1231" column="0" />
-        <mark key="^" line="1628" column="64" />
-        <mark key="." line="1231" column="0" />
-      </file>
-      <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1557305478624">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="48" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/controller/controller31.py" timestamp="1557202332163">
-        <mark key="'" line="27" column="28" />
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="31" />
-      </file>
-      <file name="/general_helper.py" timestamp="1557369708042">
-        <mark key="'" line="1596" column="8" />
-        <mark key="[" line="1596" column="0" />
-        <mark key="]" line="1634" column="23" />
-      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/plate_pvd_ctrl.php" timestamp="1553850402939">
         <mark key="[" line="30" column="74" />
         <mark key="]" line="30" column="76" />
@@ -195,12 +173,37 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
+      <file name="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" timestamp="1557389568834">
+        <mark key="'" line="226" column="81" />
+        <mark key="[" line="257" column="23" />
+        <mark key="]" line="257" column="49" />
+        <mark key="." line="206" column="0" />
+      </file>
+      <file name="/var/customers/webs/controller/models/couch_inventory.py" timestamp="1554266020183">
+        <mark key="[" line="145" column="38" />
+        <mark key="]" line="145" column="38" />
+        <mark key="^" line="145" column="38" />
+        <mark key="." line="145" column="38" />
+      </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/call_module.js" timestamp="1557383991181">
         <mark key="'" line="0" column="25" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557301343256">
+        <mark key="'" line="41" column="13" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="29" column="2" />
+      </file>
+      <file name="/var/customers/webs/react_web_dev/package.json" timestamp="1557384311417">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
       </file>
       <file name="/var/customers/webs/controller/models/yz3_stock.py" timestamp="1557213153315">
         <mark key="'" line="317" column="7" />
@@ -214,15 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1248" column="0" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="190" column="21" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="759" column="29" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="276" column="11" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="271" column="35" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="268" column="9" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="251" column="13" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="249" column="16" filename="/var/customers/webs/controller/models/yz3_stock.py" />
-      <jump line="209" column="4" filename="/var/customers/webs/controller/models/yz3_stock.py" />
       <jump line="299" column="29" filename="/var/customers/webs/controller/models/yz3_stock.py" />
       <jump line="235" column="19" filename="/var/customers/webs/controller/models/yz3_stock.py" />
       <jump line="212" column="4" filename="/var/customers/webs/controller/models/yz3_stock.py" />
@@ -314,52 +308,61 @@
       <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" />
       <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/module.js" />
       <jump line="0" column="25" filename="/var/customers/webs/react_web_dev/refresh_js_es6/call_module.js" />
+      <jump line="100" column="16" filename="/mnt/sdb1/GMS/application/views/general/stock_reports/stock.php" />
+      <jump line="50" column="11" filename="/mnt/sdb1/GMS/application/views/general/stock_reports/stock.php" />
+      <jump line="257" column="23" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
+      <jump line="42" column="9" filename="/mnt/sdb1/GMS/application/views/general/stock_reports/stock.php" />
+      <jump line="246" column="25" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
+      <jump line="253" column="62" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
+      <jump line="240" column="25" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
+      <jump line="238" column="25" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
+      <jump line="226" column="81" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>add</text>
       </register>
       <register name="/" type="4">
-        <text>target</text>
+        <text>dead_stock</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgbXVsdGlwbGUgPSAoYSwgYikgPT4gYSAqIGI7Cg==</text>
+      <register name="0" type="4">
+        <text>dead_stock</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbXVsdGlwbGUgPSAoYSwgYikgPT4gYSAqIGI7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIjxwcmU+IjsKICAgIHByaW50X3IoJHN0b2NrKTsKICAgIGVjaG8gIjwvcHJlPiI7CiAgICBkaWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZnJ1aXRzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZnJ1aXRzKQo=</text>
+        <text encoding="base64">Y29uc3QgbXVsdGlwbGUgPSAoYSwgYikgPT4gYSAqIGI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGVyc29uYWwuZ3JlZXQoKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZnJ1aXRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgX3RoaXMgPSB0aGlzOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZnJ1aXRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBfdGhpcyA9IHRoaXM7Cg==</text>
+        <text encoding="base64">cGVyc29uYWwuZ3JlZXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlTRUxFQ1QK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgX3RoaXMgPSB0aGlzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRhcmdldDsK</text>
+        <text encoding="base64">ICAgIHZhciBfdGhpcyA9IHRoaXM7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>target</last-search>
+      <last-search>dead_stock</last-search>
       <last-offset />
-      <last-pattern>target</last-pattern>
+      <last-pattern>dead_stock</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -367,9 +370,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwyOVw+</entry>
-        <entry encoding="base64">XDxoczFfZGF0ZVw+</entry>
-        <entry encoding="base64">XDxzaWxfYnV5X25ld19yYXdfbWF0ZXJpYWxcPg==</entry>
         <entry>ready</entry>
         <entry>get_total</entry>
         <entry>stock</entry>
@@ -387,6 +387,9 @@
         <entry encoding="base64">XDxjb25mXD4=</entry>
         <entry encoding="base64">XDxzb3J0ZWRjb250YWluZXJzXD4=</entry>
         <entry>target</entry>
+        <entry>dead_stk_not_sale</entry>
+        <entry>to sale</entry>
+        <entry>dead_stock</entry>
       </history-search>
       <history-cmd>
         <entry>689</entry>
@@ -407,8 +410,8 @@
         <entry>e!</entry>
         <entry>296</entry>
         <entry>241</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
