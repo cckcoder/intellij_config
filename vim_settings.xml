@@ -42,11 +42,21 @@
         <mark key="]" line="18" column="46" />
         <mark key="." line="13" column="3" />
       </file>
+      <file name="/mnt/sdb1/GMS/application/controllers/general/organizes.php" timestamp="1557453987542">
+        <mark key="'" line="54" column="8" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="21" />
+      </file>
       <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1557304887247">
         <mark key="[" line="359" column="11" />
         <mark key="]" line="359" column="12" />
         <mark key="." line="359" column="12" />
         <mark key="^" line="359" column="12" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/views/__common/footer.php" timestamp="1557201460598">
+        <mark key="'" line="11" column="40" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557394331667">
         <mark key="[" line="4" column="0" />
@@ -86,6 +96,9 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="39" column="17" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/models/organize_setup.php" timestamp="1557453720210">
+        <mark key="'" line="50" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1557292608998">
         <mark key="'" line="30" column="0" />
@@ -128,6 +141,9 @@
         <mark key="'" line="1596" column="8" />
         <mark key="[" line="1596" column="0" />
         <mark key="]" line="1634" column="23" />
+      </file>
+      <file name="/gold_monthly_report.py" timestamp="1557301309377">
+        <mark key="'" line="384" column="17" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/components/Header.js" timestamp="1557394402802">
         <mark key="'" line="0" column="0" />
@@ -236,12 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="662" column="31" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="86" column="19" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="154" column="23" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="155" column="29" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="225" column="56" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="670" column="29" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="227" column="27" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="209" column="34" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="193" column="33" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
@@ -336,6 +346,12 @@
       <jump line="5" column="11" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="6" column="0" filename="/var/customers/webs/react_web_dev/client/src/components/Header.js" />
       <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/client/src/components/Header.js" />
+      <jump line="44" column="21" filename="/mnt/sdb1/GMS/application/controllers/general/organizes.php" />
+      <jump line="50" column="20" filename="/mnt/sdb1/GMS/application/models/organize_setup.php" />
+      <jump line="84" column="17" filename="/mnt/sdb1/GMS/application/controllers/general/organizes.php" />
+      <jump line="72" column="8" filename="/mnt/sdb1/GMS/application/controllers/general/organizes.php" />
+      <jump line="114" column="49" filename="/mnt/sdb1/GMS/application/controllers/general/organizes.php" />
+      <jump line="54" column="8" filename="/mnt/sdb1/GMS/application/controllers/general/organizes.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -347,32 +363,32 @@
       <register name="0" type="4">
         <text>general/audit_reports</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gV2VsY29tZSgpIHsKICAgcmV0dXJuIDxoMT5XZWxjb21lIHRvIFJlYWN0IFdvcmxkPC9oMT4KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZWxlbWVudCA9IDxoMT57d2VsY29tZSgpfSB7dXNlci5lbWFpbH08L2gxPgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gV2VsY29tZSgpIHsKICAgcmV0dXJuIDxoMT5XZWxjb21lIHRvIFJlYWN0IFdvcmxkPC9oMT4KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IHdlbGNvbWUgPSAoKSA9PiAiSGVsbG8gUmVhY3QgZnVuY3Rpb24iOwo=</text>
+        <text encoding="base64">Y29uc3QgZWxlbWVudCA9IDxoMT57d2VsY29tZSgpfSB7dXNlci5lbWFpbH08L2gxPgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">bGV0IHdlbGNvbWUgPSAoKSA9PiAiSGVsbG8gUmVhY3QgZnVuY3Rpb24iOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">bGV0IHVzZXIgPSB7CiAgIHVzZXJuYW1lOiAiY29kZXdpeiIsCiAgIGVtYWlsOiAiY29kZXdpekBjb2Rld2l6IiwKfQoK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">V0lUSCB0YXJnZXRfMjQgQVMgKAoJU0VMRUNUCgkJaC50bWFfZG9jdW1lbnQsCgkJaC50bWFfZGF0ZSwKCQloLnRtYV9mcm9tX2xvY2F0aW9uLAoJCWgudG1hX3VudGlsX2xvY2F0aW9uLAoJCWYueXoyX2VudGVyZW5jZV9leGl0X2ZpbmRpbmcsCgkJdC50Y25fbG9jYXRpb25fZGVzY3JpcHRpb24sCgkJbC50bWJfZmluZGluZ19zdHlsZV9jb2RlLAoJCWgudG1hX2NvbW1lbnQsCgkJbC50bWJfd3RfZ3Jvc3NfcHJvcGVyLAoJCWYuSURFTlRJVFlfRkxELAoJCVJPV19OVU1CRVIoKSBvdmVyICgKCQkJUEFSVElUSU9OIEJZCgkJCWEuYXYwX2thcmF0CgkJCU9SREVSIEJZIGYuSURFTlRJVFlfRkxEIERFU0MKCQkJKSBBUyBfcm93LAoJCUNBU0UKCQkJV0hFTiBhLmF2MF9rYXJhdCA9IDE4IFRIRU4gIElTTlVMTChsLnRtYl93dF9ncm9zc19wcm9wZXIgKiAwLjc2LDApCgkJCUVMU0UgSVNOVUxMKGwudG1iX3d0X2dyb3NzX3Byb3BlciwwKSAqIDEuMAoJCQlFTkQgd3RfY29udmVydAoJRlJPTSB0bWFfdHJhbnNmZXJfZG9jX2hkciBhcyBoCglMRUZUIEpPSU4gdGNuX2xvY2F0aW9uIEFTIHQKCQlPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gaC50bWFfdW50aWxfbG9jYXRpb24KCUxFRlQgSk9JTiB0bWJfdHJhbnNmZXJfZG9jX2xuIEFTIGwKCSAgT04gbC50bWJfZG9jdW1lbnQgPSBoLnRtYV9kb2N1bWVudAoJTEVGVCBKT0lOIGF2MF9zdHlsZSBBUyBhCgkJT04gYS5hdjBfc3R5bGUgPSBsLnRtYl9maW5kaW5nX3N0eWxlX2NvZGUKCUxFRlQgSk9JTiBzbC5kYm8uRjMzMF8xNDBwcmV2aW91c190cmFuc2FjdGlvbl9maW5kaW5nIGFzIGYKCQlPTiBmLnl6Ml9kb2N1bWVudF9ubyA9IGgudG1hX2RvY3VtZW50IGFuZCBmLnl6Ml9sb2NhdGlvbiA9IDgwMzAKCVdIRVJFIGEuYXYwX2thcmF0ID0gMjQKCQlBTkQgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgaC50bWFfZGF0ZSwgMTA0KSkgPSAyMDE5CgkJQU5EIE1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCBoLnRtYV9kYXRlLCAxMDQpKSA9IDMKCQlBTkQgKGgudG1hX2Zyb21fbG9jYXRpb24gPSA4MDMwIG9yIGgudG1hX3VudGlsX2xvY2F0aW9uID0gODAzMCkKKQpTRUxFQ1QKCSoKRlJPTSB0YXJnZXRfMjQKV0hFUkUgX3JvdyA9IDEKCgpXSVRIIHRhcmdldF8xOCBhcyAoCglTRUxFQ1QKCQloLnRtYV9kb2N1bWVudCwKCQloLnRtYV9kYXRlLAoJCWgudG1hX2Zyb21fbG9jYXRpb24sCgkJaC50bWFfdW50aWxfbG9jYXRpb24sCgkJZi55ejJfZW50ZXJlbmNlX2V4aXRfZmluZGluZywKCQl0LnRjbl9sb2NhdGlvbl9kZXNjcmlwdGlvbiwKCQlsLnRtYl9maW5kaW5nX3N0eWxlX2NvZGUsCgkJaC50bWFfY29tbWVudCwKCQlsLnRtYl93dF9ncm9zc19wcm9wZXIsCgkJZi5JREVOVElUWV9GTEQsCgkJUk9XX05VTUJFUigpIG92ZXIgKAoJCQlQQVJUSVRJT04gQlkKCQkJYS5hdjBfa2FyYXQKCQkJT1JERVIgQlkgZi5JREVOVElUWV9GTEQgREVTQwoJCQkpIEFTIF9yb3csCgkJQ0FTRQoJCQlXSEVOIGEuYXYwX2thcmF0ID0gMTggVEhFTiAgSVNOVUxMKGwudG1iX3d0X2dyb3NzX3Byb3BlciAqIDAuNzYsMCkKCQkJRUxTRSBJU05VTEwobC50bWJfd3RfZ3Jvc3NfcHJvcGVyLDApICogMS4wCgkJCUVORCB3dF9jb252ZXJ0CglGUk9NIHRtYV90cmFuc2Zlcl9kb2NfaGRyIGFzIGgKICBMRUZUIEpPSU4gdGNuX2xvY2F0aW9uIEFTIHQKCQlPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gaC50bWFfdW50aWxfbG9jYXRpb24KICBMRUZUIEpPSU4gdG1iX3RyYW5zZmVyX2RvY19sbiBBUyBsCgkJT04gbC50bWJfZG9jdW1lbnQgPSBoLnRtYV9kb2N1bWVudAogIExFRlQgSk9JTiBhdjBfc3R5bGUgQVMgYQoJCU9OIGEuYXYwX3N0eWxlID0gbC50bWJfZmluZGluZ19zdHlsZV9jb2RlCiAgTEVGVCBKT0lOIHNsLmRiby5GMzMwXzE0MHByZXZpb3VzX3RyYW5zYWN0aW9uX2ZpbmRpbmcgYXMgZgoJICBPTiBmLnl6Ml9kb2N1bWVudF9ubyA9IGgudG1hX2RvY3VtZW50IGFuZCBmLnl6Ml9sb2NhdGlvbiA9IDgwMjkKCVdIRVJFIGEuYXYwX2thcmF0ID0gMTgKCQlBTkQgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgaC50bWFfZGF0ZSwgMTA0KSkgPSAyMDE5CgkJQU5EIChoLnRtYV9mcm9tX2xvY2F0aW9uID0gODAyOSBvciBoLnRtYV91bnRpbF9sb2NhdGlvbiA9IDgwMjkpCikKU0VMRUNUCgkqCkZST00gdGFyZ2V0XzE4CldIRVJFIF9yb3cgPSAxCgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gUmVhY3RET00ucmVuZGVyKDxBcHAgLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgVGhpcyBIVE1MIGZpbGUgaXMgYSB0ZW1wbGF0ZS4KICAgICAgSWYgeW91IG9wZW4gaXQgZGlyZWN0bHkgaW4gdGhlIGJyb3dzZXIsIHlvdSB3aWxsIHNlZSBhbiBlbXB0eSBwYWdlLgoKICAgICAgWW91IGNhbiBhZGQgd2ViZm9udHMsIG1ldGEgdGFncywgb3IgYW5hbHl0aWNzIHRvIHRoaXMgZmlsZS4KICAgICAgVGhlIGJ1aWxkIHN0ZXAgd2lsbCBwbGFjZSB0aGUgYnVuZGxlZCBzY3JpcHRzIGludG8gdGhlIDxib2R5PiB0YWcuCgogICAgICBUbyBiZWdpbiB0aGUgZGV2ZWxvcG1lbnQsIHJ1biBgbnBtIHN0YXJ0YCBvciBgeWFybiBzdGFydGAuCiAgICAgIFRvIGNyZWF0ZSBhIHByb2R1Y3Rpb24gYnVuZGxlLCB1c2UgYG5wbSBydW4gYnVpbGRgIG9yIGB5YXJuIGJ1aWxkYC4KICAgIC0tPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgTm90aWNlIHRoZSB1c2Ugb2YgJVBVQkxJQ19VUkwlIGluIHRoZSB0YWdzIGFib3ZlLgogICAgICBJdCB3aWxsIGJlIHJlcGxhY2VkIHdpdGggdGhlIFVSTCBvZiB0aGUgYHB1YmxpY2AgZm9sZGVyIGR1cmluZyB0aGUgYnVpbGQuCiAgICAgIE9ubHkgZmlsZXMgaW5zaWRlIHRoZSBgcHVibGljYCBmb2xkZXIgY2FuIGJlIHJlZmVyZW5jZWQgZnJvbSB0aGUgSFRNTC4KCiAgICAgIFVubGlrZSAiL2Zhdmljb24uaWNvIiBvciAiZmF2aWNvbi5pY28iLCAiJVBVQkxJQ19VUkwlL2Zhdmljb24uaWNvIiB3aWxsCiAgICAgIHdvcmsgY29ycmVjdGx5IGJvdGggd2l0aCBjbGllbnQtc2lkZSByb3V0aW5nIGFuZCBhIG5vbi1yb290IHB1YmxpYyBVUkwuCiAgICAgIExlYXJuIGhvdyB0byBjb25maWd1cmUgYSBub24tcm9vdCBwdWJsaWMgVVJMIGJ5IHJ1bm5pbmcgYG5wbSBydW4gYnVpbGRgLgogICAgLS0+Cg==</text>
+        <text encoding="base64">ICAgIDwhLS0KICAgICAgVGhpcyBIVE1MIGZpbGUgaXMgYSB0ZW1wbGF0ZS4KICAgICAgSWYgeW91IG9wZW4gaXQgZGlyZWN0bHkgaW4gdGhlIGJyb3dzZXIsIHlvdSB3aWxsIHNlZSBhbiBlbXB0eSBwYWdlLgoKICAgICAgWW91IGNhbiBhZGQgd2ViZm9udHMsIG1ldGEgdGFncywgb3IgYW5hbHl0aWNzIHRvIHRoaXMgZmlsZS4KICAgICAgVGhlIGJ1aWxkIHN0ZXAgd2lsbCBwbGFjZSB0aGUgYnVuZGxlZCBzY3JpcHRzIGludG8gdGhlIDxib2R5PiB0YWcuCgogICAgICBUbyBiZWdpbiB0aGUgZGV2ZWxvcG1lbnQsIHJ1biBgbnBtIHN0YXJ0YCBvciBgeWFybiBzdGFydGAuCiAgICAgIFRvIGNyZWF0ZSBhIHByb2R1Y3Rpb24gYnVuZGxlLCB1c2UgYG5wbSBydW4gYnVpbGRgIG9yIGB5YXJuIGJ1aWxkYC4KICAgIC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
