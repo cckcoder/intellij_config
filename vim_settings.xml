@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="vim_settings.xml" timestamp="1557197211709">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/var/customers/webs/controller/config.ini" timestamp="1557201972053">
         <mark key="'" line="259" column="12" />
         <mark key="[" line="261" column="20" />
@@ -25,29 +22,17 @@
         <mark key="[" line="52" column="16" />
         <mark key="]" line="52" column="25" />
       </file>
-      <file name="/fragment.js" timestamp="1557376469309">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/var/customers/webs/react_web_dev/client/src/App.js" timestamp="1557392064906">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="5" column="29" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1556859554157">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/audit_reports.php" timestamp="1557452437401">
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="46" />
-        <mark key="." line="13" column="3" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/organizes.php" timestamp="1557453987542">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="63" column="20" />
-        <mark key="]" line="63" column="21" />
-        <mark key="." line="63" column="21" />
-        <mark key="^" line="63" column="21" />
+      <file name="/mnt/sdb1/GMS/application/controllers/general/audit_reports.php" timestamp="1557454729123">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="43" column="3" />
+        <mark key="^" line="43" column="3" />
       </file>
       <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1557304887247">
         <mark key="[" line="359" column="11" />
@@ -58,47 +43,11 @@
       <file name="/mnt/sdb1/GMS/application/views/__common/footer.php" timestamp="1557201460598">
         <mark key="'" line="11" column="40" />
       </file>
-      <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557394331667">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="20" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/client/public/index.html" timestamp="1557392114521">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/spread_operators.js" timestamp="1557285048061">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
         <mark key="." line="4" column="16" />
         <mark key="^" line="12" column="20" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1557376523940">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/vue_creash_todolist/src/components/Todoitem.vue" timestamp="1555673941456">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/refresh_js_es6/class.js" timestamp="1557287105803">
-        <mark key="'" line="26" column="28" />
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="18" />
-        <mark key="." line="38" column="18" />
-        <mark key="^" line="38" column="18" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1557291945015">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="39" column="17" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/models/organize_setup.php" timestamp="1557453720210">
-        <mark key="'" line="50" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1557292608998">
         <mark key="'" line="30" column="0" />
@@ -111,36 +60,6 @@
         <mark key="[" line="151" column="0" />
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
-      </file>
-      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
-        <mark key="[" line="1231" column="0" />
-        <mark key="]" line="1231" column="0" />
-        <mark key="^" line="1628" column="64" />
-        <mark key="." line="1231" column="0" />
-      </file>
-      <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1557390315902">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="48" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/controller/controller31.py" timestamp="1557202332163">
-        <mark key="'" line="27" column="28" />
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="31" />
-      </file>
-      <file name="/general_helper.py" timestamp="1557369708042">
-        <mark key="'" line="1596" column="8" />
-        <mark key="[" line="1596" column="0" />
-        <mark key="]" line="1634" column="23" />
       </file>
       <file name="/gold_monthly_report.py" timestamp="1557301309377">
         <mark key="'" line="384" column="17" />
@@ -189,6 +108,123 @@
         <mark key="." line="713" column="68" />
         <mark key="^" line="713" column="68" />
       </file>
+      <file name="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" timestamp="1557390220369">
+        <mark key="'" line="210" column="50" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="221" column="9" />
+        <mark key="^" line="220" column="31" />
+      </file>
+      <file name="/var/customers/webs/controller/models/couch_inventory.py" timestamp="1554266020183">
+        <mark key="[" line="145" column="38" />
+        <mark key="]" line="145" column="38" />
+        <mark key="^" line="145" column="38" />
+        <mark key="." line="145" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557396384469">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="/var/customers/webs/react_web_dev/package.json" timestamp="1557384311417">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557455980817">
+        <mark key="'" line="37" column="59" />
+        <mark key="[" line="95" column="66" />
+        <mark key="]" line="95" column="67" />
+        <mark key="." line="95" column="67" />
+        <mark key="^" line="93" column="9" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/wal_mart.php" timestamp="1557455200743">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="66" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/controllers/general/organizes.php" timestamp="1557453987542">
+        <mark key="'" line="54" column="8" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="21" />
+      </file>
+      <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557394331667">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="/var/customers/webs/react_web_dev/client/public/index.html" timestamp="1557392114521">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/mnt/sdb1/GMS/assets/css/buttons_audit_reports.css" timestamp="1557455125281">
+        <mark key="'" line="470" column="2" />
+      </file>
+      <file name="/var/customers/webs/vue_creash_todolist/src/components/Todoitem.vue" timestamp="1555673941456">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
+      <file name="/var/customers/webs/react_web_dev/refresh_js_es6/class.js" timestamp="1557287105803">
+        <mark key="'" line="26" column="28" />
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1557291945015">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="39" column="17" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/models/organize_setup.php" timestamp="1557453720210">
+        <mark key="'" line="50" column="20" />
+      </file>
+      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
+        <mark key="[" line="1231" column="0" />
+        <mark key="]" line="1231" column="0" />
+        <mark key="^" line="1628" column="64" />
+        <mark key="." line="1231" column="0" />
+      </file>
+      <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1557390315902">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="48" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/views/_common/nav.php" timestamp="1557455033669">
+        <mark key="'" line="229" column="0" />
+      </file>
+      <file name="/var/customers/webs/controller/controller31.py" timestamp="1557202332163">
+        <mark key="'" line="27" column="28" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+      </file>
+      <file name="/general_helper.py" timestamp="1557369708042">
+        <mark key="'" line="1596" column="8" />
+        <mark key="[" line="1596" column="0" />
+        <mark key="]" line="1634" column="23" />
+      </file>
+      <file name="/mnt/sdb1/GMS/assets/css/styles_audit_reports.css" timestamp="1557455225473">
+        <mark key="'" line="21" column="0" />
+      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/plate_pvd_ctrl.php" timestamp="1553850402939">
         <mark key="[" line="30" column="74" />
         <mark key="]" line="30" column="76" />
@@ -207,38 +243,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" timestamp="1557390220369">
-        <mark key="'" line="210" column="50" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="221" column="9" />
-        <mark key="^" line="220" column="31" />
-      </file>
-      <file name="/var/customers/webs/controller/models/couch_inventory.py" timestamp="1554266020183">
-        <mark key="[" line="145" column="38" />
-        <mark key="]" line="145" column="38" />
-        <mark key="^" line="145" column="38" />
-        <mark key="." line="145" column="38" />
-      </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/call_module.js" timestamp="1557383991181">
         <mark key="'" line="0" column="25" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557396384469">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="5" />
-        <mark key="^" line="0" column="7" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/package.json" timestamp="1557384311417">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="7" column="31" />
       </file>
       <file name="/var/customers/webs/controller/models/yz3_stock.py" timestamp="1557213153315">
         <mark key="'" line="317" column="7" />
@@ -247,21 +257,8 @@
         <mark key="^" line="304" column="72" />
         <mark key="." line="232" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1556779745800">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="27" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="209" column="34" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="193" column="33" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="195" column="33" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="194" column="34" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="96" column="56" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="14" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="78" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="17" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
-      <jump line="26" column="28" filename="/var/customers/webs/react_web_dev/refresh_js_es6/class.js" />
       <jump line="1" column="6" filename="/var/customers/webs/react_web_dev/refresh_js_es6/class.js" />
       <jump line="8" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
       <jump line="63" column="62" filename="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" />
@@ -352,43 +349,65 @@
       <jump line="72" column="8" filename="/mnt/sdb1/GMS/application/controllers/general/organizes.php" />
       <jump line="114" column="49" filename="/mnt/sdb1/GMS/application/controllers/general/organizes.php" />
       <jump line="54" column="8" filename="/mnt/sdb1/GMS/application/controllers/general/organizes.php" />
+      <jump line="16" column="0" filename="/mnt/sdb1/GMS/application/views/_common/nav.php" />
+      <jump line="229" column="0" filename="/mnt/sdb1/GMS/application/views/_common/nav.php" />
+      <jump line="0" column="12" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/wal_mart.php" />
+      <jump line="0" column="0" filename="/mnt/sdb1/GMS/system/helpers/html_helper.php" />
+      <jump line="470" column="2" filename="/mnt/sdb1/GMS/assets/css/buttons_audit_reports.css" />
+      <jump line="76" column="0" filename="/mnt/sdb1/GMS/assets/css/buttons_audit_reports.css" />
+      <jump line="0" column="32" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" />
+      <jump line="21" column="0" filename="/mnt/sdb1/GMS/assets/css/styles_audit_reports.css" />
+      <jump line="288" column="0" filename="/mnt/sdb1/GMS/assets/css/styles_audit_reports.css" />
+      <jump line="37" column="59" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>388</text>
+        <text>2014</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWFkX3N0b2NrXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>general/audit_reports</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCdnZW5lcmFsL2F1ZGl0X3JlcG9ydHMvaW5kZXgvNi8yMDE0JywnMjAxNCcpID8+PC9saT4K</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPGxpIGNsYXNzPSJoYXMtc3ViIj48YSBocmVmPSIiPjIwMTg8L2E+CiAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTgvQVVESVRfUkVTVUxUJyAsJ0FVRElUX1JFU1VMVCcpID8+PC9saT4KICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxOC9BVURJVE9SJyAsJ0FVRElUT1InKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTgvSU5URVJOQUxfQVVESVRfU0NIRURVTEUnICwnSU5URVJOQUxfQVVESVRfU0NIRURVTEUnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTgvU1VNTUFSWV9JTlRFUl9BVURJVCcgLCdTVU1NQVJZX0lOVEVSX0FVRElUJykgPz48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgPC9saT4KICAgICAgPGxpIGNsYXNzPSJoYXMtc3ViIj48YSBocmVmPSIiPjIwMTc8L2E+CiAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTcvQVVESVRfUkVTVUxUJyAsJ0FVRElUX1JFU1VMVCcpID8+PC9saT4KICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNy9BVURJVE9SJyAsJ0FVRElUT1InKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTcvSU5URVJOQUxfQVVESVRfU0NIRURVTEUnICwnSU5URVJOQUxfQVVESVRfU0NIRURVTEUnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTcvU1VNTUFSWV9JTlRFUl9BVURJVCcgLCdTVU1NQVJZX0lOVEVSX0FVRElUJykgPz48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgPC9saT4KICAgICAgPGxpIGNsYXNzPSJoYXMtc3ViIj48YSBocmVmPSIiPjIwMTY8L2E+CiAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTYvQVVESVRfUkVTVUxUJyAsJ0FVRElUX1JFU1VMVCcpID8+PC9saT4KICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNi9BVURJVE9SJyAsJ0FVRElUT1InKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTYvSU5URVJOQUxfQVVESVRfU0NIRURVTEUnICwnSU5URVJOQUxfQVVESVRfU0NIRURVTEUnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTYvU1VNTUFSWV9JTlRFUl9BVURJVCcgLCdTVU1NQVJZX0lOVEVSX0FVRElUJykgPz48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgPC9saT4KICAgICAgPGxpIGNsYXNzPSJoYXMtc3ViIj48YSBocmVmPSIiPjIwMTU8L2E+CiAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTUvQVVESVRfUkVTVUxUJyAsJ0FVRElUX1JFU1VMVCcpID8+PC9saT4KICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNS9BVURJVE9SJyAsJ0FVRElUT1InKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTUvSU5URVJOQUxfQVVESVRfU0NIRURVTEUnICwnSU5URVJOQUxfQVVESVRfU0NIRURVTEUnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTUvU1VNTUFSWV9JTlRFUl9BVURJVCcgLCdTVU1NQVJZX0lOVEVSX0FVRElUJykgPz48L2xpPgogICAgICAgICAgPC91bD4KICAgICAgPC9saT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNC9NQU5VRkFDVFVSSU5HJyAsJ01BTlVGQUNUVVJJTkcnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTQvUFJPRFVDVElPTicgLCdQUk9EVUNUSU9OJykgPz48L2xpPgogICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCdnZW5lcmFsL2F1ZGl0X3JlcG9ydHMvaW5kZXgvNS8yMDE0L1FBJyAsJ1FBJykgPz48L2xpPgogICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCdnZW5lcmFsL2F1ZGl0X3JlcG9ydHMvaW5kZXgvNS8yMDE0L1NVUFBPUlRJTkdfREVQQVJUTUVOVCcgLCdTVVBQT1JUSU5HIERFUEFSVE1FTlQnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTQvQVVESVRPUl8yMDE0JyAsc3RydG91cHBlcignQXVkaXRvciAyMDE0JykpID8+PC9saT4KICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNC9JTlRFUk5FTF9BVURJVF9TQ0hFRFVMRV8yMDE0JyAsc3RydG91cHBlcignSW50ZXJuYWwgQXVkaXQgU2NoZWR1bGUgMjAxNCcpKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTQvU1VNTUFSWV9JTlRFUl9BVURJVCcgLHN0cnRvdXBwZXIoJ3N1bW1hcnkgaW50ZXJuYWwgYXVkaXQnKSkgPz48L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gV2VsY29tZSgpIHsKICAgcmV0dXJuIDxoMT5XZWxjb21lIHRvIFJlYWN0IFdvcmxkPC9oMT4KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNy9NQU5VRkFDVFVSSU5HJyAsJ01BTlVGQUNUVVJJTkcnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTcvUFJPRFVDVElPTicgLCdQUk9EVUNUSU9OJykgPz48L2xpPgogICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCdnZW5lcmFsL2F1ZGl0X3JlcG9ydHMvaW5kZXgvNS8yMDE3L1FBJyAsJ1FBJykgPz48L2xpPgogICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCdnZW5lcmFsL2F1ZGl0X3JlcG9ydHMvaW5kZXgvNS8yMDE3L1NVUFBPUlRJTkdfREVQQVJUTUVOVCcgLCdTVVBQT1JUSU5HIERFUEFSVE1FTlQnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTcvQVVESVRPUl8yMDE0JyAsc3RydG91cHBlcignQXVkaXRvciAyMDE0JykpID8+PC9saT4KICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNy9JTlRFUk5FTF9BVURJVF9TQ0hFRFVMRV8yMDE0JyAsc3RydG91cHBlcignSW50ZXJuYWwgQXVkaXQgU2NoZWR1bGUgMjAxNCcpKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTcvU1VNTUFSWV9JTlRFUl9BVURJVCcgLHN0cnRvdXBwZXIoJ3N1bW1hcnkgaW50ZXJuYWwgYXVkaXQnKSkgPz48L2xpPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZWxlbWVudCA9IDxoMT57d2VsY29tZSgpfSB7dXNlci5lbWFpbH08L2gxPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNi9NQU5VRkFDVFVSSU5HJyAsJ01BTlVGQUNUVVJJTkcnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTYvUFJPRFVDVElPTicgLCdQUk9EVUNUSU9OJykgPz48L2xpPgogICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCdnZW5lcmFsL2F1ZGl0X3JlcG9ydHMvaW5kZXgvNS8yMDE2L1FBJyAsJ1FBJykgPz48L2xpPgogICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCdnZW5lcmFsL2F1ZGl0X3JlcG9ydHMvaW5kZXgvNS8yMDE2L1NVUFBPUlRJTkdfREVQQVJUTUVOVCcgLCdTVVBQT1JUSU5HIERFUEFSVE1FTlQnKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTYvQVVESVRPUl8yMDE0JyAsc3RydG91cHBlcignQXVkaXRvciAyMDE0JykpID8+PC9saT4KICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNi9JTlRFUk5FTF9BVURJVF9TQ0hFRFVMRV8yMDE0JyAsc3RydG91cHBlcignSW50ZXJuYWwgQXVkaXQgU2NoZWR1bGUgMjAxNCcpKSA/PjwvbGk+CiAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2dlbmVyYWwvYXVkaXRfcmVwb3J0cy9pbmRleC81LzIwMTYvU1VNTUFSWV9JTlRFUl9BVURJVCcgLHN0cnRvdXBwZXIoJ3N1bW1hcnkgaW50ZXJuYWwgYXVkaXQnKSkgPz48L2xpPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">bGV0IHdlbGNvbWUgPSAoKSA9PiAiSGVsbG8gUmVhY3QgZnVuY3Rpb24iOwo=</text>
+      <register name="5" type="8">
+        <text>4
+4
+4
+4
+4
+4
+4</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IHVzZXIgPSB7CiAgIHVzZXJuYW1lOiAiY29kZXdpeiIsCiAgIGVtYWlsOiAiY29kZXdpekBjb2Rld2l6IiwKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNS9BVURJVE9SXzIwMTQnICxzdHJ0b3VwcGVyKCdBdWRpdG9yIDIwMTQnKSkgPz48L2xpPgogICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCdnZW5lcmFsL2F1ZGl0X3JlcG9ydHMvaW5kZXgvNS8yMDE1L0lOVEVSTkVMX0FVRElUX1NDSEVEVUxFXzIwMTQnICxzdHJ0b3VwcGVyKCdJbnRlcm5hbCBBdWRpdCBTY2hlZHVsZSAyMDE0JykpID8+PC9saT4KICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzUvMjAxNS9TVU1NQVJZX0lOVEVSX0FVRElUJyAsc3RydG91cHBlcignc3VtbWFyeSBpbnRlcm5hbCBhdWRpdCcpKSA/PjwvbGk+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">V0lUSCB0YXJnZXRfMjQgQVMgKAoJU0VMRUNUCgkJaC50bWFfZG9jdW1lbnQsCgkJaC50bWFfZGF0ZSwKCQloLnRtYV9mcm9tX2xvY2F0aW9uLAoJCWgudG1hX3VudGlsX2xvY2F0aW9uLAoJCWYueXoyX2VudGVyZW5jZV9leGl0X2ZpbmRpbmcsCgkJdC50Y25fbG9jYXRpb25fZGVzY3JpcHRpb24sCgkJbC50bWJfZmluZGluZ19zdHlsZV9jb2RlLAoJCWgudG1hX2NvbW1lbnQsCgkJbC50bWJfd3RfZ3Jvc3NfcHJvcGVyLAoJCWYuSURFTlRJVFlfRkxELAoJCVJPV19OVU1CRVIoKSBvdmVyICgKCQkJUEFSVElUSU9OIEJZCgkJCWEuYXYwX2thcmF0CgkJCU9SREVSIEJZIGYuSURFTlRJVFlfRkxEIERFU0MKCQkJKSBBUyBfcm93LAoJCUNBU0UKCQkJV0hFTiBhLmF2MF9rYXJhdCA9IDE4IFRIRU4gIElTTlVMTChsLnRtYl93dF9ncm9zc19wcm9wZXIgKiAwLjc2LDApCgkJCUVMU0UgSVNOVUxMKGwudG1iX3d0X2dyb3NzX3Byb3BlciwwKSAqIDEuMAoJCQlFTkQgd3RfY29udmVydAoJRlJPTSB0bWFfdHJhbnNmZXJfZG9jX2hkciBhcyBoCglMRUZUIEpPSU4gdGNuX2xvY2F0aW9uIEFTIHQKCQlPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gaC50bWFfdW50aWxfbG9jYXRpb24KCUxFRlQgSk9JTiB0bWJfdHJhbnNmZXJfZG9jX2xuIEFTIGwKCSAgT04gbC50bWJfZG9jdW1lbnQgPSBoLnRtYV9kb2N1bWVudAoJTEVGVCBKT0lOIGF2MF9zdHlsZSBBUyBhCgkJT04gYS5hdjBfc3R5bGUgPSBsLnRtYl9maW5kaW5nX3N0eWxlX2NvZGUKCUxFRlQgSk9JTiBzbC5kYm8uRjMzMF8xNDBwcmV2aW91c190cmFuc2FjdGlvbl9maW5kaW5nIGFzIGYKCQlPTiBmLnl6Ml9kb2N1bWVudF9ubyA9IGgudG1hX2RvY3VtZW50IGFuZCBmLnl6Ml9sb2NhdGlvbiA9IDgwMzAKCVdIRVJFIGEuYXYwX2thcmF0ID0gMjQKCQlBTkQgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgaC50bWFfZGF0ZSwgMTA0KSkgPSAyMDE5CgkJQU5EIE1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCBoLnRtYV9kYXRlLCAxMDQpKSA9IDMKCQlBTkQgKGgudG1hX2Zyb21fbG9jYXRpb24gPSA4MDMwIG9yIGgudG1hX3VudGlsX2xvY2F0aW9uID0gODAzMCkKKQpTRUxFQ1QKCSoKRlJPTSB0YXJnZXRfMjQKV0hFUkUgX3JvdyA9IDEKCgpXSVRIIHRhcmdldF8xOCBhcyAoCglTRUxFQ1QKCQloLnRtYV9kb2N1bWVudCwKCQloLnRtYV9kYXRlLAoJCWgudG1hX2Zyb21fbG9jYXRpb24sCgkJaC50bWFfdW50aWxfbG9jYXRpb24sCgkJZi55ejJfZW50ZXJlbmNlX2V4aXRfZmluZGluZywKCQl0LnRjbl9sb2NhdGlvbl9kZXNjcmlwdGlvbiwKCQlsLnRtYl9maW5kaW5nX3N0eWxlX2NvZGUsCgkJaC50bWFfY29tbWVudCwKCQlsLnRtYl93dF9ncm9zc19wcm9wZXIsCgkJZi5JREVOVElUWV9GTEQsCgkJUk9XX05VTUJFUigpIG92ZXIgKAoJCQlQQVJUSVRJT04gQlkKCQkJYS5hdjBfa2FyYXQKCQkJT1JERVIgQlkgZi5JREVOVElUWV9GTEQgREVTQwoJCQkpIEFTIF9yb3csCgkJQ0FTRQoJCQlXSEVOIGEuYXYwX2thcmF0ID0gMTggVEhFTiAgSVNOVUxMKGwudG1iX3d0X2dyb3NzX3Byb3BlciAqIDAuNzYsMCkKCQkJRUxTRSBJU05VTEwobC50bWJfd3RfZ3Jvc3NfcHJvcGVyLDApICogMS4wCgkJCUVORCB3dF9jb252ZXJ0CglGUk9NIHRtYV90cmFuc2Zlcl9kb2NfaGRyIGFzIGgKICBMRUZUIEpPSU4gdGNuX2xvY2F0aW9uIEFTIHQKCQlPTiB0LnRjbl9sb2NhdGlvbl9jb2RlID0gaC50bWFfdW50aWxfbG9jYXRpb24KICBMRUZUIEpPSU4gdG1iX3RyYW5zZmVyX2RvY19sbiBBUyBsCgkJT04gbC50bWJfZG9jdW1lbnQgPSBoLnRtYV9kb2N1bWVudAogIExFRlQgSk9JTiBhdjBfc3R5bGUgQVMgYQoJCU9OIGEuYXYwX3N0eWxlID0gbC50bWJfZmluZGluZ19zdHlsZV9jb2RlCiAgTEVGVCBKT0lOIHNsLmRiby5GMzMwXzE0MHByZXZpb3VzX3RyYW5zYWN0aW9uX2ZpbmRpbmcgYXMgZgoJICBPTiBmLnl6Ml9kb2N1bWVudF9ubyA9IGgudG1hX2RvY3VtZW50IGFuZCBmLnl6Ml9sb2NhdGlvbiA9IDgwMjkKCVdIRVJFIGEuYXYwX2thcmF0ID0gMTgKCQlBTkQgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgaC50bWFfZGF0ZSwgMTA0KSkgPSAyMDE5CgkJQU5EIChoLnRtYV9mcm9tX2xvY2F0aW9uID0gODAyOSBvciBoLnRtYV91bnRpbF9sb2NhdGlvbiA9IDgwMjkpCikKU0VMRUNUCgkqCkZST00gdGFyZ2V0XzE4CldIRVJFIF9yb3cgPSAxCgo=</text>
+      <register name="7" type="8">
+        <text>4
+4
+4
+4
+4
+4
+4</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gUmVhY3RET00ucmVuZGVyKDxBcHAgLz4sIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdyb290JykpOwo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgICAgVGhpcyBIVE1MIGZpbGUgaXMgYSB0ZW1wbGF0ZS4KICAgICAgSWYgeW91IG9wZW4gaXQgZGlyZWN0bHkgaW4gdGhlIGJyb3dzZXIsIHlvdSB3aWxsIHNlZSBhbiBlbXB0eSBwYWdlLgoKICAgICAgWW91IGNhbiBhZGQgd2ViZm9udHMsIG1ldGEgdGFncywgb3IgYW5hbHl0aWNzIHRvIHRoaXMgZmlsZS4KICAgICAgVGhlIGJ1aWxkIHN0ZXAgd2lsbCBwbGFjZSB0aGUgYnVuZGxlZCBzY3JpcHRzIGludG8gdGhlIDxib2R5PiB0YWcuCgogICAgICBUbyBiZWdpbiB0aGUgZGV2ZWxvcG1lbnQsIHJ1biBgbnBtIHN0YXJ0YCBvciBgeWFybiBzdGFydGAuCiAgICAgIFRvIGNyZWF0ZSBhIHByb2R1Y3Rpb24gYnVuZGxlLCB1c2UgYG5wbSBydW4gYnVpbGRgIG9yIGB5YXJuIGJ1aWxkYC4KICAgIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
