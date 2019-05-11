@@ -36,17 +36,16 @@
         <mark key="." line="359" column="12" />
         <mark key="^" line="359" column="12" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/__common/footer.php" timestamp="1557201460598">
-        <mark key="'" line="11" column="40" />
-      </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/spread_operators.js" timestamp="1557285048061">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
         <mark key="." line="4" column="16" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="/gold_monthly_report.py" timestamp="1557301309377">
-        <mark key="'" line="384" column="17" />
+      <file name="/mnt/sdb1/GMS/application/models/couch_inventory.php" timestamp="1557390092861">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/components/Header.js" timestamp="1557563655105">
         <mark key="'" line="0" column="0" />
@@ -131,6 +130,13 @@
         <mark key="." line="6" column="119" />
         <mark key="^" line="6" column="54" />
       </file>
+      <file name="/var/customers/webs/react_web_dev/client/src/App.css" timestamp="1557567758655">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="7" column="33" />
+      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557538836408">
         <mark key="'" line="3" column="2" />
         <mark key="[" line="91" column="33" />
@@ -152,21 +158,23 @@
         <mark key="." line="63" column="21" />
         <mark key="^" line="63" column="21" />
       </file>
-      <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557560169752">
-        <mark key="'" line="4" column="17" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="20" />
+      <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557567785746">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+      </file>
+      <file name="/var/customers/webs/react_web_dev/client/public/index.html" timestamp="1557392114521">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/iso_3_system.php" timestamp="1557470326611">
         <mark key="[" line="7" column="67" />
         <mark key="]" line="7" column="83" />
         <mark key="." line="7" column="66" />
         <mark key="^" line="8" column="7" />
-      </file>
-      <file name="/mnt/sdb1/GMS/assets/css/buttons_audit_reports.css" timestamp="1557455125281">
-        <mark key="'" line="470" column="2" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/Todoitem.vue" timestamp="1555673941456">
         <mark key="[" line="3" column="20" />
@@ -187,9 +195,6 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/models/organize_setup.php" timestamp="1557453720210">
-        <mark key="'" line="50" column="20" />
-      </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
         <mark key="[" line="1231" column="0" />
         <mark key="]" line="1231" column="0" />
@@ -208,12 +213,6 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/_common/nav.php" timestamp="1557455033669">
-        <mark key="'" line="229" column="0" />
-      </file>
-      <file name="/mnt/sdb1/GMS/assets/css/styles_audit_reports.css" timestamp="1557455225473">
-        <mark key="'" line="21" column="0" />
-      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/summary_inter_audit.php" timestamp="1557538526361">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="28" />
@@ -226,6 +225,11 @@
         <mark key="]" line="7" column="92" />
         <mark key="^" line="2" column="13" />
         <mark key="." line="7" column="140" />
+      </file>
+      <file name="/var/customers/webs/react_web_dev/client/package.json" timestamp="1557567094473">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="18" column="3" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/plate_pvd_ctrl.php" timestamp="1553850402939">
         <mark key="[" line="30" column="74" />
@@ -247,9 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="734" column="20" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
-      <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
-      <jump line="80" column="65" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="377" column="21" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
       <jump line="1552" column="25" filename="/general_helper.py" />
       <jump line="1553" column="0" filename="/general_helper.py" />
@@ -274,7 +275,6 @@
       <jump line="210" column="50" filename="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" />
       <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/models/couch_inventory.php" />
       <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc" />
-      <jump line="6" column="50" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="3" column="19" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="7" column="6" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
       <jump line="7" column="7" filename="/var/customers/webs/react_web_dev/client/public/index.html" />
@@ -282,7 +282,6 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="2" column="19" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
-      <jump line="5" column="11" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="6" column="0" filename="/var/customers/webs/react_web_dev/client/src/components/Header.js" />
       <jump line="44" column="21" filename="/mnt/sdb1/GMS/application/controllers/general/organizes.php" />
       <jump line="50" column="20" filename="/mnt/sdb1/GMS/application/models/organize_setup.php" />
@@ -347,43 +346,48 @@
       <jump line="4" column="17" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="10" column="17" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
       <jump line="5" column="6" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
+      <jump line="1" column="16" filename="/var/customers/webs/react_web_dev/client/package.json" />
+      <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/client/src/App.css" />
+      <jump line="5" column="0" filename="/var/customers/webs/react_web_dev/client/src/App.css" />
+      <jump line="6" column="0" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
+      <jump line="5" column="0" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'componentDidMount'</text>
+        <text>Regular</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWFkX3N0b2NrXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29tcG9uZW50RGlkTW91bnQnKQo=</text>
+      <register name="0" type="4">
+        <text>Medium</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpbWVySUQpCg==</text>
+        <text encoding="base64">ICAgIHJpZ2h0OiA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgSGVhZGVyID0gKCkgPT4gewogICAgcmV0dXJuIDxoMT5IZWFkZXI8L2gxPgp9Cg==</text>
+        <text encoding="base64">ICAibmFtZSI6ICJjbGllbnQiLAogICJ2ZXJzaW9uIjogIjAuMS4wIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJyZWFjdCI6ICJeMTYuOC42IiwKICAgICJyZWFjdC1kb20iOiAiXjE2LjguNiIsCiAgICAicmVhY3Qtc2NyaXB0cyI6ICIzLjAuMSIKICB9LAogICJzY3JpcHRzIjogewogICAgInN0YXJ0IjogInJlYWN0LXNjcmlwdHMgc3RhcnQiLAogICAgImJ1aWxkIjogInJlYWN0LXNjcmlwdHMgYnVpbGQiLAogICAgInRlc3QiOiAicmVhY3Qtc2NyaXB0cyB0ZXN0IC0tZW52PWpzZG9tIiwKICAgICJlamVjdCI6ICJyZWFjdC1zY3JpcHRzIGVqZWN0IgogIH0sCiAgImVzbGludENvbmZpZyI6IHsKICAgICJleHRlbmRzIjogInJlYWN0LWFwcCIKICB9LAogICJicm93c2Vyc2xpc3QiOiB7CiAgICAicHJvZHVjdGlvbiI6IFsKICAgICAgIj4wLjIlIiwKICAgICAgIm5vdCBkZWFkIiwKICAgICAgIm5vdCBvcF9taW5pIGFsbCIKICAgIF0sCiAgICAiZGV2ZWxvcG1lbnQiOiBbCiAgICAgICJsYXN0IDEgY2hyb21lIHZlcnNpb24iLAogICAgICAibGFzdCAxIGZpcmVmb3ggdmVyc2lvbiIsCiAgICAgICJsYXN0IDEgc2FmYXJpIHZlcnNpb24iCiAgICBdCiAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIChwcm9wcykgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICJib290c3RyYXAiOiAiXjQuMy4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlYWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpbWVySUQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gQXBwKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgICA8ZGl2PkhlbGxvIFJlYWN0PC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==</text>
+        <text encoding="base64">Y29uc3QgSGVhZGVyID0gKCkgPT4gewogICAgcmV0dXJuIDxoMT5IZWFkZXI8L2gxPgp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZW5kaWY7Pz4K</text>
+        <text encoding="base64">ICAgIChwcm9wcykgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxOS9BVURJVF9SRVBPUlRfMjAxOS5wZGYiLHN0cnRvdXBwZXIoIkFVRElUIFJFUE9SVCAyMDE5IiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlYWRlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxNy9TRURFWF9GVUxMX1JFUE9SVF8yMDE3LnBkZiIsc3RydG91cHBlcigiU0VERVggRlVMTCBSRVBPUlQgMjAxNyIpLGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gQXBwKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgICA8ZGl2PkhlbGxvIFJlYWN0PC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZWxzZTogPz4KICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxNC9DQVBfb2ZfU2FsYW1hbmRlci5wZGYiLHN0cnRvdXBwZXIoIkNBUCBvZiBTYWxhbWFuZGVyIDIwMTQgMDIgMjEiKSxhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxNC9DbGFpcmVzXzA5NF9TYWxhbWFuZGVyX0pld2VscnlfQ29fTHRkX1Bob3RvX0lOSS5wZGYiLHN0cnRvdXBwZXIoIkNsYWlyZSdzIDA5NCBTYWxhbWFuZGVyIEpld2VscnkgQ28gTHRkIFBob3RvIElOSSAyMDE0IDAyIDIxIiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcigiYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2NsYWlyLzIwMTQvQ2xhaXJlc18wOTRfU2FsYW1hbmRlcl9KZXdlbHJ5X0NvX0x0ZF9SZXBvcnRfSU5JLnBkZiIsc3RydG91cHBlcigiQ2xhaXJlJ3MgMDk0IFNhbGFtYW5kZXIgSmV3ZWxyeSBDbyBMdGQgUmVwb3J0IElOSSAyMDE0IDAyIDIxIiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcigiYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2NsYWlyLzIwMTQvQ2xhaXJlc18wOTRfU2FsYW1hbmRlcl9KZXdlbHJ5X0NvX0x0ZF9SZXBvcnRfSU5JLnBkZiIsc3RydG91cHBlcigiQ2xhaXJlJ3MgMDk0IFNhbGFtYW5kZXIgSmV3ZWxyeSBDbyBMdGQgUmVwb3J0IElOSSAyMDE0IDAyIDIxIiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZW5kaWY7Pz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
