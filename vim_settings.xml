@@ -23,11 +23,11 @@
         <mark key="." line="90" column="113" />
         <mark key="^" line="89" column="112" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/audit_reports.php" timestamp="1557465511225">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="58" />
-        <mark key="." line="43" column="3" />
-        <mark key="^" line="43" column="3" />
+      <file name="/mnt/sdb1/GMS/application/controllers/general/audit_reports.php" timestamp="1557539318960">
+        <mark key="[" line="45" column="49" />
+        <mark key="]" line="45" column="53" />
+        <mark key="." line="45" column="53" />
+        <mark key="^" line="45" column="53" />
       </file>
       <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1557304887247">
         <mark key="[" line="359" column="11" />
@@ -44,11 +44,6 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/models/couch_inventory.php" timestamp="1557390092861">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-      </file>
       <file name="/gold_monthly_report.py" timestamp="1557301309377">
         <mark key="'" line="384" column="17" />
       </file>
@@ -64,6 +59,12 @@
         <mark key="]" line="7" column="33" />
         <mark key="^" line="7" column="33" />
         <mark key="." line="7" column="33" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/smeta.php" timestamp="1557539527424">
+        <mark key="[" line="11" column="129" />
+        <mark key="]" line="11" column="130" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="11" column="130" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/.gitignore" timestamp="1555674682442">
         <mark key="[" line="119" column="0" />
@@ -115,12 +116,12 @@
         <mark key="." line="6" column="119" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557455980817">
-        <mark key="'" line="37" column="59" />
-        <mark key="[" line="95" column="66" />
-        <mark key="]" line="95" column="67" />
-        <mark key="." line="95" column="67" />
-        <mark key="^" line="93" column="9" />
+      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557538836408">
+        <mark key="'" line="3" column="2" />
+        <mark key="[" line="91" column="33" />
+        <mark key="]" line="91" column="33" />
+        <mark key="." line="91" column="33" />
+        <mark key="^" line="91" column="33" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/wal_mart.php" timestamp="1557465455940">
         <mark key="'" line="0" column="12" />
@@ -136,17 +137,6 @@
         <mark key="." line="63" column="21" />
         <mark key="^" line="63" column="21" />
       </file>
-      <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557394331667">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="20" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/client/public/index.html" timestamp="1557392114521">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/iso_3_system.php" timestamp="1557470326611">
         <mark key="[" line="7" column="67" />
         <mark key="]" line="7" column="83" />
@@ -161,6 +151,13 @@
         <mark key="]" line="3" column="23" />
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" timestamp="1557539339519">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="9" column="116" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1557291945015">
         <mark key="[" line="37" column="0" />
@@ -195,18 +192,18 @@
       <file name="/mnt/sdb1/GMS/assets/css/styles_audit_reports.css" timestamp="1557455225473">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/summary_inter_audit.php" timestamp="1557481675518">
-        <mark key="[" line="5" column="65" />
-        <mark key="]" line="5" column="86" />
-        <mark key="." line="5" column="64" />
+      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/summary_inter_audit.php" timestamp="1557538526361">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="7" column="64" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/internal_audit_schedule.php" timestamp="1557481649419">
+      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/internal_audit_schedule.php" timestamp="1557538101078">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="5" column="65" />
-        <mark key="]" line="5" column="92" />
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="7" column="92" />
         <mark key="^" line="2" column="13" />
-        <mark key="." line="5" column="140" />
+        <mark key="." line="7" column="140" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/plate_pvd_ctrl.php" timestamp="1553850402939">
         <mark key="[" line="30" column="74" />
@@ -228,13 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="675" column="18" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
-      <jump line="1594" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
-      <jump line="41" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="1640" column="12" filename="/var/customers/webs/api3/api/views/general_helper.py" />
-      <jump line="1632" column="10" filename="/var/customers/webs/api3/api/views/general_helper.py" />
-      <jump line="384" column="17" filename="/gold_monthly_report.py" />
-      <jump line="674" column="23" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="797" column="18" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="1885" column="4" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="653" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
@@ -328,43 +318,50 @@
       <jump line="84" column="137" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
       <jump line="69" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
       <jump line="63" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
+      <jump line="9" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
+      <jump line="12" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
+      <jump line="7" column="69" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
+      <jump line="98" column="6" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" />
+      <jump line="3" column="2" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" />
+      <jump line="18" column="21" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
+      <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>22</text>
+        <text>AUDIT REPORT 2018</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWFkX3N0b2NrXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNy8xOF9BVURJVF9DSEVDS19MSVNUX1NGXzIwMTcucGRmJywgc3RydG91cHBlcignMTggQVVESVQgQ0hFQ0sgTElTVCBTRiAyMDE3JyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE3LzE5X0FVRElUX0NIRUNLX0xJU1RfRGF0YV8yMDE3LnBkZicsIHN0cnRvdXBwZXIoJzE5IEFVRElUIENIRUNLIExJU1QgRGF0YSAyMDE3JyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE3LzIwX0FVRElUX0NIRUNLX0xJU1RfTklfTUZSXzIwMTcucGRmJywgc3RydG91cHBlcignMjAgQVVESVQgQ0hFQ0sgTElTVCBOSSBNRlIgMjAxNycpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNy8yMV9BVURJVF9DSEVDS19MSVNUX0NPXzIwMTcucGRmJywgc3RydG91cHBlcignMjEgQVVESVQgQ0hFQ0sgTElTVCBDTyAyMDE3JyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE3LzIyX0FVRElUX0NIRUNLX0xJU1RfU1RfMjAxNy5wZGYnLCBzdHJ0b3VwcGVyKCcyMiBBVURJVCBDSEVDSyBMSVNUIFNUIDIwMTcnKSwgYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICA8bGk+PD89IGFuY2hvcignYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2ludGVybmFsX2F1ZGl0LzIwMTcvMjNfQVVESVRfQ0hFQ0tfTElTVF9JVF8yMDE3LnBkZicsIHN0cnRvdXBwZXIoJzIzIEFVRElUIENIRUNLIExJU1QgSVQgMjAxNycpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4K</text>
+      <register name="0" type="4">
+        <text>SEDEX_FULL_REPORT_2018</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8ucGRmJywgc3RydG91cHBlcignJyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE2Ly5wZGYnLCBzdHJ0b3VwcGVyKCcnKSwgYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICA8bGk+PD89IGFuY2hvcignYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2ludGVybmFsX2F1ZGl0LzIwMTYvLnBkZicsIHN0cnRvdXBwZXIoJycpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8ucGRmJywgc3RydG91cHBlcignJyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE2Ly5wZGYnLCBzdHJ0b3VwcGVyKCcnKSwgYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICA8bGk+PD89IGFuY2hvcignYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2ludGVybmFsX2F1ZGl0LzIwMTYvLnBkZicsIHN0cnRvdXBwZXIoJycpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8ucGRmJywgc3RydG91cHBlcignJyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE2Ly5wZGYnLCBzdHJ0b3VwcGVyKCcnKSwgYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICA8bGk+PD89IGFuY2hvcignYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2ludGVybmFsX2F1ZGl0LzIwMTYvLnBkZicsIHN0cnRvdXBwZXIoJycpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8ucGRmJywgc3RydG91cHBlcignJyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE2Ly5wZGYnLCBzdHJ0b3VwcGVyKCcnKSwgYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICA8bGk+PD89IGFuY2hvcignYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2ludGVybmFsX2F1ZGl0LzIwMTYvLnBkZicsIHN0cnRvdXBwZXIoJycpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8ucGRmJywgc3RydG91cHBlcignJyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE2Ly5wZGYnLCBzdHJ0b3VwcGVyKCcnKSwgYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICA8bGk+PD89IGFuY2hvcignYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2ludGVybmFsX2F1ZGl0LzIwMTYvLnBkZicsIHN0cnRvdXBwZXIoJycpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8ucGRmJywgc3RydG91cHBlcignJyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE2Ly5wZGYnLCBzdHJ0b3VwcGVyKCcnKSwgYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICA8bGk+PD89IGFuY2hvcignYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2ludGVybmFsX2F1ZGl0LzIwMTYvLnBkZicsIHN0cnRvdXBwZXIoJycpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8ucGRmJywgc3RydG91cHBlcignJyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE2Ly5wZGYnLCBzdHJ0b3VwcGVyKCcnKSwgYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICA8bGk+PD89IGFuY2hvcignYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2ludGVybmFsX2F1ZGl0LzIwMTYvLnBkZicsIHN0cnRvdXBwZXIoJycpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8ucGRmJywgc3RydG91cHBlcignJyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZW5kaWY7Pz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8xLkFVRElUIENIRUNLIExJU1QtQUMgMjAxNy5wZGYnLCBzdHJ0b3VwcGVyKCcnKSwgYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxOS9BVURJVF9SRVBPUlRfMjAxOS5wZGYiLHN0cnRvdXBwZXIoIkFVRElUIFJFUE9SVCAyMDE5IiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsaT48Pz0gYW5jaG9yKCdhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvaW50ZXJuYWxfYXVkaXQvMjAxNi8ucGRmJywgc3RydG91cHBlcignJyksIGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxNy9TRURFWF9GVUxMX1JFUE9SVF8yMDE3LnBkZiIsc3RydG91cHBlcigiU0VERVggRlVMTCBSRVBPUlQgMjAxNyIpLGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD9waHAgaWYgKCRzdWIyID09IDIwMTUpOiA/Pgo8P3BocCBlbmRpZjs/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZWxzZTogPz4KICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxNC9DQVBfb2ZfU2FsYW1hbmRlci5wZGYiLHN0cnRvdXBwZXIoIkNBUCBvZiBTYWxhbWFuZGVyIDIwMTQgMDIgMjEiKSxhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxNC9DbGFpcmVzXzA5NF9TYWxhbWFuZGVyX0pld2VscnlfQ29fTHRkX1Bob3RvX0lOSS5wZGYiLHN0cnRvdXBwZXIoIkNsYWlyZSdzIDA5NCBTYWxhbWFuZGVyIEpld2VscnkgQ28gTHRkIFBob3RvIElOSSAyMDE0IDAyIDIxIiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcigiYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2NsYWlyLzIwMTQvQ2xhaXJlc18wOTRfU2FsYW1hbmRlcl9KZXdlbHJ5X0NvX0x0ZF9SZXBvcnRfSU5JLnBkZiIsc3RydG91cHBlcigiQ2xhaXJlJ3MgMDk0IFNhbGFtYW5kZXIgSmV3ZWxyeSBDbyBMdGQgUmVwb3J0IElOSSAyMDE0IDAyIDIxIiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcigiYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2NsYWlyLzIwMTQvQ2xhaXJlc18wOTRfU2FsYW1hbmRlcl9KZXdlbHJ5X0NvX0x0ZF9SZXBvcnRfSU5JLnBkZiIsc3RydG91cHBlcigiQ2xhaXJlJ3MgMDk0IFNhbGFtYW5kZXIgSmV3ZWxyeSBDbyBMdGQgUmVwb3J0IElOSSAyMDE0IDAyIDIxIiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD9waHAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgaWYgKCRzdWIyID09ICcyMDE4Jyk6ID8+CiAgICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcigiYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2NsYWlyLzIwMTgvQVVESVRfUkVQT1JUXzIwMTgucGRmIixzdHJ0b3VwcGVyKCJBVURJVCBSRVBPUlQgMjAxOCIpLGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgICAgICAgICA8P3BocCBlbHNlaWYgKCRzdWIyID09ICcyMDE5Jyk6ID8+CiAgICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcigiYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2NsYWlyLzIwMTkvQVVESVRfUkVQT1JUXzIwMTkucGRmIixzdHJ0b3VwcGVyKCJBVURJVCBSRVBPUlQgMjAxOSIpLGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgICAgICAgICA8P3BocCBlbHNlOiA/PgogICAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoImFzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9jbGFpci8yMDE0L0NBUF9vZl9TYWxhbWFuZGVyLnBkZiIsc3RydG91cHBlcigiQ0FQIG9mIFNhbGFtYW5kZXIgMjAxNCAwMiAyMSIpLGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgogICAgICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoImFzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9jbGFpci8yMDE0L0NsYWlyZXNfMDk0X1NhbGFtYW5kZXJfSmV3ZWxyeV9Db19MdGRfUGhvdG9fSU5JLnBkZiIsc3RydG91cHBlcigiQ2xhaXJlJ3MgMDk0IFNhbGFtYW5kZXIgSmV3ZWxyeSBDbyBMdGQgUGhvdG8gSU5JIDIwMTQgMDIgMjEiKSxhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxNC9DbGFpcmVzXzA5NF9TYWxhbWFuZGVyX0pld2VscnlfQ29fTHRkX1JlcG9ydF9JTkkucGRmIixzdHJ0b3VwcGVyKCJDbGFpcmUncyAwOTQgU2FsYW1hbmRlciBKZXdlbHJ5IENvIEx0ZCBSZXBvcnQgSU5JIDIwMTQgMDIgMjEiKSxhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgICAgICAgICAgICAgIDxsaT48Pz0gYW5jaG9yKCJhc3NldHMvcGRmL2F1ZGl0X3JlcG9ydHMvY2xhaXIvMjAxNC9DbGFpcmVzXzA5NF9TYWxhbWFuZGVyX0pld2VscnlfQ29fTHRkX1JlcG9ydF9JTkkucGRmIixzdHJ0b3VwcGVyKCJDbGFpcmUncyAwOTQgU2FsYW1hbmRlciBKZXdlbHJ5IENvIEx0ZCBSZXBvcnQgSU5JIDIwMTQgMDIgMjEiKSxhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgICAgICAgICAgPD9waHAgZW5kaWY7Pz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">PD9waHAgZWNobyAiU01FVEEiOyA/Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnc3ViMyddID0gJHN1YjM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZW5kaWY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8bGk+PD89IGFuY2hvcignZ2VuZXJhbC9hdWRpdF9yZXBvcnRzL2luZGV4LzYvMjAxNCcsJzIwMTQnKSA/PjwvbGk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoJ2Fzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9pbnRlcm5hbF9hdWRpdC8yMDE1L1N1bW1hcnlfQ0FSXzIwMTQucGRmJywgc3RydG91cHBlcignU3VtbWFyeSBDQVIgMjAxNCcpLCBhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PD89IGFuY2hvcigiYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2NsYWlyLzIwMTQvQ0FQX29mX1NhbGFtYW5kZXIucGRmIixzdHJ0b3VwcGVyKCJDQVAgb2YgU2FsYW1hbmRlciAyMDE0IDAyIDIxIiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICAgICAgPGxpPjw/PSBhbmNob3IoImFzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9jbGFpci8yMDE0L0NsYWlyZXNfMDk0X1NhbGFtYW5kZXJfSmV3ZWxyeV9Db19MdGRfUGhvdG9fSU5JLnBkZiIsc3RydG91cHBlcigiQ2xhaXJlJ3MgMDk0IFNhbGFtYW5kZXIgSmV3ZWxyeSBDbyBMdGQgUGhvdG8gSU5JIDIwMTQgMDIgMjEiKSxhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4KICAgICAgICA8bGk+PD89IGFuY2hvcigiYXNzZXRzL3BkZi9hdWRpdF9yZXBvcnRzL2NsYWlyLzIwMTQvQ2xhaXJlc18wOTRfU2FsYW1hbmRlcl9KZXdlbHJ5X0NvX0x0ZF9SZXBvcnRfSU5JLnBkZiIsc3RydG91cHBlcigiQ2xhaXJlJ3MgMDk0IFNhbGFtYW5kZXIgSmV3ZWxyeSBDbyBMdGQgUmVwb3J0IElOSSAyMDE0IDAyIDIxIiksYXJyYXkoJ3RhcmdldCcgPT4gJ19ibGFuaycpKSA/PjwvbGk+CiAgICAgICAgPGxpPjw/PSBhbmNob3IoImFzc2V0cy9wZGYvYXVkaXRfcmVwb3J0cy9jbGFpci8yMDE0L0NsYWlyZXNfMDk0X1NhbGFtYW5kZXJfSmV3ZWxyeV9Db19MdGRfUmVwb3J0X0lOSS5wZGYiLHN0cnRvdXBwZXIoIkNsYWlyZSdzIDA5NCBTYWxhbWFuZGVyIEpld2VscnkgQ28gTHRkIFJlcG9ydCBJTkkgMjAxNCAwMiAyMSIpLGFycmF5KCd0YXJnZXQnID0+ICdfYmxhbmsnKSkgPz48L2xpPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
