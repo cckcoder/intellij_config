@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/var/customers/webs/controller/models/av0_style.py" timestamp="1557746139961">
+      <file name="/var/customers/webs/controller/models/av0_style.py" timestamp="1557746414516">
         <mark key="'" line="496" column="26" />
-        <mark key="[" line="100" column="17" />
-        <mark key="]" line="100" column="17" />
+        <mark key="[" line="447" column="0" />
+        <mark key="]" line="453" column="41" />
         <mark key="." line="100" column="17" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/App.js" timestamp="1557560186324">
@@ -48,6 +48,14 @@
         <mark key="." line="45" column="53" />
         <mark key="^" line="45" column="53" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" timestamp="1557746595180">
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="37" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/SL.dbo.v_sold_2_years_exlusive_items [230production]" timestamp="1557747338456">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/mnt/sdb1/GMS/application/controllers/general/organizes.php" timestamp="1557453987542">
         <mark key="'" line="54" column="8" />
         <mark key="[" line="63" column="20" />
@@ -79,6 +87,9 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="8" column="7" />
       </file>
+      <file name="/a.sql" timestamp="1557746732325">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/spread_operators.js" timestamp="1557285048061">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
@@ -109,6 +120,9 @@
         <mark key="]" line="151" column="0" />
         <mark key="." line="151" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1557747338919">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
         <mark key="[" line="1231" column="0" />
         <mark key="]" line="1231" column="0" />
@@ -121,7 +135,7 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557545415137">
+      <file name="/Dummy.txt" timestamp="1557746732333">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
@@ -177,6 +191,13 @@
         <mark key="]" line="5" column="54" />
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="54" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console_1.sql" timestamp="1557748117197">
+        <mark key="'" line="0" column="34" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="36" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="0" column="36" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/.gitignore" timestamp="1555674682442">
         <mark key="[" line="119" column="0" />
@@ -262,10 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
-      <jump line="38" column="20" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
-      <jump line="17" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
-      <jump line="59" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
       <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" />
       <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/module.js" />
       <jump line="0" column="25" filename="/var/customers/webs/react_web_dev/refresh_js_es6/call_module.js" />
@@ -362,43 +379,47 @@
       <jump line="500" column="22" filename="/var/customers/webs/controller/models/av0_style.py" />
       <jump line="496" column="26" filename="/var/customers/webs/controller/models/av0_style.py" />
       <jump line="0" column="0" filename="/var/customers/webs/controller/helpers/mail.py" />
+      <jump line="18" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" />
+      <jump line="0" column="0" filename="/64ef339b/ba2f452a-a573-45c5-92c3-c90a4a89fc15/database/SL/schema/dbo/routine/zz_get_latest_order_date.sql" />
+      <jump line="0" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console_1.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>n</text>
+        <text>zz_get_latest_order_date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWFkX3N0b2NrXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Medium</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFNFTEVDVCBhdjBfc3R5bGUKICAgICxhdjBfaXRlbV90eXBlCiAgICAsYXYwX2VudGVyX2RhdGUKICAgICxhdjE5X3N1cHBsaWVyCiAgICAsbGFzdF9vcmRlcgogICAgRlJPTSBTTC5kYm8udl9zb2xkXzJfeWVhcnNfZXhsdXNpdmVfaXRlbXMKICAgIFdIRVJFIHNvbGRfbGFzdF9vbmVfaGFsZl95ZWFyIElTIE5VTEwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJpZ2h0OiA7Cg==</text>
+        <text encoding="base64">cC0tIAlTdXBwbGllciBJbnZvaWNlIERpZmYgRGF0ZQpXSVRIIGRhdGVfYmFjayBBUyAoCiAgU0VMRUNUIGRhdGVhZGQoTU9OVEggLERBVEVESUZGKE1PTlRILCAwLCBEQVRFQUREKG0sIC03LCBjdXJyZW50X3RpbWVzdGFtcCkpLCAwKSBhcyBkYXRlX2IKKQpTRUxFQ1QKICBDT05WRVJUKFZBUkNIQVIoMTApLCBDQVNUKGgudHNnX2RhdGUgQVMgREFURSksIDEwMykgYXMgb3Blbl9kYXRlLAogIGgudHNnX2RvY3VtZW50X25vLAogIGgudHNnX3N1cHBsaWVyLAogIENPTlZFUlQoVkFSQ0hBUigxMCksIENBU1QocDIucGF5Ml92YWx1ZV9kYXRlIEFTIERBVEUpLCAxMDMpIGFzIGNsb3NlX2RhdGUsCiAgREFURURJRkYoREFZLCBoLnRzZ19kYXRlLCBwMi5wYXkyX3ZhbHVlX2RhdGUpIEFTIGRpZmZfZGF0ZSwKICBwMi5wYXkyX2RvY3VtZW50IEFTIHBheW1lbnRfZG9jCkZST00gdHNnMV9nb2xkX2Jvb2tfZG9jX2hkciBBUyBoCkxFRlQgSk9JTiBzbC5kYm8ucGF5Ml9wYXltZW50X2Zvcl9zdXBwbGllcl9sbiBhcyBwMgogIE9OIHAyLnBheTJfZm9yX2RvY3VtZW50ID0gaC50c2dfZG9jdW1lbnRfbm8gQU5EIHAyLnBheTJfc3VwcGxpZXIgPSBoLnRzZ19zdXBwbGllcgpXSEVSRSBoLnRzZ19zdXBwbGllciAhPSAnJwogIEFORCBoLnRzZ19zdXBwbGllciBOT1QgTElLRSAnSU5ILSUnCiAgQU5EIHAyLnBheTJfdmFsdWVfZGF0ZSBJUyBOT1QgTlVMTAogIEFORCBoLnRzZ19kYXRlID49IChTRUxFQ1QgZGF0ZV9iIEZST00gZGF0ZV9iYWNrKQpPUkRFUiBCWSBoLnRzZ19kYXRlIEFTQzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAibmFtZSI6ICJjbGllbnQiLAogICJ2ZXJzaW9uIjogIjAuMS4wIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJyZWFjdCI6ICJeMTYuOC42IiwKICAgICJyZWFjdC1kb20iOiAiXjE2LjguNiIsCiAgICAicmVhY3Qtc2NyaXB0cyI6ICIzLjAuMSIKICB9LAogICJzY3JpcHRzIjogewogICAgInN0YXJ0IjogInJlYWN0LXNjcmlwdHMgc3RhcnQiLAogICAgImJ1aWxkIjogInJlYWN0LXNjcmlwdHMgYnVpbGQiLAogICAgInRlc3QiOiAicmVhY3Qtc2NyaXB0cyB0ZXN0IC0tZW52PWpzZG9tIiwKICAgICJlamVjdCI6ICJyZWFjdC1zY3JpcHRzIGVqZWN0IgogIH0sCiAgImVzbGludENvbmZpZyI6IHsKICAgICJleHRlbmRzIjogInJlYWN0LWFwcCIKICB9LAogICJicm93c2Vyc2xpc3QiOiB7CiAgICAicHJvZHVjdGlvbiI6IFsKICAgICAgIj4wLjIlIiwKICAgICAgIm5vdCBkZWFkIiwKICAgICAgIm5vdCBvcF9taW5pIGFsbCIKICAgIF0sCiAgICAiZGV2ZWxvcG1lbnQiOiBbCiAgICAgICJsYXN0IDEgY2hyb21lIHZlcnNpb24iLAogICAgICAibGFzdCAxIGZpcmVmb3ggdmVyc2lvbiIsCiAgICAgICJsYXN0IDEgc2FmYXJpIHZlcnNpb24iCiAgICBdCiAgfQo=</text>
+        <text encoding="base64">ICAgIHJpZ2h0OiA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJib290c3RyYXAiOiAiXjQuMy4xIiwK</text>
+        <text encoding="base64">ICAibmFtZSI6ICJjbGllbnQiLAogICJ2ZXJzaW9uIjogIjAuMS4wIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJyZWFjdCI6ICJeMTYuOC42IiwKICAgICJyZWFjdC1kb20iOiAiXjE2LjguNiIsCiAgICAicmVhY3Qtc2NyaXB0cyI6ICIzLjAuMSIKICB9LAogICJzY3JpcHRzIjogewogICAgInN0YXJ0IjogInJlYWN0LXNjcmlwdHMgc3RhcnQiLAogICAgImJ1aWxkIjogInJlYWN0LXNjcmlwdHMgYnVpbGQiLAogICAgInRlc3QiOiAicmVhY3Qtc2NyaXB0cyB0ZXN0IC0tZW52PWpzZG9tIiwKICAgICJlamVjdCI6ICJyZWFjdC1zY3JpcHRzIGVqZWN0IgogIH0sCiAgImVzbGludENvbmZpZyI6IHsKICAgICJleHRlbmRzIjogInJlYWN0LWFwcCIKICB9LAogICJicm93c2Vyc2xpc3QiOiB7CiAgICAicHJvZHVjdGlvbiI6IFsKICAgICAgIj4wLjIlIiwKICAgICAgIm5vdCBkZWFkIiwKICAgICAgIm5vdCBvcF9taW5pIGFsbCIKICAgIF0sCiAgICAiZGV2ZWxvcG1lbnQiOiBbCiAgICAgICJsYXN0IDEgY2hyb21lIHZlcnNpb24iLAogICAgICAibGFzdCAxIGZpcmVmb3ggdmVyc2lvbiIsCiAgICAgICJsYXN0IDEgc2FmYXJpIHZlcnNpb24iCiAgICBdCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpbWVySUQpCg==</text>
+        <text encoding="base64">ICAgICJib290c3RyYXAiOiAiXjQuMy4xIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgSGVhZGVyID0gKCkgPT4gewogICAgcmV0dXJuIDxoMT5IZWFkZXI8L2gxPgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpbWVySUQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChwcm9wcykgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Y29uc3QgSGVhZGVyID0gKCkgPT4gewogICAgcmV0dXJuIDxoMT5IZWFkZXI8L2gxPgp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlYWRlcgo=</text>
+        <text encoding="base64">ICAgIChwcm9wcykgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gQXBwKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgICA8ZGl2PkhlbGxvIFJlYWN0PC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhlYWRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZW5kaWY7Pz4K</text>
+        <text encoding="base64">ZnVuY3Rpb24gQXBwKCkgewogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iQXBwIj4KICAgICAgICA8ZGl2PkhlbGxvIFJlYWN0PC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
