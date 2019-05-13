@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/var/customers/webs/controller/models/av0_style.py" timestamp="1557746139961">
+        <mark key="'" line="496" column="26" />
+        <mark key="[" line="100" column="17" />
+        <mark key="]" line="100" column="17" />
+        <mark key="." line="100" column="17" />
+      </file>
       <file name="/var/customers/webs/react_web_dev/client/src/App.js" timestamp="1557560186324">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="16" />
@@ -256,10 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1552" column="25" filename="/general_helper.py" />
-      <jump line="1553" column="0" filename="/general_helper.py" />
-      <jump line="1596" column="8" filename="/general_helper.py" />
-      <jump line="30" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
       <jump line="47" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
       <jump line="38" column="20" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
       <jump line="17" column="0" filename="/var/customers/webs/react_web_dev/refresh_js_es6/arrow_func.js" />
@@ -356,10 +358,14 @@
       <jump line="6" column="0" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="5" column="0" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/client/.gitignore" />
+      <jump line="0" column="0" filename="/usr/lib/python2.7/dist-packages/twisted/internet/test/test_unix.py" />
+      <jump line="500" column="22" filename="/var/customers/webs/controller/models/av0_style.py" />
+      <jump line="496" column="26" filename="/var/customers/webs/controller/models/av0_style.py" />
+      <jump line="0" column="0" filename="/var/customers/webs/controller/helpers/mail.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Regular</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWFkX3N0b2NrXD4=</text>
