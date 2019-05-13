@@ -4,11 +4,9 @@
     <globalmarks />
     <filemarks>
       <file name="/var/customers/webs/react_web_dev/client/src/App.js" timestamp="1557560186324">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="9" column="65" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/internal_audit.php" timestamp="1557476862535">
         <mark key="'" line="91" column="5" />
@@ -223,6 +221,13 @@
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="38" />
       </file>
+      <file name="/var/customers/webs/react_web_dev/client/.gitignore" timestamp="1557714073922">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557396384469">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="5" />
@@ -251,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="377" column="21" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
       <jump line="1552" column="25" filename="/general_helper.py" />
       <jump line="1553" column="0" filename="/general_helper.py" />
       <jump line="1596" column="8" filename="/general_helper.py" />
@@ -351,6 +355,7 @@
       <jump line="5" column="0" filename="/var/customers/webs/react_web_dev/client/src/App.css" />
       <jump line="6" column="0" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="5" column="0" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
+      <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/client/.gitignore" />
     </jumps>
     <registers>
       <register name="-" type="4">
