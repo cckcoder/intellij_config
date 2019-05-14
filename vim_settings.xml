@@ -239,10 +239,10 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557823583475">
+      <file name="/Dummy.txt" timestamp="1557828306054">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="48" />
+        <mark key="." line="0" column="50" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console_2.sql" timestamp="1557816654402">
