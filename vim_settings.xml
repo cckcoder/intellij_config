@@ -192,12 +192,12 @@
         <mark key="." line="5" column="54" />
         <mark key="^" line="5" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console_1.sql" timestamp="1557748117197">
-        <mark key="'" line="0" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console_1.sql" timestamp="1557802217098">
+        <mark key="'" line="0" column="21" />
         <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="36" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/.gitignore" timestamp="1555674682442">
         <mark key="[" line="119" column="0" />
@@ -382,7 +382,7 @@
       <jump line="18" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" />
       <jump line="0" column="0" filename="/64ef339b/ba2f452a-a573-45c5-92c3-c90a4a89fc15/database/SL/schema/dbo/routine/zz_get_latest_order_date.sql" />
-      <jump line="0" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console_1.sql" />
+      <jump line="0" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console_1.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
