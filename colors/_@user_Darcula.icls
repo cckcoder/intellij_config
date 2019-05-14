@@ -4,11 +4,11 @@
     <property name="created">2018-11-22T13:39:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-05-03T08:58:23</property>
+    <property name="modified">2019-05-14T09:49:51</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
@@ -31,7 +31,6 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8be9fd" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="8be9fd" />
     <option name="FILESTATUS_OBSOLETE" value="ffb86c" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="6272a4" />
     <option name="FILESTATUS_SWITCHED" value="ffb86c" />
     <option name="FILESTATUS_UNKNOWN" value="bd93f9" />
