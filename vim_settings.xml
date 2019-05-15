@@ -425,7 +425,7 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557746732333">
+      <file name="/Dummy.txt" timestamp="1557903500000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
@@ -549,12 +549,12 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="4" />
       </file>
-      <file name="/var/customers/webs/sapi/api/views/stocks.py" timestamp="1557897551416">
-        <mark key="'" line="106" column="25" />
-        <mark key="[" line="138" column="42" />
-        <mark key="]" line="138" column="42" />
-        <mark key="." line="138" column="42" />
-        <mark key="^" line="138" column="42" />
+      <file name="/var/customers/webs/sapi/api/views/stocks.py" timestamp="1557903166334">
+        <mark key="'" line="82" column="31" />
+        <mark key="[" line="171" column="123" />
+        <mark key="]" line="171" column="4" />
+        <mark key="^" line="171" column="4" />
+        <mark key="." line="171" column="142" />
       </file>
       <file name="/mnt/sdb1/GMS/application/models/plating_cost_m.php" timestamp="1553844309104">
         <mark key="'" line="28" column="20" />
@@ -596,32 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="23" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="46" column="159" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="24" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="31" column="4" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="25" column="4" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="48" column="96" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="26" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="0" column="10" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="70" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="47" column="87" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="45" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="67" column="137" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="73" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="36" column="4" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="49" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="79" column="13" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="55" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="84" column="137" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="69" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="63" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" />
-      <jump line="9" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
-      <jump line="12" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
-      <jump line="7" column="69" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
-      <jump line="98" column="6" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" />
-      <jump line="3" column="2" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" />
       <jump line="18" column="21" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
       <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
       <jump line="2" column="15" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
@@ -696,43 +670,69 @@
       <jump line="130" column="21" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="75" column="60" filename="/var/customers/webs/sapi/api/routes.py" />
       <jump line="106" column="25" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="135" column="30" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="163" column="8" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="152" column="30" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="156" column="59" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="159" column="26" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="236" column="41" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="242" column="4" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="251" column="26" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="259" column="27" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="260" column="32" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="262" column="8" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="153" column="8" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="868" column="18" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="360" column="33" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="191" column="31" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="167" column="66" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="111" column="4" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="64" column="4" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="2199" column="7" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="2200" column="0" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="2224" column="8" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="2225" column="10" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="47" column="74" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="61" column="21" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="70" column="24" filename="/var/customers/webs/sapi/api/views/stocks.py" />
+      <jump line="82" column="31" filename="/var/customers/webs/sapi/api/views/stocks.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>total_value,</text>
+        <text>header</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
       </register>
-      <register name="0" type="4">
-        <text>float(round(total_value, 3))</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJIyByZXR1cm4gd2ViLlJlc3BvbnNlKHRleHQ9by5nZXR2YWx1ZSgpLCBjb250ZW50X3R5cGU9J3RleHQvY3N2JywgaGVhZGVycz17J0NvbnRlbnQtRGlzcG9zaXRpb24nOiAnYXR0YWNobWVudDtmaWxlbmFtZT17fScuZm9ybWF0KHhmaWxlKX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoaykK</text>
+        <text encoding="base64">CQkJIyByZXR1cm4gd2ViLlJlc3BvbnNlKHRleHQ9by5nZXR2YWx1ZSgpLCBjb250ZW50X3R5cGU9J3RleHQvY3N2JywgaGVhZGVycz17J0NvbnRlbnQtRGlzcG9zaXRpb24nOiAnYXR0YWNobWVudDtmaWxlbmFtZT17fScuZm9ybWF0KHhmaWxlKX0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGsgPSAwCg==</text>
+        <text encoding="base64">CQkJCWJyZWFrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICBpZiBrID09IDIwOgogICAgICAgIGJyZWFrCiAgICAgIGsgKz0gMQo=</text>
+        <text encoding="base64">CQkJcHJpbnQocm93KQoJCQlyZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgayArPSAxCg==</text>
+        <text encoding="base64">CQkJIwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICBwcmludChpKQo=</text>
+        <text encoding="base64">CQkJIyBzcGFtd3JpdGVyLndyaXRlcm93KHN0eWxlc1swXS5rZXlzKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgayA9PSAyMDogYnJlYWsKCSAgcmV0dXJuCg==</text>
+        <text encoding="base64">CQkJIyBmb3IgaSBpbiBzdHlsZXM6CgkJCSMgCXNwYW13cml0ZXIud3JpdGVyb3coaS52YWx1ZXMoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGsgPSAwCg==</text>
+        <text encoding="base64">CQkJcHJpbnQoYXBpWydzdHlsZXMnXVswXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHN0a19zdHlsZToKICAgICAgcHJpbnQoaSkKICAgICAgayArPSAxCiAgICAgIGlmIGsgPT0gMjA6CiAgICAgICAgYnJlYWsKICAgIHJldHVybgo=</text>
+        <text encoding="base64">CQkJcHJpbnQoYXBpWydzdHlsZXMnXS5rZXlzKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHN0a19zdHlsZToKICAgICAgcHJpbnQoaSkKICAgICAgayArPSAxCiAgICAgIGlmIGsgPT0gMjA6CiAgICAgICAgYnJlYWsKICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICMgYXBpWyd0b3RhbF92YWx1ZSddID0gZmxvYXQocm91bmQodG90YWxfdmFsdWUsIDMpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -744,13 +744,11 @@
       <last-pattern>with</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzb2xkX3N0b2NrMTFcPg==</entry>
-        <entry encoding="base64">XDxpbnZlbnRvcnlcPg==</entry>
         <entry encoding="base64">XDxzaWxfaW5oX3ZhbHVlXD4=</entry>
         <entry encoding="base64">XDxzaWxfYnV5X2ZpbmlzaF9nb29kc1w+</entry>
         <entry>pay</entry>
@@ -768,6 +766,8 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxzdGsxMV90cmFzXzFfeWVhclw+</entry>
         <entry encoding="base64">XDxzdGtfc3R5bGVcPg==</entry>
+        <entry>f</entry>
+        <entry encoding="base64">XDx4Zm9ybWF0XD4=</entry>
         <entry>with</entry>
       </history-search>
       <history-cmd>
