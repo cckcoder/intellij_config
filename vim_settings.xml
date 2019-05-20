@@ -81,7 +81,7 @@
         <mark key="." line="52" column="12" />
         <mark key="^" line="95" column="37" />
       </file>
-      <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558323979457">
+      <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558325887817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/components/Header.js" timestamp="1557563655105">
@@ -172,10 +172,12 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" timestamp="1558325683435">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" timestamp="1558326255080">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="22" column="9" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557538836408">
         <mark key="'" line="3" column="2" />
@@ -184,7 +186,7 @@
         <mark key="." line="91" column="33" />
         <mark key="^" line="91" column="33" />
       </file>
-      <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558325688076">
+      <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558325898690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/python_tutor/ORCA/flow_control_exercise.py" timestamp="1552702793416">
@@ -194,7 +196,7 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558324293718">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558326186088">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -299,7 +301,7 @@
       <file name="/var/customers/webs/sapi/api/views/stocks.py" timestamp="1557903166334">
         <mark key="'" line="82" column="31" />
       </file>
-      <file name="/apps4sql1.sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558324312610">
+      <file name="/apps4sql1.sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558325892132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/controller/models/yz3_stock.py" timestamp="1554711051196">
@@ -522,7 +524,7 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1558325688198">
+      <file name="/dummy.sql" timestamp="1558325898764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
@@ -629,7 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="17" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
       <jump line="5" column="25" filename="/var/customers/webs/react_web_dev/client/src/components/Footer.js" />
       <jump line="3" column="7" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
       <jump line="2" column="33" filename="/var/customers/webs/react_web_dev/client/src/components/product/ProductItem.js" />
@@ -729,10 +730,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
+      <jump line="5" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>coat</text>
+        <text>_translations;</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
