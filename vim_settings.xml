@@ -74,6 +74,9 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="/apps4sql1.sixs_question_header_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329058285">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/var/customers/webs/controller/models/kb3_receipt_lnd.py" timestamp="1556002716381">
         <mark key="'" line="51" column="6" />
         <mark key="[" line="52" column="12" />
@@ -81,7 +84,7 @@
         <mark key="." line="52" column="12" />
         <mark key="^" line="95" column="37" />
       </file>
-      <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558325887817">
+      <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329033412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/components/Header.js" timestamp="1557563655105">
@@ -152,6 +155,12 @@
         <mark key="." line="544" column="173" />
         <mark key="^" line="542" column="159" />
       </file>
+      <file name="/var/customers/webs/apps4/app/Http/Controllers/SIXSController.php" timestamp="1558329370874">
+        <mark key="'" line="28" column="38" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/argos.php" timestamp="1557470482697">
         <mark key="[" line="6" column="55" />
         <mark key="]" line="6" column="77" />
@@ -172,12 +181,12 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" timestamp="1558326536689">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" timestamp="1558329213869">
         <mark key="'" line="5" column="2" />
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="30" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="30" />
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557538836408">
         <mark key="'" line="3" column="2" />
@@ -196,11 +205,11 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558327953291">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558328946542">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
-        <mark key="^" line="0" column="40" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557567785746">
         <mark key="'" line="6" column="0" />
@@ -393,6 +402,9 @@
         <mark key="." line="134" column="26" />
         <mark key="^" line="133" column="32" />
       </file>
+      <file name="/apps4sql1.sixs_zone_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329083733">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/mnt/sdb1/GMS/application/models/casting_rm.php" timestamp="1556778780819">
         <mark key="'" line="86" column="20" />
         <mark key="[" line="43" column="0" />
@@ -525,7 +537,7 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1558327190724">
+      <file name="/dummy.sql" timestamp="1558329101674">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
@@ -545,6 +557,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="/apps4sql1.sixs_questions [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329101618">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/summary_inter_audit.php" timestamp="1557538526361">
         <mark key="[" line="6" column="14" />
@@ -627,12 +642,14 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
+      <file name="/apps4sql1.sixs_question_headers [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329070198">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1556779745800">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="25" filename="/var/customers/webs/react_web_dev/client/src/components/Footer.js" />
       <jump line="3" column="7" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
       <jump line="2" column="33" filename="/var/customers/webs/react_web_dev/client/src/components/product/ProductItem.js" />
       <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/client/node_modules/react/cjs/react.development.js" />
@@ -732,43 +749,44 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="5" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
+      <jump line="28" column="38" filename="/var/customers/webs/apps4/app/Http/Controllers/SIXSController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_translations;</text>
+        <text>question</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">V0hFUkUgc2F0Lmxhbmd1YWdlX2NvZGUgPSAndGgnCg==</text>
+      <register name="0" type="4">
+        <text>area_question</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUFORCBzenQubGFuZ3VhZ2VfY29kZSA9ICd0aCcK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkYXJlYV9xdWVzdGlvbik7CiAgICAgICAgZWNobyAiPC9wcmU+IjsKICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZwpzZWxlY3QgKgpmcm9tIHNpeHNfYXJlYXMKbGVmdCBqb2luIHNpeHNfYXJlYV90cmFuc2xhdGlvbnMgc2F0IG9uIHNpeHNfYXJlYXMuaWQgPSBzYXQuYXJlYV9pZAoKCnNlbGVjdCAqCmZyb20gc2l4c19hcmVhX3RyYW5zbGF0aW9ucwp3aGVyZSB0cmFucyBsaWtlICclbWFjaGluZSUnCgoK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX2FyZWFzCm9yZGVyIGJ5CiAgem9uZV9pZCBBU0MsCglzb3J0IEFTQwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">V0hFUkUgc2F0Lmxhbmd1YWdlX2NvZGUgPSAndGgnCg==</text>
+        <text encoding="base64">CUFORCBzenQubGFuZ3VhZ2VfY29kZSA9ICd0aCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V0hFUkUgdHJhbnMgPSAndGgnCg==</text>
+        <text encoding="base64">ZwpzZWxlY3QgKgpmcm9tIHNpeHNfYXJlYXMKbGVmdCBqb2luIHNpeHNfYXJlYV90cmFuc2xhdGlvbnMgc2F0IG9uIHNpeHNfYXJlYXMuaWQgPSBzYXQuYXJlYV9pZAoKCnNlbGVjdCAqCmZyb20gc2l4c19hcmVhX3RyYW5zbGF0aW9ucwp3aGVyZSB0cmFucyBsaWtlICclbWFjaGluZSUnCgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0Cglzei5pZCwKICBzenQudHJhbnMKZnJvbSBzaXhzX3pvbmVzIGFzIHN6CmxlZnQgam9pbiBzaXhzX3pvbmVfdHJhbnNsYXRpb25zIGFzIHN6dAoJT04gc3p0LmlkID0gc3ouaWQK</text>
+        <text encoding="base64">V0hFUkUgc2F0Lmxhbmd1YWdlX2NvZGUgPSAndGgnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVqCg==</text>
+        <text encoding="base64">V0hFUkUgdHJhbnMgPSAndGgnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">c2VsZWN0Cglzei5pZCwKICBzenQudHJhbnMKZnJvbSBzaXhzX3pvbmVzIGFzIHN6CmxlZnQgam9pbiBzaXhzX3pvbmVfdHJhbnNsYXRpb25zIGFzIHN6dAoJT04gc3p0LmlkID0gc3ouaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX2FyZWFfdHJhbnNsYXRpb25zOwo=</text>
+        <text encoding="base64">bGVqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX3pvbmVfdHJhbnNsYXRpb25zOwo=</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
