@@ -172,12 +172,10 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" timestamp="1558324967752">
-        <mark key="'" line="16" column="19" />
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="26" column="19" />
-        <mark key="^" line="23" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" timestamp="1558325683435">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557538836408">
         <mark key="'" line="3" column="2" />
@@ -186,7 +184,7 @@
         <mark key="." line="91" column="33" />
         <mark key="^" line="91" column="33" />
       </file>
-      <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558324558238">
+      <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558325688076">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/python_tutor/ORCA/flow_control_exercise.py" timestamp="1552702793416">
@@ -524,7 +522,7 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1558324558329">
+      <file name="/dummy.sql" timestamp="1558325688198">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
@@ -631,8 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="17" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
-      <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/client/src/components/Header.js" />
       <jump line="9" column="17" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
       <jump line="5" column="25" filename="/var/customers/webs/react_web_dev/client/src/components/Footer.js" />
       <jump line="3" column="7" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
@@ -731,6 +727,8 @@
       <jump line="18" column="16" filename="/opt/lampp/htdocs/app/routes/web.php" />
       <jump line="22" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -743,31 +741,31 @@
         <text encoding="base64">V0hFUkUgc2F0Lmxhbmd1YWdlX2NvZGUgPSAndGgnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0hFUkUgc2F0Lmxhbmd1YWdlX2NvZGUgPSAndGgnCg==</text>
+        <text encoding="base64">ZwpzZWxlY3QgKgpmcm9tIHNpeHNfYXJlYXMKbGVmdCBqb2luIHNpeHNfYXJlYV90cmFuc2xhdGlvbnMgc2F0IG9uIHNpeHNfYXJlYXMuaWQgPSBzYXQuYXJlYV9pZAoKCnNlbGVjdCAqCmZyb20gc2l4c19hcmVhX3RyYW5zbGF0aW9ucwp3aGVyZSB0cmFucyBsaWtlICclbWFjaGluZSUnCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgdHJhbnMgPSAndGgnCg==</text>
+        <text encoding="base64">V0hFUkUgc2F0Lmxhbmd1YWdlX2NvZGUgPSAndGgnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0Cglzei5pZCwKICBzenQudHJhbnMKZnJvbSBzaXhzX3pvbmVzIGFzIHN6CmxlZnQgam9pbiBzaXhzX3pvbmVfdHJhbnNsYXRpb25zIGFzIHN6dAoJT04gc3p0LmlkID0gc3ouaWQK</text>
+        <text encoding="base64">V0hFUkUgdHJhbnMgPSAndGgnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVqCg==</text>
+        <text encoding="base64">c2VsZWN0Cglzei5pZCwKICBzenQudHJhbnMKZnJvbSBzaXhzX3pvbmVzIGFzIHN6CmxlZnQgam9pbiBzaXhzX3pvbmVfdHJhbnNsYXRpb25zIGFzIHN6dAoJT04gc3p0LmlkID0gc3ouaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">bGVqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX2FyZWFfdHJhbnNsYXRpb25zOwo=</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX3pvbmVfdHJhbnNsYXRpb25zOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX2FyZWFfdHJhbnNsYXRpb25zOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnaG9zdCcgPT4gJ2xvY2FsaG9zdCcsCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX3pvbmVfdHJhbnNsYXRpb25zOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnID0+ICcxMjcuMC4wLjEnLAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnaG9zdCcgPT4gJ2xvY2FsaG9zdCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
