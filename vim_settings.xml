@@ -77,7 +77,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/apps4sql1.sixs_question_header_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329058285">
+      <file name="/apps4sql1.sixs_question_header_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558345115585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/controller/models/kb3_receipt_lnd.py" timestamp="1556002716381">
@@ -87,7 +87,7 @@
         <mark key="." line="52" column="12" />
         <mark key="^" line="95" column="37" />
       </file>
-      <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329033412">
+      <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558344626499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/components/Header.js" timestamp="1557563655105">
@@ -184,12 +184,11 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" timestamp="1558341368880">
-        <mark key="'" line="92" column="1" />
-        <mark key="[" line="95" column="10" />
-        <mark key="]" line="95" column="24" />
-        <mark key="^" line="95" column="24" />
-        <mark key="." line="95" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" timestamp="1558344879518">
+        <mark key="[" line="102" column="16" />
+        <mark key="]" line="102" column="16" />
+        <mark key="^" line="102" column="16" />
+        <mark key="." line="102" column="16" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557538836408">
         <mark key="'" line="3" column="2" />
@@ -208,7 +207,7 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558343191566">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558345074598">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -232,11 +231,11 @@
       <file name="internal/modules/cjs/loader.js" timestamp="1556933839142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console_1.sql" timestamp="1558343372761">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console_1.sql" timestamp="1558344429835">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="66" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="66" />
-        <mark key="." line="0" column="66" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/Todoitem.vue" timestamp="1555673941456">
         <mark key="[" line="3" column="20" />
@@ -320,7 +319,7 @@
       <file name="/var/customers/webs/sapi/api/views/stocks.py" timestamp="1557903166334">
         <mark key="'" line="82" column="31" />
       </file>
-      <file name="/apps4sql1.sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558327190603">
+      <file name="/apps4sql1.sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558344549242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/controller/models/yz3_stock.py" timestamp="1554711051196">
@@ -546,7 +545,7 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1558343424803">
+      <file name="/dummy.sql" timestamp="1558345115746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
@@ -567,7 +566,7 @@
         <mark key="." line="0" column="48" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/apps4sql1.sixs_questions [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329101618">
+      <file name="/apps4sql1.sixs_questions [MySQL - apps4sql1@172.18.0.4]" timestamp="1558344505935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/summary_inter_audit.php" timestamp="1557538526361">
@@ -651,7 +650,7 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="/apps4sql1.sixs_question_headers [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329070198">
+      <file name="/apps4sql1.sixs_question_headers [MySQL - apps4sql1@172.18.0.4]" timestamp="1558344898134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1556779745800">
@@ -756,13 +755,13 @@
       <jump line="31" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="68" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="66" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
-      <jump line="80" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="69" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="92" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
+      <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>id = 46</text>
+        <text encoding="base64">CSo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaXhzX3F1ZXN0aW9uX2hlYWRlcl90cmFuc2xhdGlvbnNcPg==</text>
@@ -770,32 +769,32 @@
       <register name="0" type="2">
         <text encoding="base64">CXNxaC5pZCBhcyBoZWFkZXJfaWQsIAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">REVMRVRFIEZST00gc2l4c19xdWVzdGlvbl9saW5lcyBXSEVSRSBpZCBJTiAoMjc1LCAyNzcsIDI4MCwgMjgyLDI4NCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bGVmdCBqb2luIHNpeHNfcXVlc3Rpb25fbGluZXMgcyBvbiBzcWguaWQgPSBzLnF1ZXN0aW9uX2hlYWRlcl9pZAojIFdIRVJFIHF1ZXN0aW9uX2lkID0gODsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGVmdCBqb2luIHNpeHNfcXVlc3Rpb25fbGluZV90cmFuc2xhdGlvbnMgc3FsdCBvbiBzLmlkID0gc3FsdC5xdWVzdGlvbl9saW5lX2lkCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmUgcXVlc3Rpb25faGVhZGVyX2lkID0gOAo=</text>
+        <text encoding="base64">bGVmdCBqb2luIHNpeHNfcXVlc3Rpb25fbGluZXMgcyBvbiBzcWguaWQgPSBzLnF1ZXN0aW9uX2hlYWRlcl9pZAojIFdIRVJFIHF1ZXN0aW9uX2lkID0gODsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVmdCBqb2luIHNpeHNfcXVlc3Rpb25fbGluZV90cmFuc2xhdGlvbnMgc3FsdCBvbiBzLmlkID0gc3FsdC5xdWVzdGlvbl9saW5lX2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgcXVlc3Rpb25faGVhZGVyX2lkID0gOAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX3F1ZXN0aW9uX2xpbmVzCmxlZnQgam9pbiBzaXhzX3F1ZXN0aW9uX2xpbmVfdHJhbnNsYXRpb25zIHNxbHQgb24gc2l4c19xdWVzdGlvbl9saW5lcy5pZCA9IHNxbHQucXVlc3Rpb25fbGluZV9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUCgkqCkZST00gc2l4c19xdWVzdGlvbl9saW5lX3RyYW5zbGF0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
