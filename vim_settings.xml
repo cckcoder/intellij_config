@@ -81,6 +81,9 @@
         <mark key="." line="52" column="12" />
         <mark key="^" line="95" column="37" />
       </file>
+      <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558323979457">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/var/customers/webs/react_web_dev/client/src/components/Header.js" timestamp="1557563655105">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="28" />
@@ -169,6 +172,13 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="7" column="33" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" timestamp="1558324967752">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="23" column="0" />
+      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557538836408">
         <mark key="'" line="3" column="2" />
         <mark key="[" line="91" column="33" />
@@ -176,12 +186,20 @@
         <mark key="." line="91" column="33" />
         <mark key="^" line="91" column="33" />
       </file>
+      <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558324558238">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/var/customers/webs/python_tutor/ORCA/flow_control_exercise.py" timestamp="1552702793416">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="7" />
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558324293718">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557567785746">
         <mark key="'" line="6" column="0" />
@@ -195,7 +213,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1558321078678">
+      <file name="/a.sql" timestamp="1558323733782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/modules/cjs/loader.js" timestamp="1556933839142">
@@ -282,6 +300,9 @@
       </file>
       <file name="/var/customers/webs/sapi/api/views/stocks.py" timestamp="1557903166334">
         <mark key="'" line="82" column="31" />
+      </file>
+      <file name="/apps4sql1.sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558324312610">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/controller/models/yz3_stock.py" timestamp="1554711051196">
         <mark key="'" line="409" column="31" />
@@ -391,11 +412,10 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
-      <file name="/var/customers/webs/apps4/config/database.php" timestamp="1558321246136">
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="52" column="31" />
-        <mark key="." line="52" column="31" />
-        <mark key="^" line="52" column="31" />
+      <file name="/var/customers/webs/apps4/config/database.php" timestamp="1558322902479">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/auditor.php" timestamp="1557481965010">
         <mark key="[" line="7" column="120" />
@@ -504,7 +524,7 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1557895155858">
+      <file name="/dummy.sql" timestamp="1558324558329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
@@ -519,7 +539,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558321078691">
+      <file name="/Dummy.txt" timestamp="1558323733793">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
@@ -611,8 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" />
-      <jump line="2" column="15" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
       <jump line="8" column="17" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
       <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/client/src/components/Header.js" />
       <jump line="9" column="17" filename="/var/customers/webs/react_web_dev/client/src/App.js" />
@@ -711,43 +729,45 @@
       <jump line="70" column="24" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="82" column="31" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="18" column="16" filename="/opt/lampp/htdocs/app/routes/web.php" />
+      <jump line="22" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>apps4_mariadb</text>
+        <text>coat</text>
       </register>
       <register name="/" type="4">
         <text>with</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnID0+ICdhcHBzNF9tYXJpYWRiJywK</text>
+        <text encoding="base64">V0hFUkUgc2F0Lmxhbmd1YWdlX2NvZGUgPSAndGgnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnID0+ICcxMjcuMC4wLjEnLAo=</text>
+        <text encoding="base64">V0hFUkUgc2F0Lmxhbmd1YWdlX2NvZGUgPSAndGgnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybkFyZ3VtZW50KCRhcmd1bWVudEluZGV4KQo=</text>
+        <text encoding="base64">V0hFUkUgdHJhbnMgPSAndGgnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJIyByZXR1cm4gd2ViLlJlc3BvbnNlKHRleHQ9by5nZXR2YWx1ZSgpLCBjb250ZW50X3R5cGU9J3RleHQvY3N2JywgaGVhZGVycz17J0NvbnRlbnQtRGlzcG9zaXRpb24nOiAnYXR0YWNobWVudDtmaWxlbmFtZT17fScuZm9ybWF0KHhmaWxlKX0pCg==</text>
+        <text encoding="base64">c2VsZWN0Cglzei5pZCwKICBzenQudHJhbnMKZnJvbSBzaXhzX3pvbmVzIGFzIHN6CmxlZnQgam9pbiBzaXhzX3pvbmVfdHJhbnNsYXRpb25zIGFzIHN6dAoJT04gc3p0LmlkID0gc3ouaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWJyZWFrCg==</text>
+        <text encoding="base64">bGVqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcHJpbnQocm93KQoJCQlyZXR1cm4K</text>
+        <text encoding="base64">LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJIwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX2FyZWFfdHJhbnNsYXRpb25zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJIyBzcGFtd3JpdGVyLndyaXRlcm93KHN0eWxlc1swXS5rZXlzKCkpCg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzaXhzX3pvbmVfdHJhbnNsYXRpb25zOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJIyBmb3IgaSBpbiBzdHlsZXM6CgkJCSMgCXNwYW13cml0ZXIud3JpdGVyb3coaS52YWx1ZXMoKSkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnaG9zdCcgPT4gJ2xvY2FsaG9zdCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcHJpbnQoYXBpWydzdHlsZXMnXVswXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnID0+ICcxMjcuMC4wLjEnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
