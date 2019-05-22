@@ -226,10 +226,10 @@
       <file name="/a.sql" timestamp="1558343016094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/StaticPageController.php" timestamp="1558514247583">
+      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/StaticPageController.php" timestamp="1558516393961">
         <mark key="'" line="311" column="32" />
-        <mark key="[" line="321" column="190" />
-        <mark key="]" line="322" column="19" />
+        <mark key="[" line="321" column="198" />
+        <mark key="]" line="321" column="220" />
         <mark key="^" line="322" column="19" />
         <mark key="." line="321" column="59" />
       </file>
@@ -742,8 +742,8 @@
       <register name="/" type="4">
         <text>cer</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXNxaC5pZCBhcyBoZWFkZXJfaWQsIAo=</text>
+      <register name="0" type="4">
+        <text>mill-certificate-316L-1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
