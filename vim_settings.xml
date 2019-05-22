@@ -226,6 +226,13 @@
       <file name="/a.sql" timestamp="1558343016094">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/StaticPageController.php" timestamp="1558514247583">
+        <mark key="'" line="311" column="32" />
+        <mark key="[" line="321" column="190" />
+        <mark key="]" line="322" column="19" />
+        <mark key="^" line="322" column="19" />
+        <mark key="." line="321" column="59" />
+      </file>
       <file name="internal/modules/cjs/loader.js" timestamp="1556933839142">
         <mark key="[" line="0" column="0" />
       </file>
@@ -526,7 +533,7 @@
         <mark key="^" line="1628" column="64" />
         <mark key="." line="1231" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558495386617">
+      <file name="/Dummy.txt" timestamp="1558514264142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="48" />
@@ -627,8 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="/var/customers/webs/react_web_dev/client/src/App.css" />
-      <jump line="6" column="0" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="5" column="0" filename="/var/customers/webs/react_web_dev/client/src/index.js" />
       <jump line="0" column="0" filename="/var/customers/webs/react_web_dev/client/.gitignore" />
       <jump line="0" column="0" filename="/usr/lib/python2.7/dist-packages/twisted/internet/test/test_unix.py" />
@@ -727,13 +732,15 @@
       <jump line="69" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="92" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
       <jump line="80" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console.sql" />
+      <jump line="130" column="0" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/StaticPageController.php" />
+      <jump line="311" column="32" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/StaticPageController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>39</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaXhzX3F1ZXN0aW9uX2hlYWRlcl90cmFuc2xhdGlvbnNcPg==</text>
+        <text>cer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXNxaC5pZCBhcyBoZWFkZXJfaWQsIAo=</text>
@@ -770,9 +777,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaXhzX3F1ZXN0aW9uX2hlYWRlcl90cmFuc2xhdGlvbnNcPg==</last-search>
+      <last-search>cer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaXhzX3F1ZXN0aW9uX2hlYWRlcl90cmFuc2xhdGlvbnNcPg==</last-pattern>
+      <last-pattern>cer</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -780,7 +787,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pay</entry>
         <entry encoding="base64">XDxnZXRfbG9zc193dFw+</entry>
         <entry encoding="base64">XDxjb25mXD4=</entry>
         <entry encoding="base64">XDxzb3J0ZWRjb250YWluZXJzXD4=</entry>
@@ -800,6 +806,7 @@
         <entry>with</entry>
         <entry encoding="base64">XDxzcWhcPg==</entry>
         <entry encoding="base64">XDxzaXhzX3F1ZXN0aW9uX2hlYWRlcl90cmFuc2xhdGlvbnNcPg==</entry>
+        <entry>cer</entry>
       </history-search>
       <history-cmd>
         <entry>893</entry>
