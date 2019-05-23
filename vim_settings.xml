@@ -540,10 +540,10 @@
         <mark key="^" line="1628" column="64" />
         <mark key="." line="1231" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558576252686">
+      <file name="/Dummy.txt" timestamp="1558579390993">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="48" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="/apps4sql1.sixs_questions [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496833432">
@@ -750,7 +750,7 @@
         <text>cer</text>
       </register>
       <register name="0" type="4">
-        <text>25.02.2019-STEEL-BAR-316L-4mm-from-KR-copy</text>
+        <text>Update vendor, try update cert. image.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
