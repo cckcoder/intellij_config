@@ -242,6 +242,9 @@
         <mark key="^" line="2" column="78" />
         <mark key="." line="3" column="30" />
       </file>
+      <file name="/sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673773753">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/Todoitem.vue" timestamp="1555673941456">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="3" column="23" />
@@ -319,7 +322,7 @@
         <mark key="." line="306" column="26" />
         <mark key="^" line="158" column="35" />
       </file>
-      <file name="/apps4sql1.sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496860478">
+      <file name="/apps4sql1.sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673756023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/controller/models/yz3_stock.py" timestamp="1554711051196">
