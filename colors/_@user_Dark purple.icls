@@ -4,13 +4,14 @@
     <property name="created">2019-03-28T15:21:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-05-20T09:55:21</property>
+    <property name="modified">2019-05-25T11:14:35</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
   <option name="CONSOLE_FONT_NAME" value="Anonymous Pro" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="39703f" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
