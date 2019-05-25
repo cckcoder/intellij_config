@@ -132,7 +132,7 @@
       <file name="/sixs_question_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673635377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/slbj/app/Http/Controllers/HomeController.php" timestamp="1558760844904">
+      <file name="/var/customers/webs/slbj/app/Http/Controllers/HomeController.php" timestamp="1558768902774">
         <mark key="'" line="47" column="48" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -316,7 +316,6 @@
       <jump line="30" column="4" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="29" column="4" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="44" column="32" filename="/var/customers/webs/slbj/app/Http/Controllers/HomeController.php" />
-      <jump line="0" column="0" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/SliderController.php" />
       <jump line="22" column="0" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="36" column="42" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="39" column="3" filename="/var/customers/webs/slbj/routes/web.php" />
@@ -363,6 +362,7 @@
       <jump line="19" column="0" filename="/var/customers/webs/slbj/docker/docker-compose_dev_php72.yml" />
       <jump line="0" column="0" filename="/var/customers/webs/slbj/docker/docker-compose_dev_php72.yml" />
       <jump line="35" column="31" filename="/var/customers/webs/slbj/docker/docker-compose_dev_php72.yml" />
+      <jump line="0" column="0" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/SliderController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
