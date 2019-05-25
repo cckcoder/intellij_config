@@ -75,8 +75,8 @@
       <file name="/apps4sql1.sixs_zones [MySQL - apps4sql1@172.18.0.4]" timestamp="1558406364061">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/slbj/app/SL/StaticData/Slider.php" timestamp="1558759659045">
-        <mark key="'" line="25" column="22" />
+      <file name="/var/customers/webs/slbj/app/SL/StaticData/Slider.php" timestamp="1558770319868">
+        <mark key="'" line="25" column="52" />
       </file>
       <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558427586062">
         <mark key="[" line="0" column="0" />
@@ -355,7 +355,6 @@
       <jump line="0" column="0" filename="/var/customers/webs/slbj/app/SL/StaticData/Slider.php" />
       <jump line="47" column="48" filename="/var/customers/webs/slbj/app/Http/Controllers/HomeController.php" />
       <jump line="173" column="23" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/SliderController.php" />
-      <jump line="25" column="22" filename="/var/customers/webs/slbj/app/SL/StaticData/Slider.php" />
       <jump line="99" column="20" filename="/var/customers/webs/slbj/app/SL/Core/File.php" />
       <jump line="13" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" />
@@ -363,6 +362,7 @@
       <jump line="0" column="0" filename="/var/customers/webs/slbj/docker/docker-compose_dev_php72.yml" />
       <jump line="35" column="31" filename="/var/customers/webs/slbj/docker/docker-compose_dev_php72.yml" />
       <jump line="0" column="0" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/SliderController.php" />
+      <jump line="25" column="52" filename="/var/customers/webs/slbj/app/SL/StaticData/Slider.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
