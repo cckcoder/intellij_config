@@ -185,6 +185,7 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/threadDump2.txt" timestamp="1558767318465" />
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/auditor.php" timestamp="1557481965010">
         <mark key="[" line="7" column="120" />
         <mark key="]" line="7" column="121" />
