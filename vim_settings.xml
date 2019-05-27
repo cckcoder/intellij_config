@@ -456,12 +456,12 @@
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="30" />
       </file>
-      <file name="/var/customers/webs/controller/models/hzs2_supplier_order_ln.py" timestamp="1558925643244">
+      <file name="/var/customers/webs/controller/models/hzs2_supplier_order_ln.py" timestamp="1558925850468">
         <mark key="'" line="968" column="38" />
-        <mark key="[" line="1021" column="71" />
-        <mark key="]" line="1021" column="83" />
-        <mark key="." line="1021" column="83" />
-        <mark key="^" line="1021" column="83" />
+        <mark key="[" line="999" column="14" />
+        <mark key="]" line="999" column="14" />
+        <mark key="." line="999" column="14" />
+        <mark key="^" line="999" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1556773345201">
         <mark key="'" line="0" column="0" />
