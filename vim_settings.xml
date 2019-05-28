@@ -71,7 +71,7 @@
         <mark key="." line="359" column="12" />
         <mark key="^" line="359" column="12" />
       </file>
-      <file name="/KPI.dbo.target [sl_229]" timestamp="1559033817875">
+      <file name="/KPI.dbo.target [sl_229]" timestamp="1559036666337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1558760024201">
@@ -170,10 +170,10 @@
         <mark key="." line="221" column="9" />
         <mark key="^" line="220" column="31" />
       </file>
-      <file name="/KPI.dbo.indicator_value [sl_229]" timestamp="1559030930836">
+      <file name="/KPI.dbo.indicator_value [sl_229]" timestamp="1559036094945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KPI.dbo.type [sl_229]" timestamp="1559034451156">
+      <file name="/KPI.dbo.type [sl_229]" timestamp="1559036090837">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/sil_gld_ctrl/report_material.php" timestamp="1554203533065">
@@ -251,11 +251,11 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559034461423">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559036519224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="c01872c6-a01c-4b35-bbad-4b9f5822504c/role/shininglight" timestamp="1558757868200">
         <mark key="'" line="2" column="0" />
@@ -264,7 +264,7 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="/a.sql" timestamp="1559034307039">
+      <file name="/a.sql" timestamp="1559035950900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557567785746">
@@ -329,7 +329,7 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="8" />
       </file>
-      <file name="/KPI.dbo.departments [sl_229]" timestamp="1559034321662">
+      <file name="/KPI.dbo.departments [sl_229]" timestamp="1559036098493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5254ba3b-ec8a-4bc9-a230-d7b31e447012/console.sql" timestamp="1559031835965">
@@ -449,7 +449,7 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="32" column="18" />
       </file>
-      <file name="/KPI.dbo.indicator [sl_229]" timestamp="1559034325771">
+      <file name="/KPI.dbo.indicator [sl_229]" timestamp="1559036670938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1556878084026">
@@ -586,16 +586,16 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="/KPI.dbo.year [sl_229]" timestamp="1559032261024">
+      <file name="/KPI.dbo.year [sl_229]" timestamp="1559036088793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1556933703347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KPI.dbo.responsible [sl_229]" timestamp="1559034439549">
+      <file name="/KPI.dbo.responsible [sl_229]" timestamp="1559036018884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KPI.dbo.key [sl_229]" timestamp="1559032460877">
+      <file name="/KPI.dbo.key [sl_229]" timestamp="1559036385052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/apps4/dockers/docker-compose.yml" timestamp="1558321312477">
@@ -611,7 +611,7 @@
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1559034451223">
+      <file name="/dummy.sql" timestamp="1559036671013">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
@@ -621,7 +621,7 @@
         <mark key="^" line="1628" column="64" />
         <mark key="." line="1231" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559034308399">
+      <file name="/Dummy.txt" timestamp="1559035952302">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -841,9 +841,12 @@
         <text>wholesale</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">U0VMRUNUCgkqCkZST00gaW5kaWNhdG9yCkxFRlQgSk9JTiB5ZWFyIGFzIHkKCU9OIHllYXJfSUQgPSB5LklECg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>select
 	*
 from KPI.dbo.departments;
@@ -858,26 +861,23 @@ FROM KPI.dbo.[key]
 select *
 from KPI.dbo.year;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">VFJVTkNBVEUgVEFCTEUgS1BJLmRiby55ZWFyCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">U0VMRUNUCglheC4qCkZST00gc2wuZGJvLmF2MF9zdHlsZV9leHRyYSBhcyBheApXSEVSRSBheC5hdjBfc3R5bGUgPSAnQkMtU1RSLVBJTi0xLjYtMzAuMCcKLS0gV0hFUkUgYXgubGFzdF9zb2xkIDwgQ09OVkVSVChWQVJDSEFSKDEwKSwgR0VUREFURSgpIC0gMzY1LCAxMTIpCi0tIAlBTkQgYXgubGFzdF9zb2xkX2FzX2NvbXAgPCBDT05WRVJUKFZBUkNIQVIoMTApLCBHRVREQVRFKCkgLSAzNjUsIDExMikKU0VMRUNUCiAgICB5Mi4qLAogICAgUk9XX05VTUJFUigpIE9WRVIgKFBBUlRJVElPTiBCWSB5Mi55ejJfc3R5bGVfY29kZV9maW5kaW5nIE9SREVSIEJZIHkyLnl6Ml9kYXRlIERFU0MpIEFTIF9yb3cKICBGUk9NIHNsLmRiby55ejJfdHJhbnNhY3Rpb25fZmluZGluZyBhcyB5MgogIFdIRVJFIHkyLnl6Ml9lbnRlcmVuY2VfZXhpdF9maW5kaW5nID0gJ08nCiAgICBBTkQgeTIueXoyX2xvY2F0aW9uID0gMQogICAgQU5EIHkyLnl6Ml9zdHlsZV9jb2RlX2ZpbmRpbmcgPSAnQkMtU1RSLVBJTi0xLjYtMzAuMCcKCgpTRUxFQ1QKCUEueXoyX2RhdGUgQVMgbGFzdF90cmFuc2FjdGlvbgoJLEEueXoyX3N0eWxlX2NvZGVfZmluZGluZyBBUyBzdHlsZQoJLFJPV19OVU1CRVIoKSBPVkVSKFBBUlRJVElPTiBCWSBBLnl6Ml9zdHlsZV9jb2RlX2ZpbmRpbmcgT1JERVIgQlkgQS55ejJfZGF0ZSBERVNDKSBBUyBfcm93CklOVE8gI3N0eWxlX3RyYW4KRlJPTSAgc2wuLnl6Ml90cmFuc2FjdGlvbl9maW5kaW5nIGFzIEEKV0hFUkUgQS5beXoyX2xvY2F0aW9uXSA9IDEKCUFORCBBLnl6Ml9lbnRlcmVuY2VfZXhpdF9maW5kaW5nID0gJ08nCglBTkQgQS55ejJfc3R5bGVfY29kZV9maW5kaW5nIE5PVCBJTiAoJycsICcqKicpCgpTRUxFQ1QKICBUT1AgMSBsYXN0X3RyYW5zYWN0aW9uCkZST00gI3N0eWxlX3RyYW4KV0hFUkUgc3R5bGUgPSBzbC5kYm8uYXYwX3N0eWxlX2V4dHJhLmF2MF9zdHlsZQoJQU5EIF9yb3cgPSAxCgpXSVRIIHN0azEgQVMgKAoJU0VMRUNUCgkJeS55ejNfc3R5bGUKCQkseS55ejNfcXR5CgkJLCh5Lnl6M19xdHkgKiB0Yy5jb3N0KSBBUyB2YWx1ZQoJCSx0Yy5jb3N0CgkJLHNwLmF2MTdfbG9jYXRlZF9hdAoJCSxhLmF2MF9lbnRlcl9kYXRlCgkJLElTTlVMTChtcS5tcV9zdG9ja19taW5fcXR5LDApIGFzIG1xX3N0b2NrX21pbl9xdHkKCQksSVNOVUxMKG1xLm1xX3N0b2NrX21heF9xdHksMCkgYXMgbXFfc3RvY2tfbWF4X3F0eQoJCSxhLmF2MF9ub3RfdG9fc2FsZQoJCSxhLmF2MF9Qcm9tb3Rpb24KCQksYS5hdjBfZXhsdXNpdmVfaXRlbQoJCSxhLmF2MF9pdGVtX3R5cGUKCQksYS5hdjBfd2VpZ2h0CgkJLCh5Lnl6M19xdHkgKiBhLmF2MF93ZWlnaHQpIEFTIHRvdGFsX3d0CgkJLGEuYXYwX3dlYgoJCSx5Lnl6M19sb2NhdGlvbgoJRlJPTSBzbC5kYm8ueXozX3N0b2NrIGFzIHkKCUxFRlQgSk9JTiBhdjBfc3R5bGUgYXMgYQoJICBPTiBhLmF2MF9zdHlsZSA9IHkueXozX3N0eWxlCglMRUZUIEpPSU4gYXYxN19zdHlsZV9wbGFjZSBhcyBzcAoJICBPTiBzcC5hdjE3X3N0eWxlID0geS55ejNfc3R5bGUgQU5EIHNwLmF2MTdfbG9jYXRpb24gPSB5Lnl6M19sb2NhdGlvbgoJTEVGVCBKT0lOIHNsLmRiby5tcV9taW5fcXR5IEFTIG1xCgkgIE9OIG1xLm1xX3N0eWxlID0geS55ejNfc3R5bGUgQU5EIG1xLm1xX2xvY2F0aW9uID0geS55ejNfbG9jYXRpb24KCUxFRlQgSk9JTiAoCgkJU0VMRUNUCgkJCXNzLnN0Y19TdHlsZQoJCQkJICxzcy5zdGNfQ29tcG9uZW50c0Nvc3QKCQkJKyAoc3Muc3RjX1N0b25lQ29zdCAvIChTRUxFQ1QgVE9QIDEgc2hyX3JhdGUgRlJPTSBzbC5kYm8uc2hyX3JhdGUgQVMgc3IgV0hFUkUgc2hyX2N1cnJlbmN5ID0gJ1RIQicgT1JERVIgQlkgc2hyX2RhdGUgREVTQykpCgkJCSsgKHNzLnN0Y19BZGRpdGlvbmFsQ29zdCAvIChTRUxFQ1QgVE9QIDEgc2hyX3JhdGUgRlJPTSBzbC5kYm8uc2hyX3JhdGUgQVMgc3IgV0hFUkUgc2hyX2N1cnJlbmN5ID0gJ1RIQicgT1JERVIgQlkgc2hyX2RhdGUgREVTQykpCgkJCSsgKHNzLnN0Y19DYXN0aW5nQ29zdCAvIChTRUxFQ1QgVE9QIDEgc2hyX3JhdGUgRlJPTSBzbC5kYm8uc2hyX3JhdGUgQVMgc3IgV0hFUkUgc2hyX2N1cnJlbmN5ID0gJ1RIQicgT1JERVIgQlkgc2hyX2RhdGUgREVTQykpCgkJCSsgKHNzLnN0Y19Qcm9jY2Vzc0Nvc3QgLyAoU0VMRUNUIFRPUCAxIHNocl9yYXRlIEZST00gc2wuZGJvLnNocl9yYXRlIEFTIHNyIFdIRVJFIHNocl9jdXJyZW5jeSA9ICdUSEInIE9SREVSIEJZIHNocl9kYXRlIERFU0MpKQoJCQkrIChzcy5zdGNfQ2FzdGluZ0Nvc3RURU1QIC8gKFNFTEVDVCBUT1AgMSBzaHJfcmF0ZSBGUk9NIHNsLmRiby5zaHJfcmF0ZSBBUyBzciBXSEVSRSBzaHJfY3VycmVuY3kgPSAnVEhCJyBPUkRFUiBCWSBzaHJfZGF0ZSBERVNDKSkKCQkJKyBzcy5zdGNfU3VwcGxpZXJDb3N0VVNEIEFTIGNvc3QKCQlGUk9NIHNsLmRiby5zdGNfU3R5bGVDb3N0IEFTIHNzCgkpIEFTIHRjIE9OIHRjLnN0Y19TdHlsZSA9IHkueXozX3N0eWxlCglXSEVSRSB5Lnl6M19sb2NhdGlvbiA9IDEKCQlBTkQgeS55ejNfcXR5ID4gMAoJCUFORCB0Yy5jb3N0IElTIE5PVCBOVUxMCiksIHN0azFfZmlsdGVyIEFTICgKCVNFTEVDVAoJCSoKCUZST00gc3RrMQoJV0hFUkUgYXYwX25vdF90b19zYWxlID0gMAoJCUFORCBhdjBfd2ViID0gMAoJCUFORCBhdjBfZW50ZXJfZGF0ZSA8IENPTlZFUlQoVkFSQ0hBUigxMCksIEdFVERBVEUoKSAtIDEyMCwgMTEyKQopLCBzb2xkX2l0ZW0gQVMgKAoJU0VMRUNUCgkJYXguKgoJRlJPTSBTTC5kYm8uYXYwX3N0eWxlX2V4dHJhIGFzIGF4CikKU0VMRUNUCglzZi4qCgksc2kubGFzdF9zb2xkCgksc2kubGFzdF9zb2xkX2FzX2NvbXAKRlJPTSBzdGsxX2ZpbHRlciBhcyBzZgpMRUZUIEpPSU4gc29sZF9pdGVtIGFzIHNpCglPTiBzZi55ejNfc3R5bGUgPSBzaS5hdjBfc3R5bGUKV0hFUkUgc2kubGFzdF9zb2xkIDwgQ09OVkVSVChWQVJDSEFSKDEwKSwgR0VUREFURSgpIC0gMzY1LCAxMTIpCglBTkQgc2kubGFzdF9zb2xkX2FzX2NvbXAgPCBDT05WRVJUKFZBUkNIQVIoMTApLCBHRVREQVRFKCkgLSAzNjUsIDExMikKCgpTRUxFQ1QKCUNBU0UKCQlXSEVOIG0ubXRyMV9TdGF0dXMgPSAxIFRIRU4gJ2FwcHJvdmVkJwoJCVdIRU4gbS5tdHIxX1N0YXR1cyA9IDkgVEhFTiAnY2xvc2UnCgkJRUxTRSAnb3BlbicKCQlFTkQgYXMgJ1N0YXR1cycKICAgICAgICxtLm10cjFfT3JkZXJCeSBhcyAnUmVxdWVzdF9CeScKICAgICAgICxsby50Y25fbG9jYXRpb25fZGVzY3JpcHRpb24KICAgICAgICxtLm10cjFfT3JkZXIgYXMgJ1JlcXVlc3RfTm8nCiAgICAgICAsbS5tdHIxX09yZGVyRGF0ZSBhcyAnRGF0ZScKICAgICAgICxtLm10cjFfRGVsaXZlcnlEYXRlIGFzICdEZWxpdmVyeV9EYXRlJwogICAgICAgLG0ubXRyMV9NYXRlcmlhbCBhcyAnTWF0ZXJpYWwnCiAgICAgICAsYS5hdjBfa2FyYXQKICAgICAgICxtLm10cjFfSXNzdWVkV3QgYXMgJ0lzc3VlZF9Ub3RhbCcKICAgICAgICxtLm10cjFfUmVxdWVzdFd0IGFzICdSZXF1ZXN0X1RvdGFsJwogICAgICAgLG0ubXRyMV9SZWNlaXZlV3QgYXMgJ1JlcXVlc3RfV3QnCiAgICAgICAsbS5tdHIxX0R1c3RXdAogICAgICAgLGN0LnRvdGFsX3RyZWUKICAgICAgICxDQVNFCgkgICAgICAgIFdIRU4gbS5tdHIxX1JlY2VpdmVXdCA9IDAgVEhFTiAwCgkgICAgICAgIEVMU0UgbS5tdHIxX0lzc3VlZFd0IC0gKG0ubXRyMV9SZWNlaXZlV3QgKyBtLm10cjFfRHVzdFd0KQoJRU5EIGFzICdMb3NzX3d0JwpGUk9NIHNsLmRiby5tdHIxX01hdGVyaWFsUmVxdWVzdF9oZHIgYXMgbQpMRUZUIEpPSU4gc2wuZGJvLmF2MF9zdHlsZSBhcyBhCgkgT04gYS5hdjBfc3R5bGUgPSBtLm10cjFfTWF0ZXJpYWwKTEVGVCBKT0lOIHNsLmRiby50Y25fbG9jYXRpb24gYXMgbG8KCSBPTiBsby50Y25fbG9jYXRpb25fY29kZSA9IG0ubXRyMV9PcmRlckJ5CkxFRlQgSk9JTiAoCglTRUxFQ1QKCQloLm10cjFfT3JkZXIKCQkgLENPVU5UKGwubXRyMl9UcmVlKSBhcyB0b3RhbF90cmVlCglGUk9NIHNsLmRiby5tdHIxX01hdGVyaWFsUmVxdWVzdF9oZHIgYXMgaAoJIExFRlQgSk9JTiBzbC5kYm8ubXRyMl9NYXRlcmlhbFJlcXVlc3RfTG4gYXMgbAoJCQkgT04gbC5tdHIyX29yZGVyID0gaC5tdHIxX09yZGVyCglXSEVSRSBZRUFSKGgubXRyMV9PcmRlckRhdGUpID49IDIwMTgKCUdST1VQIEJZCgkJaC5tdHIxX09yZGVyCikgYXMgY3Qgb24gY3QubXRyMV9PcmRlciA9IG0ubXRyMV9PcmRlcgpXSEVSRSBZRUFSKG0ubXRyMV9PcmRlckRhdGUpID0gMjAxOQoJQU5EIE1PTlRIKG0ubXRyMV9PcmRlckRhdGUpID0gNApPUkRFUiBCWSBtLm10cjFfU3RhdHVzIEFTQw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aWQK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBERVBUVEFCOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG1hcmdpbjogNXB4IDA7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1heC1yZXNvbHV0aW9uOiByZXM7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPlBsZWFzZSBOb3RlOiZuYnNwOzwvc3Bhbj4gU2hpbmluZyBMaWdodCBpcyBhIDxzcGFuPndob2xlc2FsZSBvbmx5PC9zcGFuPgogICAgICAgICAgICAgICAgY29tcGFueSAoQnVzaW5lc3MtdG8tQnVzaW5lc3MpLiAgRm9yIHRheCByZWFzb25zIHdlIGRvIG5vdCBzZWxsIHJldGFpbCAoQnVzaW5lc3MtdG8tQ29uc3VtZXIpLiAgWW91IG11c3QgYmUgYXNzb2NpYXRlZCB3aXRoIGFuIG9wZXJhdGluZyBidXNpbmVzcyB0byBwdXJjaGFzZSBmcm9tIHRoaXMgd2Vic2l0ZS4gIElmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgZmVlbCBmcmVlIHRvIGNvbnRhY3QgdXMgYXQgPHU+aW5mb0BzaGluaW5nbGlnaHQtcGllcmNpbmcuY29tPC91Pm9yCiAgICAgICAgICAgICAgICA8c3Bhbj44NzctIDY3Ni04OTQ3Ljwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgIG1heC1yZXNvbHV0aW9uOiByZXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
