@@ -190,7 +190,7 @@
         <mark key="." line="6" column="119" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/SliderController.php" timestamp="1558759592545">
+      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/SliderController.php" timestamp="1559013829344">
         <mark key="'" line="173" column="23" />
       </file>
       <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
@@ -244,6 +244,12 @@
         <mark key="]" line="29" column="7" />
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" timestamp="1559016232512">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558758309169">
         <mark key="[" line="0" column="0" />
@@ -506,7 +512,6 @@
         <mark key="." line="7" column="121" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="/var/customers/webs/slbj/app/Http/Controllers/Auth/RegisterController.php" timestamp="1558939284436" />
       <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/cimco_cost.php" timestamp="1553850469133">
         <mark key="'" line="2002" column="0" />
         <mark key="[" line="29" column="82" />
