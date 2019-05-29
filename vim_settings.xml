@@ -84,12 +84,12 @@
       <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558427586062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" timestamp="1559128274168">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="23" column="17" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" timestamp="1559130007845">
+        <mark key="'" line="30" column="2" />
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="5" />
+        <mark key="^" line="19" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559039091065">
         <mark key="[" line="0" column="0" />
@@ -133,7 +133,7 @@
       <file name="/sixs_question_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673635377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KPI.dbo.departments [sl_229]" timestamp="1559125371702">
+      <file name="/KPI.dbo.departments [sl_229]" timestamp="1559129214610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5254ba3b-ec8a-4bc9-a230-d7b31e447012/console.sql" timestamp="1559031835965">
@@ -163,6 +163,9 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
+      </file>
+      <file name="/KPI.dbo.worker [sl_229]" timestamp="1559129211054">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1556933689917">
         <mark key="[" line="0" column="0" />
@@ -255,7 +258,7 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1559125426084">
+      <file name="/dummy.sql" timestamp="1559129214726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -299,7 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1166" column="0" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="1205" column="14" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="2" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="1258" column="13" filename="/var/customers/webs/sapi/api/views/stocks.py" />
@@ -397,47 +399,48 @@
       <jump line="80" column="89" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="85" column="69" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" />
-      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" />
       <jump line="0" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
+      <jump line="22" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" />
+      <jump line="27" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>*</text>
+        <text>NOT</text>
       </register>
       <register name="/" type="4">
         <text>sold_item</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpClNFTEVDVAoJZHQuREVQVF9LRVksCiAgZHQuREVQVF9USEFJREVTQwpGUk9NIERFUFRUQUIgYXMgZHQKV0hFUkUgTk9UIEVYSVNUUygKCVNFTEVDVAoJCWQuSUQKICBGUk9NIFNFUlZFUlJFUC5LUEkuZGJvLmRlcGFydG1lbnRzIGFzIGQKICBXSEVSRSBkdC5ERVBUX0tFWSA9IGQuSUQKKQoJQU5EIGR0LkRFUFRfS0VZICE9IDEyOQo=</text>
+      <register name="0" type="4">
+        <text>TRY_CONVERT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFORCBkLklEICE9IDEyOQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">U0VMRUNUCglkLklECkZST00gU0VSVkVSUkVQLktQSS5kYm8ud29ya2VyIGFzIGQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LS0gV0hFUkUgcC5QUlNfTk8gPSBkLndvcmtlcl9JRAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBGUk9NCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CUFORCAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">U0VMRUNUIAogIApGUk9NIEVNUEZJTEUgYXMgZXAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">LS0gSU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpCi0tIFNFTEVDVAotLSAJZHQuREVQVF9LRVksCi0tICAgZHQuREVQVF9USEFJREVTQwotLSBGUk9NIERFUFRUQUIgYXMgZHQKLS0gV0hFUkUgZHQuREVQVF9LRVkgIT0gMTI5Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>SELECT
 	*
 FROM v_stk11_with_detail</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXhlYyBzbC5kYm8uYQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">SU5UTyAjZGVwdF9ub3RfZXhpc3QK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUCgkqCkZST00gI2RlcHRfbm90X2V4aXN0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpClNFTEVDVAoJKgpGUk9NICNkZXB0X25vdF9leGlzdAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpClNFTEVDVAoJKgpGUk9NICNkZXB0X25vdF9leGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
