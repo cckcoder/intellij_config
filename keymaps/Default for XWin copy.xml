@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="ActivateStructureToolWindow" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="alt 7" />

@@ -3,73 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/var/customers/webs/django_tutorial/btre/settings.py" timestamp="1552966884022">
-        <mark key="'" line="120" column="22" />
-        <mark key="[" line="33" column="28" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="28" />
-      </file>
-      <file name="/var/customers/webs/controller/models/av0_style.py" timestamp="1557746414516">
-        <mark key="'" line="496" column="26" />
-        <mark key="[" line="447" column="0" />
-        <mark key="]" line="453" column="41" />
-        <mark key="." line="100" column="17" />
-        <mark key="^" line="100" column="17" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/internal_audit.php" timestamp="1557476862535">
-        <mark key="'" line="91" column="5" />
-        <mark key="[" line="115" column="55" />
-        <mark key="]" line="115" column="73" />
-        <mark key="^" line="114" column="3" />
-        <mark key="." line="115" column="74" />
-      </file>
       <file name="/a.dummy" timestamp="1556859554157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/controller/models/__init__.py" timestamp="1555992640035">
-        <mark key="'" line="30" column="25" />
-        <mark key="[" line="82" column="13" />
-        <mark key="]" line="83" column="21" />
-        <mark key="^" line="83" column="21" />
-        <mark key="." line="83" column="21" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/audit_result.php" timestamp="1557483577150">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="90" column="112" />
-        <mark key="]" line="90" column="113" />
-        <mark key="." line="90" column="113" />
-        <mark key="^" line="89" column="112" />
-      </file>
       <file name="/apps4sql1.sixs_question_lines [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496573562">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console_1.sql" timestamp="1552623708229">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="26" />
-        <mark key="^" line="41" column="26" />
-      </file>
-      <file name="/var/customers/webs/django_tutorial/python_refresh/classes.py" timestamp="1552711545031">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="36" column="11" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
       </file>
       <file name="/SL.dbo.v_sold_2_years_exlusive_items [230production]" timestamp="1557747338456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sixs_question_line_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558492818179">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/models/metal_summary.php" timestamp="1557304887247">
-        <mark key="'" line="647" column="25" />
-        <mark key="[" line="359" column="11" />
-        <mark key="]" line="359" column="12" />
-        <mark key="." line="359" column="12" />
-        <mark key="^" line="359" column="12" />
       </file>
       <file name="/KPI.dbo.target [sl_229]" timestamp="1559039108960">
         <mark key="[" line="0" column="0" />
@@ -92,20 +36,6 @@
       <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496844170">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/controller/models/kb3_receipt_lnd.py" timestamp="1556002716381">
-        <mark key="'" line="51" column="6" />
-        <mark key="[" line="52" column="12" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="12" />
-        <mark key="^" line="95" column="37" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/client/src/components/Header.js" timestamp="1557563655105">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="19" column="33" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="19" column="33" />
-      </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/index.html" timestamp="1557282831683">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="33" />
@@ -118,77 +48,14 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="11" column="57" />
       </file>
-      <file name="/var/customers/webs/react_web_dev/client/src/components/Footer.js" timestamp="1557560131923">
-        <mark key="'" line="4" column="25" />
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/client/src/components/product/ProductItem.js" timestamp="1557560053240">
-        <mark key="'" line="2" column="33" />
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="54" />
-        <mark key="." line="5" column="54" />
-        <mark key="^" line="5" column="54" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" timestamp="1556877832776">
-        <mark key="'" line="88" column="56" />
-        <mark key="[" line="47" column="35" />
-        <mark key="]" line="47" column="21" />
-        <mark key="." line="47" column="21" />
-        <mark key="^" line="47" column="21" />
-      </file>
-      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1557305424622">
-        <mark key="'" line="622" column="23" />
-        <mark key="[" line="713" column="68" />
-        <mark key="]" line="713" column="68" />
-        <mark key="." line="713" column="68" />
-        <mark key="^" line="713" column="68" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/sum_all_sil.php" timestamp="1553149759533">
-        <mark key="'" line="91" column="19" />
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="88" />
-        <mark key="^" line="92" column="7" />
-        <mark key="." line="92" column="7" />
-      </file>
       <file name="/apps4sql1.sixs_question_translations [apps4_mariadb]" timestamp="1558674032251">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/slbj/resources/views/auth/register.blade.php" timestamp="1558940012127">
-        <mark key="'" line="24" column="196" />
-        <mark key="[" line="24" column="294" />
-        <mark key="]" line="24" column="295" />
-        <mark key="." line="24" column="295" />
-        <mark key="^" line="24" column="295" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/stock_reports.php" timestamp="1557390220369">
-        <mark key="'" line="210" column="50" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="221" column="9" />
-        <mark key="^" line="220" column="31" />
       </file>
       <file name="/KPI.dbo.indicator_value [sl_229]" timestamp="1559039102896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/KPI.dbo.type [sl_229]" timestamp="1559039110761">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/sil_gld_ctrl/report_material.php" timestamp="1554203533065">
-        <mark key="'" line="1307" column="0" />
-        <mark key="[" line="544" column="171" />
-        <mark key="]" line="544" column="171" />
-        <mark key="." line="544" column="173" />
-        <mark key="^" line="542" column="159" />
-      </file>
-      <file name="/64ef339b/ba2f452a-a573-45c5-92c3-c90a4a89fc15/database/SL/schema/dbo/routine/zz_min_styles_no_stock_orders.sql" timestamp="1558923572926">
-        <mark key="'" line="17" column="18" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/argos.php" timestamp="1557470482697">
         <mark key="[" line="6" column="55" />
@@ -198,20 +65,6 @@
       </file>
       <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/SliderController.php" timestamp="1559013829344">
         <mark key="'" line="173" column="23" />
-      </file>
-      <file name="/var/customers/webs/sapi/api/models/Dead_stock.py" timestamp="1554711280949">
-        <mark key="'" line="94" column="12" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="155" column="81" />
-        <mark key="." line="179" column="32" />
-        <mark key="^" line="179" column="47" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/client/src/App.css" timestamp="1557713651373">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="7" column="33" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c01872c6-a01c-4b35-bbad-4b9f5822504c/console.sql" timestamp="1558758452899">
         <mark key="[" line="2" column="11" />
@@ -228,22 +81,8 @@
       <file name="/apps4sql1.sixs_zones [MySQL - apps4sql1@172.18.0.4]" timestamp="1558406364061">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/menu_audit_reports.php" timestamp="1557538836408">
-        <mark key="'" line="3" column="2" />
-        <mark key="[" line="91" column="33" />
-        <mark key="]" line="91" column="33" />
-        <mark key="." line="91" column="33" />
-        <mark key="^" line="91" column="33" />
-      </file>
       <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558427586062">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/python_tutor/ORCA/flow_control_exercise.py" timestamp="1552702793416">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-        <mark key="^" line="29" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" timestamp="1559029285030">
         <mark key="[" line="0" column="0" />
@@ -257,22 +96,14 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="c01872c6-a01c-4b35-bbad-4b9f5822504c/role/shininglight" timestamp="1558757868200">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-      </file>
       <file name="/a.sql" timestamp="1559100042429">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/react_web_dev/client/src/index.js" timestamp="1557567785746">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" timestamp="1559106695096">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="internal/modules/cjs/loader.js" timestamp="1556933839142">
         <mark key="[" line="0" column="0" />
@@ -292,20 +123,6 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="3" column="23" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/clair.php" timestamp="1557539339519">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="9" column="116" />
-        <mark key="^" line="8" column="21" />
-      </file>
-      <file name="D:/tutorial/js_data_structure/index.html" timestamp="1556932344758">
-        <mark key="'" line="9" column="17" />
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="9" column="20" />
-        <mark key="." line="9" column="20" />
-      </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="22" />
@@ -314,20 +131,6 @@
       </file>
       <file name="/sixs_question_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673635377">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/controller/controller31.py" timestamp="1558924834500">
-        <mark key="'" line="13" column="26" />
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-      </file>
-      <file name="/var/customers/webs/django_tutorial/pages/urls.py" timestamp="1552967530791">
-        <mark key="'" line="4" column="18" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="8" />
       </file>
       <file name="/KPI.dbo.departments [sl_229]" timestamp="1559039099253">
         <mark key="[" line="0" column="0" />
@@ -338,13 +141,6 @@
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="36" />
         <mark key="^" line="6" column="6" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console_1.sql" timestamp="1557802217098">
-        <mark key="'" line="0" column="21" />
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-        <mark key="^" line="0" column="23" />
       </file>
       <file name="f2acc492-2b3e-4bca-999d-dadf1a798e39/database/KPI/schema/dbo/table/target.sql" timestamp="1559038056319">
         <mark key="[" line="0" column="0" />
@@ -358,29 +154,8 @@
         <mark key="^" line="30" column="76" />
         <mark key="." line="30" column="76" />
       </file>
-      <file name="/var/customers/webs/django_tutorial/pages/views.py" timestamp="1552967358092">
-        <mark key="'" line="4" column="4" />
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-      </file>
-      <file name="/var/customers/webs/controller/models/hzs1_supplier_order_hdr.py" timestamp="1555992913932">
-        <mark key="'" line="350" column="6" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="270" column="23" />
-        <mark key="." line="306" column="26" />
-        <mark key="^" line="158" column="35" />
-      </file>
       <file name="/apps4sql1.sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673756023">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/sapi/api/views/stocks.py" timestamp="1557903166334">
-        <mark key="'" line="82" column="31" />
-        <mark key="[" line="171" column="123" />
-        <mark key="]" line="171" column="4" />
-        <mark key="^" line="171" column="4" />
-        <mark key="." line="171" column="142" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" timestamp="1558940335808">
         <mark key="[" line="3" column="24" />
@@ -388,53 +163,11 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="/var/customers/webs/controller/models/yz3_stock.py" timestamp="1554711051196">
-        <mark key="'" line="409" column="31" />
-        <mark key="[" line="442" column="0" />
-        <mark key="]" line="443" column="89" />
-        <mark key="." line="442" column="26" />
-        <mark key="^" line="446" column="3" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/sil_gld_ctrl/casting_rm.php" timestamp="1556771977822">
-        <mark key="'" line="12" column="53" />
-        <mark key="[" line="10" column="80" />
-        <mark key="]" line="10" column="92" />
-        <mark key="." line="10" column="92" />
-        <mark key="^" line="10" column="92" />
-      </file>
-      <file name="/var/customers/webs/controller/config.ini" timestamp="1558924047845">
-        <mark key="'" line="169" column="8" />
-        <mark key="[" line="178" column="8" />
-        <mark key="]" line="178" column="26" />
-        <mark key="^" line="385" column="49" />
-        <mark key="." line="386" column="6" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bfdf871-16bb-4a1b-b4f7-f197f4bb1e1e/console.sql" timestamp="1553500579327">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="69" column="14" />
-        <mark key="^" line="44" column="20" />
-        <mark key="." line="29" column="34" />
-      </file>
       <file name="/fragment.js" timestamp="1556933689917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/v_stk11_with_detail [sl_production]" timestamp="1558492038256">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/tutorial/js_data_structure/set.js" timestamp="1557819001844">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="88" column="17" />
-        <mark key="]" line="88" column="33" />
-        <mark key="." line="88" column="33" />
-        <mark key="^" line="88" column="33" />
-      </file>
-      <file name="/opt/lampp/htdocs/app/routes/web.php" timestamp="1558283533472">
-        <mark key="'" line="18" column="16" />
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
       </file>
       <file name="/mnt/sdb1/GMS/application/controllers/general/audit_reports.php" timestamp="1557539318960">
         <mark key="[" line="45" column="49" />
@@ -448,29 +181,8 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/models/sil_gld_admin.php" timestamp="1553244912778">
-        <mark key="'" line="18" column="20" />
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="32" column="18" />
-        <mark key="." line="32" column="18" />
-      </file>
       <file name="/KPI.dbo.indicator [sl_229]" timestamp="1559039100951">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5c4204b7-bbf0-4400-96f2-15650663d4d2/console.sql" timestamp="1556878084026">
-        <mark key="'" line="10" column="56" />
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="10" column="57" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="10" column="57" />
-      </file>
-      <file name="/var/customers/webs/controller/models/hzs2_supplier_order_ln.py" timestamp="1558925850468">
-        <mark key="'" line="968" column="38" />
-        <mark key="[" line="999" column="14" />
-        <mark key="]" line="999" column="14" />
-        <mark key="." line="999" column="14" />
-        <mark key="^" line="999" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1559105104643">
         <mark key="[" line="0" column="0" />
@@ -481,19 +193,17 @@
       <file name="/apps4sql1.sixs_zone_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329083733">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/models/casting_rm.php" timestamp="1556778780819">
-        <mark key="'" line="86" column="20" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="114" column="19" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1556878938624">
+      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1559106329381">
         <mark key="'" line="408" column="36" />
-        <mark key="[" line="412" column="10" />
-        <mark key="]" line="412" column="6" />
+        <mark key="[" line="1058" column="6" />
+        <mark key="]" line="1058" column="8" />
         <mark key="." line="412" column="6" />
         <mark key="^" line="412" column="6" />
+      </file>
+      <file name="/var/customers/webs/api3/api/main.py" timestamp="1559106136328">
+        <mark key="'" line="85" column="69" />
+        <mark key="[" line="85" column="23" />
+        <mark key="]" line="85" column="43" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/.gitignore" timestamp="1555674682442">
         <mark key="[" line="119" column="0" />
@@ -507,84 +217,14 @@
         <mark key="." line="7" column="121" />
         <mark key="^" line="7" column="80" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/plating_ctrl/cimco_cost.php" timestamp="1553850469133">
-        <mark key="'" line="2002" column="0" />
-        <mark key="[" line="29" column="82" />
-        <mark key="]" line="29" column="84" />
-        <mark key="^" line="29" column="84" />
-        <mark key="." line="29" column="84" />
-      </file>
-      <file name="/var/customers/webs/controller/models/couch_inventory.py" timestamp="1554266020183">
-        <mark key="'" line="302" column="0" />
-        <mark key="[" line="145" column="38" />
-        <mark key="]" line="145" column="38" />
-        <mark key="^" line="145" column="38" />
-        <mark key="." line="145" column="38" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1557895138001">
-        <mark key="'" line="2" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/var/customers/webs/react_web_dev/package.json" timestamp="1557384311417">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="31" />
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
       </file>
-      <file name="/f2e83909/4d0a6c2a-9183-469d-8942-030d3354f1a2/database/SL/schema/dbo/routine/zz_get_cimmco_item_uom.sql" timestamp="1553490132626">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
       <file name="/apps4sql1.sixs_question_line_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496594453">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/models/gld_ctrl.php" timestamp="1553224062976">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="239" column="40" />
-        <mark key="]" line="240" column="7" />
-        <mark key="." line="240" column="7" />
-        <mark key="^" line="240" column="7" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/invoices_tamuz.php" timestamp="1554707500218">
-        <mark key="'" line="61" column="21" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="7" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="7" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/wal_mart.php" timestamp="1557543117995">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="7" column="61" />
-        <mark key="]" line="7" column="62" />
-        <mark key="^" line="7" column="63" />
-        <mark key="." line="7" column="62" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" timestamp="1558923425204">
-        <mark key="'" line="0" column="12" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/organizes.php" timestamp="1557453987542">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="63" column="20" />
-        <mark key="]" line="63" column="21" />
-        <mark key="." line="63" column="21" />
-        <mark key="^" line="63" column="21" />
-      </file>
-      <file name="/var/customers/webs/controller/controller.py" timestamp="1558924060740">
-        <mark key="'" line="98" column="5" />
-        <mark key="[" line="155" column="11" />
-        <mark key="]" line="155" column="29" />
-        <mark key="." line="172" column="33" />
-        <mark key="^" line="172" column="33" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/iso_3_system.php" timestamp="1557470326611">
         <mark key="[" line="7" column="67" />
@@ -610,35 +250,14 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1557893316097">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="24" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="37" column="4" />
-      </file>
       <file name="/dummy.sql" timestamp="1559040114524">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1557303008072">
-        <mark key="'" line="1540" column="4" />
-        <mark key="[" line="1231" column="0" />
-        <mark key="]" line="1231" column="0" />
-        <mark key="^" line="1628" column="64" />
-        <mark key="." line="1231" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1559100049099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="/var/customers/webs/slbj/public/css/local/custom.css" timestamp="1558939956987">
-        <mark key="'" line="3334" column="11" />
-        <mark key="[" line="3338" column="20" />
-        <mark key="]" line="3339" column="21" />
-        <mark key="." line="3339" column="21" />
-        <mark key="^" line="3339" column="21" />
       </file>
       <file name="/apps4sql1.sixs_questions [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496833432">
         <mark key="[" line="0" column="0" />
@@ -649,36 +268,8 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/var/customers/webs/vue_creash_todolist/src/components/Todos.vue" timestamp="1555674245095">
-        <mark key="'" line="3" column="13" />
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="42" />
-        <mark key="^" line="3" column="42" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/casting_rms.php" timestamp="1556779864297">
-        <mark key="'" line="130" column="44" />
-        <mark key="[" line="193" column="14" />
-        <mark key="]" line="194" column="7" />
-        <mark key="." line="194" column="7" />
-        <mark key="^" line="194" column="7" />
-      </file>
-      <file name="/var/customers/webs/django_tutorial/btre/urls.py" timestamp="1552967551632">
-        <mark key="'" line="19" column="22" />
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="12" />
-        <mark key="^" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-      </file>
       <file name="/apps4sql1.sixs_question_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496877321">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/internal_audit_schedule.php" timestamp="1557538101078">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="7" column="65" />
-        <mark key="]" line="7" column="92" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="7" column="140" />
       </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/default_param.js" timestamp="1557285926379">
         <mark key="[" line="5" column="10" />
@@ -692,41 +283,6 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/gld_locations.php" timestamp="1553139435166">
-        <mark key="'" line="48" column="34" />
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
-      </file>
-      <file name="/var/customers/webs/react_web_dev/client/.gitignore" timestamp="1557714073922">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="25" column="4" />
-        <mark key="^" line="25" column="4" />
-        <mark key="." line="25" column="4" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/models/plating_cost_m.php" timestamp="1553844309104">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="493" column="0" />
-        <mark key="]" line="525" column="44" />
-        <mark key="." line="545" column="7" />
-        <mark key="^" line="545" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3010cfa1-f73a-4d22-855b-f7e9f235de81/console.sql" timestamp="1554714411755">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="81" column="22" />
-        <mark key="." line="95" column="8" />
-        <mark key="^" line="95" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bc74724b-aad6-467a-9e9a-2a0ff7df8cf1/console.sql" timestamp="1552898514661">
-        <mark key="'" line="0" column="42" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-        <mark key="." line="0" column="42" />
-      </file>
       <file name="/apps4sql1.sixs_question_headers [MySQL - apps4sql1@172.18.0.4]" timestamp="1558495504771">
         <mark key="[" line="0" column="0" />
       </file>
@@ -735,9 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="31" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="43" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
       <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
@@ -835,16 +388,19 @@
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
       <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-30197633/builtins.py" />
+      <jump line="80" column="89" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="85" column="69" filename="/var/customers/webs/api3/api/main.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IH0=</text>
+        <text>usr_password</text>
       </register>
       <register name="/" type="4">
-        <text>aut</text>
+        <text>sold_item</text>
       </register>
       <register name="0" type="4">
-        <text>wholesale</text>
+        <text>for</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUCglkLklEIGFzIGRlcHRfSUQsCglkLmRlc2NyaXB0aW9ucywKICBrLklEIGFzIGtleV9JRCwKICBrLmRlc2NyaXB0aW9ucyBhcyBnb2FscywKCWkuZGVzY3JpcHRpb25zIGFzIF9pbmRpY2F0b3IsCiAgeS5kZXNjcmlwdGlvbiBhcyB5ZWFyLAoJdC5kZXNjcmlwdGlvbnMgYXMgdGFyZ2V0LAogIHl5LmRlc2NyaXB0aW9uIGFzIHllYXIsCiAgci5uYW1lCkZST00gS1BJLmRiby5kZXBhcnRtZW50cyBhcyBkCkxFRlQgSk9JTiBLUEkuZGJvLltrZXldIGFzIGsKCU9OIGQuSUQgPSBrLmRlcHRfSUQKTEVGVCBKT0lOIEtQSS5kYm8uaW5kaWNhdG9yIGFzIGkKCU9OIGkuSUQgPSBrLmluZGljYXRvcl9JRApMRUZUIEpPSU4gS1BJLmRiby55ZWFyIGFzIHkKCU9OIHkuSUQgPSBpLnllYXJfSUQKTEVGVCBKT0lOIEtQSS5kYm8udGFyZ2V0IGFzIHQKCU9OIHQuSUQgPSBrLnRhcmdldF9JRApMRUZUIEpPSU4gS1BJLmRiby55ZWFyIGFzIHl5CglPTiB5eS5JRCA9IHQueWVhcl9JRApMRUZUIEpPSU4gS1BJLmRiby5yZXNwb25zaWJsZSBhcyByCglPTiByLklEID0gay5yZXNwb25zaWJsZV9JRApXSEVSRSBkLklEID0gMgoKCgpTRUxFQ1QKCSoKRlJPTSBpbmRpY2F0b3JfdmFsdWUKCgpTRUxFQ1QKCSoKRlJPTSAoCglTRUxFQ1QKCSBNT05USChkYXRlKSwKCSBrZXlfSUQsCgkgdmFsdWUKCUZST00gaW5kaWNhdG9yX3ZhbHVlCglXSEVSRSBZRUFSKGRhdGUpID0gMjAxOQoJUElWT1QgKAoKCQkpCikK</text>
@@ -879,9 +435,9 @@
       </register>
     </registers>
     <search>
-      <last-search>aut</last-search>
+      <last-search>sold_item</last-search>
       <last-offset />
-      <last-pattern>aut</last-pattern>
+      <last-pattern>sold_item</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -889,7 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stock_11</entry>
         <entry encoding="base64">XDxzdGsxMV90cmFzXzFfeWVhclw+</entry>
         <entry encoding="base64">XDxzdGtfc3R5bGVcPg==</entry>
         <entry>f</entry>
@@ -909,6 +464,7 @@
         <entry encoding="base64">XDxzdXBwbGllcl9vcmRlcl9saW5lXD4=</entry>
         <entry>supplier_order_line</entry>
         <entry>aut</entry>
+        <entry>sold_item</entry>
       </history-search>
       <history-cmd>
         <entry>893</entry>
