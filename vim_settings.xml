@@ -472,12 +472,12 @@
         <mark key="." line="999" column="14" />
         <mark key="^" line="999" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1559040822243">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1559095082246">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
       </file>
       <file name="/apps4sql1.sixs_zone_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329083733">
         <mark key="[" line="0" column="0" />
@@ -839,7 +839,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IH0=</text>
       </register>
       <register name="/" type="4">
         <text>aut</text>
@@ -848,31 +848,32 @@
         <text>wholesale</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWkuCg==</text>
+        <text encoding="base64">UElWT1QgKAoJCikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWkuCg==</text>
+        <text encoding="base64">CQkgICAgIE1PTlRIKGRhdGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWsK</text>
+        <text encoding="base64">UElWT1QgKCAKICAgICAgCgkJKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkLgo=</text>
+      <register name="4" type="4">
+        <text>(
+	     )</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGVmdCBqb2luIAo=</text>
+        <text encoding="base64">CVNFTEVDVCAKCQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNyZWF0ZSB1bmlxdWUgaW5kZXggdGFyZ2V0X0lEX3VpbmRleAoJb24gdGFyZ2V0IChJRCkKZ28KCg==</text>
+        <text encoding="base64">CWkuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gYXV0by1nZW5lcmF0ZWQgZGVmaW5pdGlvbgpjcmVhdGUgdGFibGUgdGFyZ2V0CigKCUlEICAgICAgICAgICBpbnQgaWRlbnRpdHkKCQljb25zdHJhaW50IHRhcmdldF9wawoJCQlwcmltYXJ5IGtleSBub25jbHVzdGVyZWQsCglkZXNjcmlwdGlvbnMgdmFyY2hhcigyNTApIG5vdCBudWxsLAoJeWVhcl9JRCAgICAgIGludCwKCWRlcHRfSUQgICAgICBpbnQKKQpnbwo=</text>
+        <text encoding="base64">CWkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUCgkqCkZST00gaW5kaWNhdG9yCkxFRlQgSk9JTiB5ZWFyIGFzIHkKCU9OIHllYXJfSUQgPSB5LklECg==</text>
+        <text encoding="base64">ICBkLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
