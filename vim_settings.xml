@@ -472,10 +472,11 @@
         <mark key="." line="999" column="14" />
         <mark key="^" line="999" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1559101838095">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1559105104643">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="/apps4sql1.sixs_zone_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329083733">
         <mark key="[" line="0" column="0" />
