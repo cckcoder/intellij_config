@@ -48,6 +48,9 @@
         <mark key="^" line="7" column="61" />
         <mark key="." line="11" column="57" />
       </file>
+      <file name="/KPI.dbo.sysdiagrams [sl_229]" timestamp="1559116233410">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/apps4sql1.sixs_question_translations [apps4_mariadb]" timestamp="1558674032251">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,9 +65,6 @@
         <mark key="]" line="6" column="77" />
         <mark key="." line="6" column="119" />
         <mark key="^" line="6" column="54" />
-      </file>
-      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/StaticData/SliderController.php" timestamp="1559013829344">
-        <mark key="'" line="173" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c01872c6-a01c-4b35-bbad-4b9f5822504c/console.sql" timestamp="1558758452899">
         <mark key="[" line="2" column="11" />
@@ -84,11 +84,11 @@
       <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558427586062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" timestamp="1559113405170">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="7" column="11" />
-        <mark key="." line="5" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" timestamp="1559117743305">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559039091065">
         <mark key="[" line="0" column="0" />
@@ -96,7 +96,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1559100042429">
+      <file name="/a.sql" timestamp="1559117681169">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" timestamp="1559106695096">
@@ -250,10 +250,12 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1559040114524">
+      <file name="/dummy.sql" timestamp="1559117681181">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559100049099">
+      <file name="/Dummy.txt" timestamp="1559117681186">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -394,40 +396,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>O</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>sold_item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWVwLkVNUF9FX05BTUUsIAo=</text>
+        <text encoding="base64">U0VMRUNUCglwLlBSU19OTyBhcyB3b3JrZXJfSUQsCgllcC5FTVBfRV9OQU1FIGFzIHdvcmtlcl9uYW1lLAogIHAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwIG9uIGVwLkVNUF9LRVkgPSBwLlBSU19FTVAKV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWVwLkVNUF9FX05BTUUsCg==</text>
+        <text encoding="base64">U0VMRUNUCgkqCkZST00gU0VSVkVSUkVQLktQSS5kYm8ud29ya2VyCldIRVJFIGlkID0gJzE3MDQyNjcnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0hFUkUgZXAuRU1QX0VNQUlMIExJS0UgJyVOQU4lJwo=</text>
+        <text encoding="base64">U0UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text encoding="base64">U0VMRUNUCgkqCkZST00gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VDVElPTmIK</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBERVBUVEFCOwo=</text>
+        <text encoding="base64">CWVwLkVNUF9LRVksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUCglkLklEIGFzIGRlcHRfSUQsCglkLmRlc2NyaXB0aW9ucywKICBrLklEIGFzIGtleV9JRCwKICBrLmRlc2NyaXB0aW9ucyBhcyBnb2FscywKCWkuZGVzY3JpcHRpb25zIGFzIF9pbmRpY2F0b3IsCiAgeS5kZXNjcmlwdGlvbiBhcyB5ZWFyLAoJdC5kZXNjcmlwdGlvbnMgYXMgdGFyZ2V0LAogIHl5LmRlc2NyaXB0aW9uIGFzIHllYXIsCiAgci5uYW1lCkZST00gS1BJLmRiby5kZXBhcnRtZW50cyBhcyBkCkxFRlQgSk9JTiBLUEkuZGJvLltrZXldIGFzIGsKCU9OIGQuSUQgPSBrLmRlcHRfSUQKTEVGVCBKT0lOIEtQSS5kYm8uaW5kaWNhdG9yIGFzIGkKCU9OIGkuSUQgPSBrLmluZGljYXRvcl9JRApMRUZUIEpPSU4gS1BJLmRiby55ZWFyIGFzIHkKCU9OIHkuSUQgPSBpLnllYXJfSUQKTEVGVCBKT0lOIEtQSS5kYm8udGFyZ2V0IGFzIHQKCU9OIHQuSUQgPSBrLnRhcmdldF9JRApMRUZUIEpPSU4gS1BJLmRiby55ZWFyIGFzIHl5CglPTiB5eS5JRCA9IHQueWVhcl9JRApMRUZUIEpPSU4gS1BJLmRiby5yZXNwb25zaWJsZSBhcyByCglPTiByLklEID0gay5yZXNwb25zaWJsZV9JRApXSEVSRSBkLklEID0gMgoKCgpTRUxFQ1QKCSoKRlJPTSBpbmRpY2F0b3JfdmFsdWUKCgpTRUxFQ1QKCSoKRlJPTSAoCglTRUxFQ1QKCSBNT05USChkYXRlKSwKCSBrZXlfSUQsCgkgdmFsdWUKCUZST00gaW5kaWNhdG9yX3ZhbHVlCglXSEVSRSBZRUFSKGRhdGUpID0gMjAxOQoJUElWT1QgKAoKCQkpCikK</text>
+        <text encoding="base64">U0VMRUNUIAoJKgpGUk9NIC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UElWT1QgKAoJCikK</text>
+        <text encoding="base64">CWVwLkVNUF9TVVJOTUUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgICAgIE1PTlRIKGRhdGUpCg==</text>
+        <text encoding="base64">CWVwLkVNUF9FTUFJTCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UElWT1QgKCAKICAgICAgCgkJKQo=</text>
+        <text encoding="base64">CWVwLkVNUF9JTlRMLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
