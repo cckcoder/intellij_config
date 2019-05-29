@@ -193,11 +193,8 @@
       <file name="/apps4sql1.sixs_zone_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558329083733">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1559106329381">
+      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1559122254324">
         <mark key="'" line="408" column="36" />
-        <mark key="[" line="1058" column="6" />
-        <mark key="]" line="1058" column="8" />
-        <mark key="." line="412" column="6" />
         <mark key="^" line="412" column="6" />
       </file>
       <file name="/var/customers/webs/api3/api/main.py" timestamp="1559106136328">
@@ -402,7 +399,7 @@
         <text>sold_item</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUCglwLlBSU19OTyBhcyB3b3JrZXJfSUQsCgllcC5FTVBfRV9OQU1FIGFzIHdvcmtlcl9uYW1lLAogIHAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwIG9uIGVwLkVNUF9LRVkgPSBwLlBSU19FTVAKV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7Cg==</text>
+        <text encoding="base64">CQkJcmVzcC5hcHBlbmRfaGVhZGVyKCJDb250ZW50LURpc3Bvc2l0aW9uIiwiYXR0YWNobWVudDsgZmlsZW5hbWU9e30uY3N2Ii5mb3JtYXQoZmlsZW5hbWUpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">U0VMRUNUCgkqCkZST00gU0VSVkVSUkVQLktQSS5kYm8ud29ya2VyCldIRVJFIGlkID0gJzE3MDQyNjcnCg==</text>
