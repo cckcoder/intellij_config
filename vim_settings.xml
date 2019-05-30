@@ -99,6 +99,9 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
+      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1559189964451">
+        <mark key="'" line="333" column="15" />
+      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/auditor.php" timestamp="1557481965010">
         <mark key="[" line="7" column="120" />
         <mark key="]" line="7" column="121" />
@@ -240,7 +243,7 @@
       <file name="/sixs_question_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673635377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559185286464">
+      <file name="/Dummy.txt" timestamp="1559189994506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="0" />
@@ -312,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1476" column="21" filename="/var/customers/webs/sapi/api/views/stocks.py" />
-      <jump line="130" column="21" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="75" column="60" filename="/var/customers/webs/sapi/api/routes.py" />
       <jump line="106" column="25" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="135" column="30" filename="/var/customers/webs/sapi/api/views/stocks.py" />
@@ -412,13 +413,15 @@
       <jump line="364" column="0" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="363" column="15" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="324" column="12" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="333" column="15" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>sold_item</text>
+        <text>f</text>
       </register>
       <register name="0" type="4">
         <text>detail_buy_new_raw_metal(self.conf, year, month, 'sil')</text>
@@ -455,9 +458,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sold_item</last-search>
+      <last-search>f</last-search>
       <last-offset />
-      <last-pattern>sold_item</last-pattern>
+      <last-pattern>f</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -467,7 +470,6 @@
       <history-search>
         <entry encoding="base64">XDxzdGsxMV90cmFzXzFfeWVhclw+</entry>
         <entry encoding="base64">XDxzdGtfc3R5bGVcPg==</entry>
-        <entry>f</entry>
         <entry encoding="base64">XDx4Zm9ybWF0XD4=</entry>
         <entry>with</entry>
         <entry encoding="base64">XDxzcWhcPg==</entry>
@@ -485,6 +487,7 @@
         <entry>supplier_order_line</entry>
         <entry>aut</entry>
         <entry>sold_item</entry>
+        <entry>f</entry>
       </history-search>
       <history-cmd>
         <entry>893</entry>
