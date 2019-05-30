@@ -84,12 +84,12 @@
       <file name="/apps4sql1.sixs_areas [MySQL - apps4sql1@172.18.0.4]" timestamp="1558427586062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" timestamp="1559130007845">
-        <mark key="'" line="30" column="2" />
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="19" column="5" />
-        <mark key="." line="19" column="5" />
-        <mark key="^" line="19" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" timestamp="1559180312816">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559039091065">
         <mark key="[" line="0" column="0" />
@@ -410,37 +410,35 @@
       <register name="/" type="4">
         <text>sold_item</text>
       </register>
-      <register name="0" type="4">
-        <text>TRY_CONVERT</text>
+      <register name="0" type="2">
+        <text encoding="base64">SU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8ud29ya2VyIChJRCwgbmFtZSwgZGVwdF9JRCkKU0VMRUNUCglwLlBSU19OTyBhcyB3b3JrZXJfSUQsCgllcC5FTVBfRV9OQU1FIGFzIHdvcmtlcl9uYW1lLAoJcC5QUlNfREVQVCBhcyBkZXB0X0lECkZST00gRU1QRklMRSBhcyBlcApMRUZUIEpPSU4gUEVSU09OQUxJTkZPIHAKICBPTiBlcC5FTVBfS0VZID0gcC5QUlNfRU1QCldIRVJFIE5PVCBFWElTVFMoCglTRUxFQ1QKCQlkLklECglGUk9NIFNFUlZFUlJFUC5LUEkuZGJvLndvcmtlciAgYXMgZAogIFdIRVJFIENPTlZFUlQoVkFSQ0hBUiwgcC5QUlNfTk8pID0gQ09OVkVSVChWQVJDSEFSLCBkLklEKSBjb2xsYXRlIFNRTF9MYXRpbjFfR2VuZXJhbF9DUDFfQ0lfQVMKKQoJQU5EIHAuUFJTX0RFUFQgIT0gMTI5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFORCBkLklEICE9IDEyOQo=</text>
+        <text encoding="base64">LS0gV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUCglkLklECkZST00gU0VSVkVSUkVQLktQSS5kYm8ud29ya2VyIGFzIGQK</text>
+        <text encoding="base64">ICAgIEFORCBkLklEICE9IDEyOQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0gV0hFUkUgcC5QUlNfTk8gPSBkLndvcmtlcl9JRAo=</text>
+        <text encoding="base64">U0VMRUNUCglkLklECkZST00gU0VSVkVSUkVQLktQSS5kYm8ud29ya2VyIGFzIGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBGUk9NCg==</text>
+        <text encoding="base64">LS0gV0hFUkUgcC5QUlNfTk8gPSBkLndvcmtlcl9JRAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUFORCAK</text>
+        <text encoding="base64">ICBGUk9NCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUIAogIApGUk9NIEVNUEZJTEUgYXMgZXAK</text>
+        <text encoding="base64">CUFORCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIAogIApGUk9NIEVNUEZJTEUgYXMgZXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0gSU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpCi0tIFNFTEVDVAotLSAJZHQuREVQVF9LRVksCi0tICAgZHQuREVQVF9USEFJREVTQwotLSBGUk9NIERFUFRUQUIgYXMgZHQKLS0gV0hFUkUgZHQuREVQVF9LRVkgIT0gMTI5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>SELECT
-	*
-FROM v_stk11_with_detail</text>
+      <register name="9" type="2">
+        <text encoding="base64">LS0gSU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpCi0tIFNFTEVDVAotLSAJZHQuREVQVF9LRVksCi0tICAgZHQuREVQVF9USEFJREVTQwotLSBGUk9NIERFUFRUQUIgYXMgZHQKLS0gV0hFUkUgZHQuREVQVF9LRVkgIT0gMTI5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
