@@ -45,7 +45,7 @@
       <file name="/SL.dbo.v_stk11_with_detail [sl_production]" timestamp="1557895139065">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KPI.dbo.keys [sl_229]" timestamp="1559199989281">
+      <file name="/KPI.dbo.keys [sl_229]" timestamp="1559201173111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/KPI.dbo.indicator [sl_229]" timestamp="1559039100951">
@@ -173,11 +173,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1559200114868">
+      <file name="/a.sql" timestamp="1559201401477">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="59" column="2" />
-        <mark key="^" line="59" column="1" />
-        <mark key="." line="59" column="1" />
+        <mark key="]" line="72" column="2" />
+        <mark key="^" line="72" column="1" />
+        <mark key="." line="72" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/45d312bc-d541-474d-9765-46c32d7bff3b/console.sql" timestamp="1559106695096">
         <mark key="[" line="3" column="6" />
@@ -233,7 +233,7 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1559200114884">
+      <file name="/dummy.sql" timestamp="1559201173291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -254,11 +254,11 @@
       <file name="/sixs_question_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673635377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559200114891">
+      <file name="/Dummy.txt" timestamp="1559201401487">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="/apps4sql1.sixs_questions [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496833432">
         <mark key="[" line="0" column="0" />
@@ -429,7 +429,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>cccc</text>
       </register>
       <register name="/" type="4">
         <text>apps</text>
