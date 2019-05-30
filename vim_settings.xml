@@ -93,6 +93,9 @@
         <mark key="[" line="98" column="23" />
         <mark key="]" line="98" column="43" />
       </file>
+      <file name="/mnt/sdb1/GMS/application/config/database.php" timestamp="1559192794742">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/var/customers/webs/vue_creash_todolist/.gitignore" timestamp="1555674682442">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -108,6 +111,9 @@
         <mark key="." line="7" column="121" />
         <mark key="^" line="7" column="80" />
       </file>
+      <file name="/departments [sl_229]" timestamp="1559192285021">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/apps4sql1.sixs_question_translations [apps4_mariadb]" timestamp="1558674032251">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,6 +122,11 @@
       </file>
       <file name="/KPI.dbo.type [sl_229]" timestamp="1559039110761">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/sdb1/GMS/application/controllers/departments/all_capacities.php" timestamp="1559192586659">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1559128221337">
         <mark key="'" line="0" column="12" />
@@ -198,6 +209,12 @@
       <file name="/KPI.dbo.responsible [sl_229]" timestamp="1559039106751">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/mnt/sdb1/GMS/application/controllers/general/all_capacities.php" timestamp="1559192825365">
+        <mark key="'" line="118" column="13" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f1c482e0-4ee2-45c9-8cfc-8817da2f2d69/console_1.sql" timestamp="1558425495396">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -222,7 +239,7 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1559185218657">
+      <file name="/dummy.sql" timestamp="1559192299733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -315,11 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="60" filename="/var/customers/webs/sapi/api/routes.py" />
-      <jump line="106" column="25" filename="/var/customers/webs/sapi/api/views/stocks.py" />
-      <jump line="135" column="30" filename="/var/customers/webs/sapi/api/views/stocks.py" />
-      <jump line="163" column="8" filename="/var/customers/webs/sapi/api/views/stocks.py" />
-      <jump line="152" column="30" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="156" column="59" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="159" column="26" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="236" column="41" filename="/var/customers/webs/sapi/api/views/stocks.py" />
@@ -415,52 +427,57 @@
       <jump line="324" column="12" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="333" column="15" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="70" column="36" filename="/mnt/sdb1/GMS/application/config/database.php" />
+      <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/config/database.php" />
+      <jump line="77" column="32" filename="/mnt/sdb1/GMS/application/config/database.php" />
+      <jump line="118" column="13" filename="/mnt/sdb1/GMS/application/controllers/general/all_capacities.php" />
+      <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/models/capacity.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>f</text>
+        <text>apps</text>
       </register>
       <register name="0" type="4">
         <text>sil_sold_item_factory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3BhbXdyaXRlciA9IGNzdi53cml0ZXIobywgZGVsaW1pdGVyPScsJywgcXVvdGVjaGFyPSciJywgcXVvdGluZz1jc3YuUVVPVEVfTUlOSU1BTCkK</text>
+        <text encoding="base64">ICAgICAgZGllKCd0ZXN0KicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwLmFwcGVuZF9oZWFkZXIoIkNvbnRlbnQtRGlzcG9zaXRpb24iLCJhdHRhY2htZW50OyBmaWxlbmFtZT17fS5jc3YiLmZvcm1hdChmaWxlbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgZGllKCd0ZXN0KicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIGwudG5nX2VudGVyZW5jZV9leGl0X2dvbGQgPSAnSScK</text>
+        <text encoding="base64">ICAgICAgZGllKCd0ZXN0KicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgbGVuKHNpbF9ybSkgIT0gMDoK</text>
+        <text encoding="base64">ICAgICAgZGllKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRldGFpbF9idXlfbmV3X3Jhd19tZXRhbChzZWxmLmNvbmYsIHllYXIsIG1vbnRoLCAnc2lsJykpCg==</text>
+        <text encoding="base64">ICAgICAgZGllKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRldGFpbF9idXlfbmV3X3Jhd19tZXRhbChzZWxmLmNvbmYsIHllYXIsIG1vbnRoLCAnc2lsJykpCg==</text>
+        <text encoding="base64">ICAgICAgZGllKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoc2lsX3JtKSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUCglwLlBSU19OTyBhcyB3b3JrZXJfSUQsCgllcC5FTVBfRV9OQU1FIGFzIHdvcmtlcl9uYW1lLAogIHAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwIG9uIGVwLkVNUF9LRVkgPSBwLlBSU19FTVAKV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7CgoKCklOU0VSVCBJTlRPIFNFUlZFUlJFUC5LUEkuZGJvLndvcmtlciAoSUQsIG5hbWUsIGRlcHRfSUQpClNFTEVDVAoJcC5QUlNfTk8gYXMgd29ya2VyX0lELAoJZXAuRU1QX0VfTkFNRSBhcyB3b3JrZXJfbmFtZSwKCXAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwCiAgT04gZXAuRU1QX0tFWSA9IHAuUFJTX0VNUApXSEVSRSBOT1QgRVhJU1RTKAoJU0VMRUNUCgkJZC5JRAoJRlJPTSBTRVJWRVJSRVAuS1BJLmRiby53b3JrZXIgIGFzIGQKICBXSEVSRSBDT05WRVJUKFZBUkNIQVIsIHAuUFJTX05PKSA9IENPTlZFUlQoVkFSQ0hBUiwgZC5JRCkgY29sbGF0ZSBTUUxfTGF0aW4xX0dlbmVyYWxfQ1AxX0NJX0FTCikKCUFORCBwLlBSU19ERVBUICE9IDEyOQoKClNFTEVDVAoJcC5QUlNfTk8gYXMgd29ya2VyX0lELAoJZXAuRU1QX0VfTkFNRSBhcyB3b3JrZXJfbmFtZSwKCXAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKCSAgICAgTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwIG9uIGVwLkVNUF9LRVkgPSBwLlBSU19FTVAKV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7CgoKLS0gSU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpCi0tIFNFTEVDVAotLSAJZHQuREVQVF9LRVksCi0tICAgZHQuREVQVF9USEFJREVTQwotLSBGUk9NIERFUFRUQUIgYXMgZHQKLS0gV0hFUkUgTk9UIEVYSVNUUygKLS0gCVNFTEVDVAotLSAJCWQuSUQKLS0gICBGUk9NIFNFUlZFUlJFUC5LUEkuZGJvLmRlcGFydG1lbnRzIGFzIGQKLS0gICBXSEVSRSBkdC5ERVBUX0tFWSA9IGQuSUQKLS0gKQotLSAJQU5EIGR0LkRFUFRfS0VZICE9IDEyOQoKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0gV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGllKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>f</last-search>
+      <last-search>apps</last-search>
       <last-offset />
-      <last-pattern>f</last-pattern>
+      <last-pattern>apps</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -468,7 +485,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGsxMV90cmFzXzFfeWVhclw+</entry>
         <entry encoding="base64">XDxzdGtfc3R5bGVcPg==</entry>
         <entry encoding="base64">XDx4Zm9ybWF0XD4=</entry>
         <entry>with</entry>
@@ -488,6 +504,7 @@
         <entry>aut</entry>
         <entry>sold_item</entry>
         <entry>f</entry>
+        <entry>apps</entry>
       </history-search>
       <history-cmd>
         <entry>893</entry>
