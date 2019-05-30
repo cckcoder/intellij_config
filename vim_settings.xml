@@ -81,17 +81,17 @@
       <file name="/KPI.dbo.sysdiagrams [sl_229]" timestamp="1559116233410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1559189435988">
+      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1559191043591">
         <mark key="'" line="363" column="15" />
-        <mark key="[" line="365" column="19" />
-        <mark key="]" line="365" column="18" />
-        <mark key="." line="365" column="18" />
-        <mark key="^" line="365" column="18" />
+        <mark key="[" line="1067" column="6" />
+        <mark key="]" line="1067" column="7" />
+        <mark key="." line="1067" column="7" />
+        <mark key="^" line="1067" column="7" />
       </file>
-      <file name="/var/customers/webs/api3/api/main.py" timestamp="1559188784837">
+      <file name="/var/customers/webs/api3/api/main.py" timestamp="1559191094803">
         <mark key="'" line="82" column="88" />
-        <mark key="[" line="85" column="23" />
-        <mark key="]" line="85" column="43" />
+        <mark key="[" line="98" column="23" />
+        <mark key="]" line="98" column="43" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/.gitignore" timestamp="1555674682442">
         <mark key="[" line="119" column="0" />
@@ -243,7 +243,7 @@
       <file name="/sixs_question_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673635377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559189994506">
+      <file name="/Dummy.txt" timestamp="1559191141880">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="0" />
@@ -412,46 +412,46 @@
       <jump line="82" column="88" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="364" column="0" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
       <jump line="363" column="15" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
-      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="324" column="12" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="333" column="15" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>100</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>f</text>
       </register>
       <register name="0" type="4">
-        <text>detail_buy_new_raw_metal(self.conf, year, month, 'sil')</text>
+        <text>sil_sold_item_factory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIGwudG5nX2VudGVyZW5jZV9leGl0X2dvbGQgPSAnSScK</text>
+        <text encoding="base64">ICAgICAgc3BhbXdyaXRlciA9IGNzdi53cml0ZXIobywgZGVsaW1pdGVyPScsJywgcXVvdGVjaGFyPSciJywgcXVvdGluZz1jc3YuUVVPVEVfTUlOSU1BTCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgbGVuKHNpbF9ybSkgIT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICByZXNwLmFwcGVuZF9oZWFkZXIoIkNvbnRlbnQtRGlzcG9zaXRpb24iLCJhdHRhY2htZW50OyBmaWxlbmFtZT17fS5jc3YiLmZvcm1hdChmaWxlbmFtZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRldGFpbF9idXlfbmV3X3Jhd19tZXRhbChzZWxmLmNvbmYsIHllYXIsIG1vbnRoLCAnc2lsJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIGwudG5nX2VudGVyZW5jZV9leGl0X2dvbGQgPSAnSScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRldGFpbF9idXlfbmV3X3Jhd19tZXRhbChzZWxmLmNvbmYsIHllYXIsIG1vbnRoLCAnc2lsJykpCg==</text>
+        <text encoding="base64">ICAgICAgaWYgbGVuKHNpbF9ybSkgIT0gMDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoc2lsX3JtKSAK</text>
+        <text encoding="base64">ICAgIHByaW50KGRldGFpbF9idXlfbmV3X3Jhd19tZXRhbChzZWxmLmNvbmYsIHllYXIsIG1vbnRoLCAnc2lsJykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VMRUNUCglwLlBSU19OTyBhcyB3b3JrZXJfSUQsCgllcC5FTVBfRV9OQU1FIGFzIHdvcmtlcl9uYW1lLAogIHAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwIG9uIGVwLkVNUF9LRVkgPSBwLlBSU19FTVAKV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7CgoKCklOU0VSVCBJTlRPIFNFUlZFUlJFUC5LUEkuZGJvLndvcmtlciAoSUQsIG5hbWUsIGRlcHRfSUQpClNFTEVDVAoJcC5QUlNfTk8gYXMgd29ya2VyX0lELAoJZXAuRU1QX0VfTkFNRSBhcyB3b3JrZXJfbmFtZSwKCXAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwCiAgT04gZXAuRU1QX0tFWSA9IHAuUFJTX0VNUApXSEVSRSBOT1QgRVhJU1RTKAoJU0VMRUNUCgkJZC5JRAoJRlJPTSBTRVJWRVJSRVAuS1BJLmRiby53b3JrZXIgIGFzIGQKICBXSEVSRSBDT05WRVJUKFZBUkNIQVIsIHAuUFJTX05PKSA9IENPTlZFUlQoVkFSQ0hBUiwgZC5JRCkgY29sbGF0ZSBTUUxfTGF0aW4xX0dlbmVyYWxfQ1AxX0NJX0FTCikKCUFORCBwLlBSU19ERVBUICE9IDEyOQoKClNFTEVDVAoJcC5QUlNfTk8gYXMgd29ya2VyX0lELAoJZXAuRU1QX0VfTkFNRSBhcyB3b3JrZXJfbmFtZSwKCXAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKCSAgICAgTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwIG9uIGVwLkVNUF9LRVkgPSBwLlBSU19FTVAKV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7CgoKLS0gSU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpCi0tIFNFTEVDVAotLSAJZHQuREVQVF9LRVksCi0tICAgZHQuREVQVF9USEFJREVTQwotLSBGUk9NIERFUFRUQUIgYXMgZHQKLS0gV0hFUkUgTk9UIEVYSVNUUygKLS0gCVNFTEVDVAotLSAJCWQuSUQKLS0gICBGUk9NIFNFUlZFUlJFUC5LUEkuZGJvLmRlcGFydG1lbnRzIGFzIGQKLS0gICBXSEVSRSBkdC5ERVBUX0tFWSA9IGQuSUQKLS0gKQotLSAJQU5EIGR0LkRFUFRfS0VZICE9IDEyOQoKCgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRldGFpbF9idXlfbmV3X3Jhd19tZXRhbChzZWxmLmNvbmYsIHllYXIsIG1vbnRoLCAnc2lsJykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQoc2lsX3JtKSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFORCBkLklEICE9IDEyOQo=</text>
+        <text encoding="base64">U0VMRUNUCglwLlBSU19OTyBhcyB3b3JrZXJfSUQsCgllcC5FTVBfRV9OQU1FIGFzIHdvcmtlcl9uYW1lLAogIHAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwIG9uIGVwLkVNUF9LRVkgPSBwLlBSU19FTVAKV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7CgoKCklOU0VSVCBJTlRPIFNFUlZFUlJFUC5LUEkuZGJvLndvcmtlciAoSUQsIG5hbWUsIGRlcHRfSUQpClNFTEVDVAoJcC5QUlNfTk8gYXMgd29ya2VyX0lELAoJZXAuRU1QX0VfTkFNRSBhcyB3b3JrZXJfbmFtZSwKCXAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwCiAgT04gZXAuRU1QX0tFWSA9IHAuUFJTX0VNUApXSEVSRSBOT1QgRVhJU1RTKAoJU0VMRUNUCgkJZC5JRAoJRlJPTSBTRVJWRVJSRVAuS1BJLmRiby53b3JrZXIgIGFzIGQKICBXSEVSRSBDT05WRVJUKFZBUkNIQVIsIHAuUFJTX05PKSA9IENPTlZFUlQoVkFSQ0hBUiwgZC5JRCkgY29sbGF0ZSBTUUxfTGF0aW4xX0dlbmVyYWxfQ1AxX0NJX0FTCikKCUFORCBwLlBSU19ERVBUICE9IDEyOQoKClNFTEVDVAoJcC5QUlNfTk8gYXMgd29ya2VyX0lELAoJZXAuRU1QX0VfTkFNRSBhcyB3b3JrZXJfbmFtZSwKCXAuUFJTX0RFUFQgYXMgZGVwdF9JRApGUk9NIEVNUEZJTEUgYXMgZXAKCSAgICAgTEVGVCBKT0lOIFBFUlNPTkFMSU5GTyBwIG9uIGVwLkVNUF9LRVkgPSBwLlBSU19FTVAKV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7CgoKLS0gSU5TRVJUIElOVE8gU0VSVkVSUkVQLktQSS5kYm8uZGVwYXJ0bWVudHMgKElELCBkZXNjcmlwdGlvbnMpCi0tIFNFTEVDVAotLSAJZHQuREVQVF9LRVksCi0tICAgZHQuREVQVF9USEFJREVTQwotLSBGUk9NIERFUFRUQUIgYXMgZHQKLS0gV0hFUkUgTk9UIEVYSVNUUygKLS0gCVNFTEVDVAotLSAJCWQuSUQKLS0gICBGUk9NIFNFUlZFUlJFUC5LUEkuZGJvLmRlcGFydG1lbnRzIGFzIGQKLS0gICBXSEVSRSBkdC5ERVBUX0tFWSA9IGQuSUQKLS0gKQotLSAJQU5EIGR0LkRFUFRfS0VZICE9IDEyOQoKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUCglkLklECkZST00gU0VSVkVSUkVQLktQSS5kYm8ud29ya2VyIGFzIGQK</text>
+        <text encoding="base64">LS0gV0hFUkUgcC5QUlNfREVQVCAhPSAxMjk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
