@@ -60,11 +60,11 @@
       <file name="/apps4sql1.sixs_question_header_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558495885166">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1559128177633">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1559206552270">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
       </file>
       <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496844170">
         <mark key="[" line="0" column="0" />
