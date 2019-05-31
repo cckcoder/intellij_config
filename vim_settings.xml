@@ -27,7 +27,7 @@
       <file name="/sixs_question_line_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558492818179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KPI.dbo.target_group [sl_229]" timestamp="1559208705833">
+      <file name="/KPI.dbo.target_group [sl_229]" timestamp="1559270268840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/spread_operators.js" timestamp="1557285048061">
@@ -36,7 +36,7 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="/KPI.dbo.target [sl_229]" timestamp="1559269256124">
+      <file name="/KPI.dbo.target [sl_229]" timestamp="1559270256666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1558760024201">
@@ -45,7 +45,7 @@
       <file name="/SL.dbo.v_stk11_with_detail [sl_production]" timestamp="1557895139065">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KPI.dbo.keys [sl_229]" timestamp="1559212001063">
+      <file name="/KPI.dbo.keys [sl_229]" timestamp="1559270203816">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/KPI.dbo.indicator [sl_229]" timestamp="1559039100951">
@@ -60,11 +60,11 @@
       <file name="/apps4sql1.sixs_question_header_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558495885166">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1559213605753">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="7" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" timestamp="1559270449040">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="/apps4sql1.sixs_area_question [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496844170">
         <mark key="[" line="0" column="0" />
@@ -123,7 +123,7 @@
       <file name="/apps4sql1.sixs_question_translations [apps4_mariadb]" timestamp="1558674032251">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KPI.dbo.indicator_value [sl_229]" timestamp="1559212596270">
+      <file name="/KPI.dbo.indicator_value [sl_229]" timestamp="1559270298684">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/KPI.dbo.type [sl_229]" timestamp="1559208941581">
@@ -167,10 +167,10 @@
       <file name="/apps4sql1.sixs_question_line_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496594453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559269309982">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559270361461">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1559212632792">
+      <file name="/a.sql" timestamp="1559269416095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="105" column="2" />
         <mark key="^" line="105" column="1" />
@@ -230,7 +230,7 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="/dummy.sql" timestamp="1559269256328">
+      <file name="/dummy.sql" timestamp="1559270372376">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
