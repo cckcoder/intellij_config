@@ -51,8 +51,11 @@
       <file name="/KPI.dbo.indicator [sl_229]" timestamp="1559039100951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/slbj/routes/web.php" timestamp="1559285730504">
-        <mark key="'" line="45" column="13" />
+      <file name="/var/customers/webs/slbj/routes/web.php" timestamp="1559301262165">
+        <mark key="'" line="68" column="15" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/tutorial/js_data_structure/.idea/set.js" timestamp="1556932234190">
         <mark key="[" line="0" column="0" />
@@ -127,11 +130,6 @@
       </file>
       <file name="/KPI.dbo.type [sl_229]" timestamp="1559208941581">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/departments/all_capacities.php" timestamp="1559192586659">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="/var/customers/webs/react_web_dev/package.json" timestamp="1557384311417">
         <mark key="[" line="7" column="26" />
@@ -229,6 +227,14 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
+      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" timestamp="1559300203987">
+        <mark key="[" line="699" column="0" />
+        <mark key="]" line="699" column="0" />
+        <mark key="." line="699" column="0" />
+      </file>
+      <file name="/var/customers/webs/slbj/public/.htaccess" timestamp="1559300336575">
+        <mark key="'" line="106" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1559270372376">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -305,6 +311,11 @@
       <file name="/apps4sql1.sixs_area_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673756023">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" timestamp="1559300526559">
+        <mark key="[" line="1622" column="0" />
+        <mark key="]" line="1622" column="0" />
+        <mark key="." line="1622" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" timestamp="1558940335808">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="24" />
@@ -322,11 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="33" filename="/var/customers/webs/sapi/api/views/stocks.py" />
-      <jump line="191" column="31" filename="/var/customers/webs/sapi/api/views/stocks.py" />
-      <jump line="167" column="66" filename="/var/customers/webs/sapi/api/views/stocks.py" />
-      <jump line="111" column="4" filename="/var/customers/webs/sapi/api/views/stocks.py" />
-      <jump line="64" column="4" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="2199" column="7" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="2200" column="0" filename="/var/customers/webs/sapi/api/views/stocks.py" />
       <jump line="2224" column="8" filename="/var/customers/webs/sapi/api/views/stocks.py" />
@@ -420,54 +426,59 @@
       <jump line="5" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
       <jump line="10" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
       <jump line="338" column="0" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="67" column="18" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="43" column="7" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="47" column="92" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="0" column="0" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" />
       <jump line="45" column="13" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="72" column="13" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="67" column="15" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="106" column="0" filename="/var/customers/webs/slbj/public/.htaccess" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>body-jew</text>
+        <text>getList</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWt0Lm5hbWUsCg==</text>
+      <register name="0" type="4">
+        <text>/body-jewelry/{productCode}/en</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWt0LmdvYWxzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0gCQlrLklEIGFzIGtleV9pZCwKLS0gCQlrLmRlc2NyaXB0aW9ucyBhcyBnb2FscywKLS0gCQl0LmRlc2NyaXB0aW9ucyBhcyB0YXJnZXQsCi0tIAkJci5uYW1lLAotLSAJCWl2LnZhbHVlLAotLSAJCXQyLnR5cGUsCi0tIAkJaXYuZGF0ZQo=</text>
+        <text encoding="base64">Um91dGU6OmdldCgnL2RldjIve2NhdD99JywgZnVuY3Rpb24oJGNhdCl7CiAgICBpZiAoJGNhdCA9PSAnQkMnKQogICAgewogICAgICAgIHJldHVybiBSZWRpcmVjdDo6dG8oJy9ib2R5LWpld2VscnkvY2FwdGl2ZS1iZWFkLXJpbmdzJyk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICAgICAgZWNobyAkY2F0OwogICAgfQp9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">TEVGVCBKT0lOIGluZGljYXRvcl9sYXN0X3kgQVMgaWx5CglPTiBpbHkua2V5X0lEID0ga3Qua2V5X2lkCg==</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvYm9keS1qZXdlbHJ5L3twcm9kdWN0Q29kZX0vZW4nLCdTTFxQcm9kdWN0XFByb2R1Y3RDb250cm9sbGVyQHNob3cnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUCgkqCkZST00gaW5kaWNhdG9yX3ZhbHVlIGFzIGl2CkxFRlQgSk9JTiB0YXJnZXQgdCAKICBvbiBpCldIRVJFIFlFQVIoZGF0ZSkgPSAyMDE4Cg==</text>
+        <text encoding="base64">ICAgIGlmICgkY2F0ID09ICd0ZXN0Jyk6CiAgICBlbHNlOgogICAgZW5kaWY7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWl2LmtleV9JRAo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRjYXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXQuZGVzY3JpcHRpb25zCg==</text>
+        <text encoding="base64">ICAgIGVsc2VpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXQuZGVzY3JpcHRpb25zCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBSZWRpcmVjdDo6dG8oJy8nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVNFTEVDVAoJCWl2LmtleV9JRCwKCSAgdC5kZXNjcmlwdGlvbnMKCUZST00gaW5kaWNhdG9yX3ZhbHVlIGFzIGl2CglMRUZUIEpPSU4gdGFyZ2V0IHQgb24gaW5kaWNhdG9yX3ZhbHVlLnRhcmdldF9JRCA9IHQuSUQKCVdIRVJFIFlFQVIoZGF0ZSkgPSAyMDE4Cg==</text>
+        <text encoding="base64">ICAgIGlmICRjYXQgPT0gJ2hlbG8nYmIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUCglrLklELAoJay5kZXNjcmlwdGlvbnMgYXMgZ29hbHMsCgl0LmRlc2NyaXB0aW9ucyBhcyB0YXJnZXQsCiAgci5uYW1lLAoJaXYudmFsdWUsCiAgdDIudHlwZSwKCWl2LmRhdGUKRlJPTSBpbmRpY2F0b3JfdmFsdWUgYXMgaXYKTEVGVCBKT0lOIGtleXMgYXMgayBvbiBpdi5rZXlfSUQgPSBrLklECkxFRlQgSk9JTiB0YXJnZXQgdCBvbiBrLnRhcmdldF9JRCA9IHQuSUQKTEVGVCBKT0lOIHJlc3BvbnNpYmxlIGFzIHIgb24gay5yZXNwb25zaWJsZV9JRCA9IHIuSUQKTEVGVCBKT0lOIHR5cGUgYXMgdDIgb24gay50eXBlX0lEID0gdDIuSUQKV0hFUkUgWUVBUihpdi5kYXRlKSA9IDIwMTkK</text>
+        <text encoding="base64">ICAgIGVjaG8gJGNhdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>body-jew</last-search>
+      <last-search>getList</last-search>
       <last-offset />
-      <last-pattern>body-jew</last-pattern>
+      <last-pattern>getList</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -475,8 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcWhcPg==</entry>
-        <entry encoding="base64">XDxzaXhzX3F1ZXN0aW9uX2hlYWRlcl90cmFuc2xhdGlvbnNcPg==</entry>
         <entry>cer</entry>
         <entry>update</entry>
         <entry>upload</entry>
@@ -495,6 +504,8 @@
         <entry>jewelry</entry>
         <entry encoding="base64">XDxqZXdlbHJ5XD4=</entry>
         <entry>body-jew</entry>
+        <entry>jew</entry>
+        <entry>getList</entry>
       </history-search>
       <history-cmd>
         <entry>893</entry>
