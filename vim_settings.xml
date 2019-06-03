@@ -109,12 +109,12 @@
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1559550576635">
-        <mark key="'" line="709" column="14" />
-        <mark key="[" line="710" column="10" />
-        <mark key="]" line="710" column="16" />
-        <mark key="." line="710" column="16" />
-        <mark key="^" line="710" column="16" />
+      <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1559553935384">
+        <mark key="'" line="714" column="24" />
+        <mark key="[" line="767" column="8" />
+        <mark key="]" line="767" column="7" />
+        <mark key="." line="778" column="32" />
+        <mark key="^" line="767" column="7" />
       </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/auditor.php" timestamp="1557481965010">
         <mark key="[" line="7" column="120" />
@@ -258,12 +258,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1559550607308">
-        <mark key="'" line="1663" column="13" />
-        <mark key="[" line="1016" column="24" />
-        <mark key="]" line="1017" column="28" />
-        <mark key="." line="1017" column="28" />
-        <mark key="^" line="1017" column="28" />
+      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1559553323992">
+        <mark key="'" line="1084" column="0" />
+        <mark key="[" line="998" column="0" />
+        <mark key="]" line="998" column="24" />
+        <mark key="^" line="995" column="10" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
         <mark key="[" line="2" column="11" />
@@ -351,11 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="40" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" />
-      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" />
-      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" />
-      <jump line="19" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" />
-      <jump line="0" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ba2f452a-a573-45c5-92c3-c90a4a89fc15/console.sql" />
       <jump line="33" column="2" filename="/64ef339b/ba2f452a-a573-45c5-92c3-c90a4a89fc15/database/SL/schema/dbo/routine/zz_min_styles_no_stock_orders.sql" />
       <jump line="43" column="2" filename="/64ef339b/ba2f452a-a573-45c5-92c3-c90a4a89fc15/database/SL/schema/dbo/routine/zz_min_styles_no_stock_orders.sql" />
       <jump line="22" column="2" filename="/64ef339b/ba2f452a-a573-45c5-92c3-c90a4a89fc15/database/SL/schema/dbo/routine/zz_min_styles_no_stock_orders.sql" />
@@ -450,44 +444,49 @@
       <jump line="693" column="25" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="677" column="11" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="709" column="14" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="1262" column="4" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="713" column="26" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="714" column="24" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="481" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
+      <jump line="1084" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2019</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXJnZXRfbG9zc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>target_loss</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzcGFtd3JpdGVyLndyaXRlcm93KHJvdykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB5ejNfc3RvY2sKd2hlcmUgeXozX3N0eWxlID0gJzI0LVRHJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcGlbJ2xvc3NfZGV0YWlsJ11baV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2aXA7Cg==</text>
+        <text encoding="base64">CSAgICAgIHByaW50KGkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB5ejNfc3RvY2sKd2hlcmUgeXozX3N0eWxlID0gJzI0LVRHJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSksIGxhdGVzdF9kIGFzICgKCVNFTEVDVAoJREFZKCkKCUZST00gcGdSYXdTdGsK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUFORCBhcC5hdjE3X2xvY2F0aW9uID0gMQo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB2aXA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhlYyBzbC5kYm8uYXBpX3Bvc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUCgkqCkZST00gc2wuZGJvLnl6M19zdG9jayBhcyB5CldIRVJFIHkueXozX2xvY2F0aW9uID0gMQo=</text>
+        <text encoding="base64">CSksIGxhdGVzdF9kIGFzICgKCVNFTEVDVAoJREFZKCkKCUZST00gcGdSYXdTdGsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUFORCBhcC5hdjE3X2xvY2F0aW9uID0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
