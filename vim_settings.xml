@@ -174,7 +174,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1559270623143">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1559269416095">
+      <file name="/a.sql" timestamp="1559537310904">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="105" column="2" />
         <mark key="^" line="105" column="1" />
@@ -239,11 +239,12 @@
         <mark key="]" line="699" column="0" />
         <mark key="." line="699" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1559301449522">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1559537354947">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="59" column="5" />
+        <mark key="]" line="59" column="12" />
+        <mark key="." line="59" column="12" />
+        <mark key="^" line="59" column="12" />
       </file>
       <file name="/var/customers/webs/slbj/public/.htaccess" timestamp="1559300336575">
         <mark key="'" line="106" column="0" />
@@ -269,7 +270,7 @@
       <file name="/sixs_question_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673635377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559212587461">
+      <file name="/Dummy.txt" timestamp="1559537310919">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -449,7 +450,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>latest_d;</text>
       </register>
       <register name="/" type="4">
         <text>getList</text>
@@ -458,31 +459,31 @@
         <text>/body-jewelry/{productCode}/en</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUFORCBhcC5hdjE3X2xvY2F0aW9uID0gMQo=</text>
+        <text encoding="base64">CSksIGxhdGVzdF9kIGFzICgKCVNFTEVDVAoJREFZKCkKCUZST00gcGdSYXdTdGsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhlYyBzbC5kYm8uYXBpX3Bvc3QK</text>
+        <text encoding="base64">CUFORCBhcC5hdjE3X2xvY2F0aW9uID0gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U0VMRUNUCgkqCkZST00gc2wuZGJvLnl6M19zdG9jayBhcyB5CldIRVJFIHkueXozX2xvY2F0aW9uID0gMQo=</text>
+        <text encoding="base64">ZXhlYyBzbC5kYm8uYXBpX3Bvc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUCgkqCkZST00gc2wuZGJvLnl6M19zdG9jayBhcyB5CldIRVJFIHkueXozX2xvY2F0aW9uID0gMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnL2RldjIve2NhdD99JywgZnVuY3Rpb24oJGNhdCl7CiAgICBpZiAoJGNhdCA9PSAnQkMnKQogICAgewogICAgICAgIHJldHVybiBSZWRpcmVjdDo6dG8oJy9ib2R5LWpld2VscnkvY2FwdGl2ZS1iZWFkLXJpbmdzJyk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICAgICAgZWNobyAkY2F0OwogICAgfQp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvYm9keS1qZXdlbHJ5L3twcm9kdWN0Q29kZX0vZW4nLCdTTFxQcm9kdWN0XFByb2R1Y3RDb250cm9sbGVyQHNob3cnKTsK</text>
+        <text encoding="base64">Um91dGU6OmdldCgnL2RldjIve2NhdD99JywgZnVuY3Rpb24oJGNhdCl7CiAgICBpZiAoJGNhdCA9PSAnQkMnKQogICAgewogICAgICAgIHJldHVybiBSZWRpcmVjdDo6dG8oJy9ib2R5LWpld2VscnkvY2FwdGl2ZS1iZWFkLXJpbmdzJyk7CiAgICB9CiAgICBlbHNlCiAgICB7CiAgICAgICAgZWNobyAkY2F0OwogICAgfQp9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICgkY2F0ID09ICd0ZXN0Jyk6CiAgICBlbHNlOgogICAgZW5kaWY7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6Z2V0KCcvYm9keS1qZXdlbHJ5L3twcm9kdWN0Q29kZX0vZW4nLCdTTFxQcm9kdWN0XFByb2R1Y3RDb250cm9sbGVyQHNob3cnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRjYXQ7Cg==</text>
+        <text encoding="base64">ICAgIGlmICgkY2F0ID09ICd0ZXN0Jyk6CiAgICBlbHNlOgogICAgZW5kaWY7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2VpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRjYXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
