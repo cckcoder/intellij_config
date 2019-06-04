@@ -100,25 +100,26 @@
       <file name="/KPI.dbo.sysdiagrams [sl_229]" timestamp="1559199155630">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1559191043591">
-        <mark key="'" line="363" column="15" />
-        <mark key="[" line="1067" column="6" />
-        <mark key="]" line="1067" column="7" />
-        <mark key="." line="1067" column="7" />
-        <mark key="^" line="1067" column="7" />
+      <file name="/var/customers/webs/api3/api/views/silver_monthly_report.py" timestamp="1559618518157">
+        <mark key="'" line="1249" column="25" />
+        <mark key="[" line="1174" column="0" />
+        <mark key="]" line="1226" column="35" />
+        <mark key="." line="649" column="12" />
+        <mark key="^" line="649" column="12" />
       </file>
-      <file name="/var/customers/webs/api3/api/main.py" timestamp="1559557959207">
-        <mark key="'" line="86" column="67" />
+      <file name="/var/customers/webs/api3/api/main.py" timestamp="1559618350779">
+        <mark key="'" line="107" column="86" />
+        <mark key="[" line="100" column="23" />
+        <mark key="]" line="100" column="42" />
       </file>
       <file name="/mnt/sdb1/GMS/application/config/database.php" timestamp="1559192794742">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" timestamp="1559558817245">
-        <mark key="'" line="35" column="28" />
-        <mark key="[" line="37" column="56" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="22" />
-        <mark key="^" line="38" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" timestamp="1559618814098">
+        <mark key="'" line="22" column="56" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" timestamp="1559554133471">
         <mark key="'" line="80" column="56" />
@@ -278,11 +279,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1559558114481">
+      <file name="/var/customers/webs/api3/api/views/general_helper.py" timestamp="1559617669258">
         <mark key="'" line="619" column="4" />
-        <mark key="[" line="619" column="0" />
-        <mark key="]" line="646" column="27" />
-        <mark key="^" line="995" column="10" />
+        <mark key="[" line="702" column="19" />
+        <mark key="]" line="703" column="21" />
+        <mark key="^" line="703" column="21" />
+        <mark key="." line="729" column="30" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/src/components/TodoItem.vue" timestamp="1555674258351">
         <mark key="[" line="2" column="11" />
@@ -293,10 +295,10 @@
       <file name="/sixs_question_translations [MySQL - apps4sql1@172.18.0.4]" timestamp="1558673635377">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559555032361">
+      <file name="/Dummy.txt" timestamp="1559618110824">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="3" />
       </file>
       <file name="/apps4sql1.sixs_questions [MySQL - apps4sql1@172.18.0.4]" timestamp="1558496833432">
@@ -370,20 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="13" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="345" column="35" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="0" column="10" filename="/var/customers/webs/slbj/resources/views/auth/register.blade.php" />
-      <jump line="24" column="196" filename="/var/customers/webs/slbj/resources/views/auth/register.blade.php" />
-      <jump line="203" column="13" filename="/var/customers/webs/slbj/public/css/local/custom.css" />
-      <jump line="3334" column="11" filename="/var/customers/webs/slbj/public/css/local/custom.css" />
-      <jump line="98" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
-      <jump line="7" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
-      <jump line="16" column="0" filename="f2acc492-2b3e-4bca-999d-dadf1a798e39/database/KPI/schema/dbo/table/target.sql" />
-      <jump line="0" column="0" filename="f2acc492-2b3e-4bca-999d-dadf1a798e39/database/KPI/schema/dbo/table/target.sql" />
-      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
-      <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-30197633/builtins.py" />
       <jump line="85" column="69" filename="/var/customers/webs/api3/api/main.py" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1f212661-592d-4b45-90c7-91a15bef9f06/console.sql" />
       <jump line="0" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" />
@@ -431,7 +419,6 @@
       <jump line="709" column="14" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="1262" column="4" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="713" column="26" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
-      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="714" column="24" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="481" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="1084" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
@@ -470,19 +457,34 @@
       <jump line="619" column="4" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="28" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
       <jump line="35" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="678" column="13" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="125" column="61" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="107" column="86" filename="/var/customers/webs/api3/api/main.py" />
+      <jump line="0" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
+      <jump line="1249" column="25" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
+      <jump line="19" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="80" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="42" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="59" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="61" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="62" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="73" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="74" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="75" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
+      <jump line="64" column="56" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>;</text>
+        <text>fulltextcatalogproperty()</text>
       </register>
       <register name="/" type="4">
-        <text>sil_sold</text>
+        <text encoding="base64">XDxhX3N1Ylw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V0hFUkUgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgci5lbnRlcl9kYXRlLCAxMDQpKSA9IDIwMTkKCWFuZCBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgci5lbnRlcl9kYXRlLCAxMDQpKSA9IDUKCWFuZCBEQVkoVFJZX0NPTlZFUlQoREFURVRJTUUsIHIuZW50ZXJfZGF0ZSwgMTA0KSkgPSAzMQo=</text>
+        <text encoding="base64">LS0gCSAgICAgV0hFUkUgREFZKFRSWV9DT05WRVJUKERBVEVUSU1FLCBhX3N1Yi5lbnRlcl9kYXRlLCAxMDMpKSA9IChTRUxFQ1QgbHQuREFZIEZST00gbGF0ZXN0X3RyYW4gQVMgbHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0lUSCBzaG9wX2ludiBBUyAoCglTRUxFQ1QKCQloLmhzMV9kYXRlCgkJCSAsaC5oczFfaW52b2ljZQoJCQkgLGguaHMxX2N1c3RvbWVyX25vCgkJCSAsbC5oczJfbGluZQoJCQkgLGwuaHMyX3N0eWxlCgkJCSAsYS5hdjBfa2FyYXQKCQkJICxhLmF2MF9tZXRhbAoJCQkgLChsLmhzMl9xdHkgKiBhLmF2MF93ZWlnaHQpIEFTIGdyb3NzX3d0CgkJCSAsQ0FTRQoJCQkJICBXSEVOIGEuYXYwX21ldGFsIExJS0UgJzklJyAgVEhFTiAobC5oczJfcXR5ICogYS5hdjBfd2VpZ2h0KSAqIDAuMzg1CgkJCQkgIFdIRU4gYS5hdjBfbWV0YWwgTElLRSAnMTQlJyBUSEVOIChsLmhzMl9xdHkgKiBhLmF2MF93ZWlnaHQpICogMC41OQoJCQkJICBXSEVOIGEuYXYwX21ldGFsIExJS0UgJzE4JScgVEhFTiAobC5oczJfcXR5ICogYS5hdjBfd2VpZ2h0KSAqIDAuNzYKCQkJCSAgRUxTRSAobC5oczJfcXR5ICogYS5hdjBfd2VpZ2h0KSAqIDEuMAoJCUVORCBBUyB3dF9jb252ZXJ0CglGUk9NIHNsLmRiby5oczJfaW52b2ljZV9sbl9pbmRpdmlkdWFsIEFTIGwKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uaHMxX2ludm9pY2VfaGRyX2luZGl2aWR1YWwgQVMgaAoJCSAgICAgICAgICAgICAgIE9OIGguaHMxX2ludm9pY2UgPSBsLmhzMl9pbnZvaWNlCgkJICAgICBMRUZUIEpPSU4gc2wuZGJvLmF2MF9zdHlsZSBBUyBhCgkJICAgICAgICAgICAgICAgT04gYS5hdjBfc3R5bGUgPSBsLmhzMl9zdHlsZQoJV0hFUkUgYS5hdjBfbWV0YWwgTElLRSAnOSUnCgkJIE9SIGEuYXYwX21ldGFsIExJS0UgJzE0JScKCQkgT1IgYS5hdjBfbWV0YWwgTElLRSAnMTglJwoJCSBPUiBhLmF2MF9tZXRhbCBMSUtFICcyNCcKKQpTRUxFQ1QKCU1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCAgc2guaHMxX2RhdGUsIDEwNCkpIEFTIF9tb250aAoJCSAsc2guaHMxX2ludm9pY2UKCQkgLHNoLmhzMV9jdXN0b21lcl9ubwoJCSAsc2guaHMyX2xpbmUKCQkgLHNoLmhzMl9zdHlsZQoJCSAsc2guYXYwX2thcmF0CgkJICxzaC5hdjBfbWV0YWwKCQkgLHNoLmdyb3NzX3d0CgkJICxzaC53dF9jb252ZXJ0CkZST00gc2hvcF9pbnYgYXMgc2gKV0hFUkUgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgIHNoLmhzMV9kYXRlLCAxMDQpKSA9IDIwMTkKCUFORCBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgIHNoLmhzMV9kYXRlLCAxMDQpKSA9IDUKT1JERVIgQlkgc2guaHMxX2RhdGUgQVNDCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -491,37 +493,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">V0lUSCBzaWxfc29sZF9pdGVtIEFTICgKCVNFTEVDVAoJCUNPTlZFUlQoVkFSQ0hBUigxMCksIENBU1QoaC5oczFfZGF0ZSBBUyBEQVRFKSwgMTAzKSBhcyBpbnZfZGF0ZQoJCQkgLENPTlZFUlQoVkFSQ0hBUigxMCksIENBU1QoaC5oczFfc2hpcF9kYXRlIEFTIERBVEUpLCAxMDMpIGFzIHNoaXBfZGF0ZV9jb252CgkJCSAsaC5oczFfc2hpcF9kYXRlCgkJCSAsaC5GMV9oczFfc3RhdHVzCgkJCSAsaC5oczFfaW52b2ljZQoJCQkgLGguaHMxX2N1c3RvbWVyCgkJCSAsbC5oczJfbGluZQoJCQkgLGwuaHMyX3N0eWxlCgkJCSAsbC5oczJfcXR5X2l0ZW0KCQkJICxhLmF2MF93ZWlnaHQgYXMgYm9tX3dlaWdodAoJCQkgLGEuYXYwX2thcmF0CgkJCSAsYS5hdjBfbWV0YWwKCQkJICxJSUYobC5oczJfd3RfaW52b2ljZSA9IDAsIGwuaHMyX3F0eV9pdGVtICogYS5hdjBfd2VpZ2h0LCBsLmhzMl93dF9pbnZvaWNlKSBBUyB3dF9pbnZvaWNlCglGUk9NIHNsLmRiby5oczFfaW52b2ljZV9oZHIgQVMgaAoJCSAgICAgTEVGVCBKT0lOIHNsLmRiby5oczJfaW52b2ljZV9sbiBBUyBsCgkJICAgICAgICAgICAgICAgT04gbC5oczJfaW52b2ljZV9ubyA9IGguaHMxX2ludm9pY2UKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uYXYwX3N0eWxlIEFTIGEKCQkgICAgICAgICAgICAgICBPTiBhLmF2MF9zdHlsZSA9IGwuaHMyX3N0eWxlCglXSEVSRSBoLkYxX2hzMV9zdGF0dXMgIT0gMAoJCUFORCBhLmF2MF9rYXJhdCBJTiAoJzkyJywgJzEwMCcpCgkJQU5EIFlFQVIoVFJZX0NPTlZFUlQoREFURVRJTUUsIGguaHMxX2RhdGUsIDEwNCkpID0gMjAxOQoJCUFORCBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgaC5oczFfZGF0ZSwgMTA0KSkgPSA1CgkJQU5EIGguRjFfaHMxX3N0YXR1cyBCRVRXRUVOIDEgQU5EIDkKCQlBTkQgbC5oczJfcXR5X2l0ZW0gPiAwCiksIHNpbF9zb2xkX2l0ZW1fdGVuZW4gQVMgKAoJU0VMRUNUCgkJc3MuKgoJRlJPTSBzaWxfc29sZF9pdGVtIGFzIHNzCglXSEVSRSBzcy5oczFfY3VzdG9tZXIgPSAnVEVORU5HUk9VUCcKCQlBTkQgc3MuaHMyX3N0eWxlIE5PVCBMSUtFICdURy0lJwopClNFTEVDVAoJc3NpLioKCQkgLENBU0UKCQkJICBXSEVOIHNzaS5hdjBfa2FyYXQgPSA5MiBUSEVOIHNzaS53dF9pbnZvaWNlICogMC45NAoJCQkgIEVMU0Ugc3NpLnd0X2ludm9pY2UgKiAxLjAKCUVORCB3dF9jb252ZXJ0CkZST00gc2lsX3NvbGRfaXRlbSBhcyBzc2kKV0hFUkUgc3NpLmhzMV9jdXN0b21lciAhPSAnVEVORU5HUk9VUCcKCUFORCBzc2kud3RfaW52b2ljZSA+IDAKVU5JT04KU0VMRUNUCglzc24uKgoJCSAsQ0FTRQoJCQkgIFdIRU4gc3NuLmF2MF9rYXJhdCA9IDkyIFRIRU4gc3NuLnd0X2ludm9pY2UgKiAwLjk0CgkJCSAgRUxTRSBzc24ud3RfaW52b2ljZSAqIDEuMAoJRU5EIHd0X2NvbnZlcnQKRlJPTSBzaWxfc29sZF9pdGVtX3RlbmVuIGFzIHNzbgpXSEVSRSBzc24ud3RfaW52b2ljZSA+IDAK</text>
+        <text encoding="base64">c2VsZWN0CglyLioKLS0gCVNVTShyLnd0X2NvbnZlcnQpCmZyb20gcmVhZHlfdG9fc2hpcCBhcyByCldIRVJFIFlFQVIoVFJZX0NPTlZFUlQoREFURVRJTUUsIHIuZW50ZXJfZGF0ZSwgMTA0KSkgPSAyMDE5CglhbmQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIHIuZW50ZXJfZGF0ZSwgMTA0KSkgPSA2CglhbmQgREFZKFRSWV9DT05WRVJUKERBVEVUSU1FLCByLmVudGVyX2RhdGUsIDEwNCkpID0gMQoJQU5EIGthcmF0IElOICg5MiwgMTAwKQpPUkRFUiBCWSByLmVudGVyX2RhdGUgREVTQwoKCnNlbGVjdAoJKgpmcm9tIGFsbF9sb2NhdGlvbl9leGlzdF9zdWIgYXMgcgpXSEVSRSBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCByLmVudGVyX2RhdGUsIDEwNCkpID0gMjAxOQoJYW5kIE1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCByLmVudGVyX2RhdGUsIDEwNCkpID0gNgoJYW5kIERBWShUUllfQ09OVkVSVChEQVRFVElNRSwgci5lbnRlcl9kYXRlLCAxMDQpKSA9IDEKCUFORCByLmthcmF0IE5PVCBJTiAoOTIsIDEwMCkKCnNlbGVjdCAqCmZyb20gY2FzdGluZ19yb29tIGFzIHIKV0hFUkUgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgci5lbnRlcl9kYXRlLCAxMDQpKSA9IDIwMTkKCWFuZCBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgci5lbnRlcl9kYXRlLCAxMDQpKSA9IDUKCWFuZCBEQVkoVFJZX0NPTlZFUlQoREFURVRJTUUsIHIuZW50ZXJfZGF0ZSwgMTA0KSkgPSAzMQoJQU5EIHIua2FyYXQgTk9UIElOICg5MiwgMTAwKQoKc2VsZWN0ICoKZnJvbSBzdG9ja19maW5pc2hfZ29vZHNfZGV0YWlsIGFzIHIKV0hFUkUgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgci5lbnRlcl9kYXRlLCAxMDQpKSA9IDIwMTkKCWFuZCBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgci5lbnRlcl9kYXRlLCAxMDQpKSA9IDUKCWFuZCBEQVkoVFJZX0NPTlZFUlQoREFURVRJTUUsIHIuZW50ZXJfZGF0ZSwgMTA0KSkgPSAzMQoJQU5EIHIua2FyYXQgSU4gKDkyLCAxMDApCgpzZWxlY3QgKgpmcm9tIHN0b2NrX3Jhd19tYXRlcmlhbCBhcyByCldIRVJFIFlFQVIoVFJZX0NPTlZFUlQoREFURVRJTUUsIHIuZW50ZXJfZGF0ZSwgMTA0KSkgPSAyMDE5CglhbmQgTU9OVEgoVFJZX0NPTlZFUlQoREFURVRJTUUsIHIuZW50ZXJfZGF0ZSwgMTA0KSkgPSA1CglhbmQgREFZKFRSWV9DT05WRVJUKERBVEVUSU1FLCByLmVudGVyX2RhdGUsIDEwNCkpID0gMzEKYW5kIHIua2FyYXQgSU4gKDkyLCAxMDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">V0lUSCBnbGRfYWxsX2ludiBBUyAoCglTRUxFQ1QKCQlDT05WRVJUKFZBUkNIQVIoMTApLCBDQVNUKGguaHMxX2RhdGUgQVMgREFURSksIDEwMykgYXMgaW52X2RhdGUKCQkJICxDT05WRVJUKFZBUkNIQVIoMTApLCBDQVNUKGguaHMxX3NoaXBfZGF0ZSBBUyBEQVRFKSwgMTAzKSBhcyBzaGlwX2RhdGVfY29udgoJCQkgLGguaHMxX3NoaXBfZGF0ZQoJCQkgLGguRjFfaHMxX3N0YXR1cwoJCQkgLGguaHMxX2ludm9pY2UKCQkJICxoLmhzMV9jdXN0b21lcgoJCQkgLGwuaHMyX2xpbmUKCQkJICxsLmhzMl9zdHlsZQoJCQkgLGwuaHMyX3F0eV9pdGVtCgkJCSAsYS5hdjBfd2VpZ2h0IGFzIGJvbV93ZWlnaHQKCQkJICxhLmF2MF9rYXJhdAoJCQkgLGEuYXYwX21ldGFsCgkJCSAsSUlGKGwuaHMyX3d0X2ludm9pY2UgPSAwLCBsLmhzMl9xdHlfaXRlbSAqIGEuYXYwX3dlaWdodCwgbC5oczJfd3RfaW52b2ljZSkgQVMgd3RfaW52b2ljZQoJRlJPTSBzbC5kYm8uaHMxX2ludm9pY2VfaGRyIEFTIGgKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uaHMyX2ludm9pY2VfbG4gQVMgbAoJCSAgICAgICAgICAgICAgIE9OIGwuaHMyX2ludm9pY2Vfbm8gPSBoLmhzMV9pbnZvaWNlCgkJICAgICBMRUZUIEpPSU4gc2wuZGJvLmF2MF9zdHlsZSBBUyBhCgkJICAgICAgICAgICAgICAgT04gYS5hdjBfc3R5bGUgPSBsLmhzMl9zdHlsZQoJV0hFUkUgYS5hdjBfbWV0YWwgTElLRSAnOSUnCgkJIE9SIGEuYXYwX21ldGFsIExJS0UgJzE0JScKCQkgT1IgYS5hdjBfbWV0YWwgTElLRSAnMTglJwopClNFTEVDVAoJZ3NpLioKCQkgLENBU0UKCQkJICBXSEVOIGdzaS5hdjBfbWV0YWwgTElLRSAnOSUnICBUSEVOIGdzaS53dF9pbnZvaWNlICogMC4zODUKCQkJICBXSEVOIGdzaS5hdjBfbWV0YWwgTElLRSAnMTQlJyBUSEVOIGdzaS53dF9pbnZvaWNlICogMC41OQoJCQkgIFdIRU4gZ3NpLmF2MF9tZXRhbCBMSUtFICcxOCUnIFRIRU4gZ3NpLnd0X2ludm9pY2UgKiAwLjc2CgkJCSAgRUxTRSBnc2kud3RfaW52b2ljZSAqIDEuMAoJRU5EIEFTIHd0X2NvbnZlcnQKRlJPTSBnbGRfYWxsX2ludiBBUyBnc2kKV0hFUkUgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgZ3NpLmludl9kYXRlLCAxMDQpKSA9IDIwMTkKCUFORCBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgZ3NpLmludl9kYXRlLCAxMDQpKSA9IDUKCUFORCBnc2kuRjFfaHMxX3N0YXR1cyBCRVRXRUVOIDEgQU5EIDkKCUFORCBnc2kud3RfaW52b2ljZSA+PSAwCk9SREVSIEJZIGdzaS5oczFfaW52b2ljZSBBU0M7Cg==</text>
+        <text encoding="base64">CVNVTShmaWx0ZXJfc3ViLnd0X2NvbnZlcnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3JkZXIgYnkgZW50ZXJfZGF0ZSBERVNDCg==</text>
+        <text encoding="base64">CUNPVU5UKGZpbHRlcl9zdWIub3JkZXJfbm8pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzdG9ja19maW5pc2hfZ29vZHMgYXMgcgpXSEVSRSBZRUFSKFRSWV9DT05WRVJUKERBVEVUSU1FLCByLmVudGVyX2RhdGUsIDEwNCkpID0gMjAxOQotLSAJYW5kIE1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCByLmVudGVyX2RhdGUsIDEwNCkpID0gNQotLSAJYW5kIERBWShUUllfQ09OVkVSVChEQVRFVElNRSwgci5lbnRlcl9kYXRlLCAxMDQpKSA9IDMxCi0tIAlBTkQga2FyYXQgSU4gKDkyLCAxMDApCg==</text>
+        <text encoding="base64">V0lUSCBzaG9wX2ludiBBUyAoCglTRUxFQ1QKCQloLmhzMV9kYXRlCgkJCSAsaC5oczFfaW52b2ljZQoJCQkgLGguaHMxX2N1c3RvbWVyX25vCgkJCSAsbC5oczJfbGluZQoJCQkgLGwuaHMyX3N0eWxlCgkJCSAsYS5hdjBfa2FyYXQKCQkJICxhLmF2MF9tZXRhbAoJCQkgLChsLmhzMl9xdHkgKiBhLmF2MF93ZWlnaHQpIEFTIGdyb3NzX3d0CgkJCSAsQ0FTRQoJCQkJICBXSEVOIGEuYXYwX21ldGFsIExJS0UgJzklJyAgVEhFTiAobC5oczJfcXR5ICogYS5hdjBfd2VpZ2h0KSAqIDAuMzg1CgkJCQkgIFdIRU4gYS5hdjBfbWV0YWwgTElLRSAnMTQlJyBUSEVOIChsLmhzMl9xdHkgKiBhLmF2MF93ZWlnaHQpICogMC41OQoJCQkJICBXSEVOIGEuYXYwX21ldGFsIExJS0UgJzE4JScgVEhFTiAobC5oczJfcXR5ICogYS5hdjBfd2VpZ2h0KSAqIDAuNzYKCQkJCSAgRUxTRSAobC5oczJfcXR5ICogYS5hdjBfd2VpZ2h0KSAqIDEuMAoJCUVORCBBUyB3dF9jb252ZXJ0CglGUk9NIHNsLmRiby5oczJfaW52b2ljZV9sbl9pbmRpdmlkdWFsIEFTIGwKCQkgICAgIExFRlQgSk9JTiBzbC5kYm8uaHMxX2ludm9pY2VfaGRyX2luZGl2aWR1YWwgQVMgaAoJCSAgICAgICAgICAgICAgIE9OIGguaHMxX2ludm9pY2UgPSBsLmhzMl9pbnZvaWNlCgkJICAgICBMRUZUIEpPSU4gc2wuZGJvLmF2MF9zdHlsZSBBUyBhCgkJICAgICAgICAgICAgICAgT04gYS5hdjBfc3R5bGUgPSBsLmhzMl9zdHlsZQoJV0hFUkUgYS5hdjBfbWV0YWwgTElLRSAnOSUnCgkJIE9SIGEuYXYwX21ldGFsIExJS0UgJzE0JScKCQkgT1IgYS5hdjBfbWV0YWwgTElLRSAnMTglJwoJCSBPUiBhLmF2MF9tZXRhbCBMSUtFICcyNCcKKQpTRUxFQ1QKCU1PTlRIKFRSWV9DT05WRVJUKERBVEVUSU1FLCAgc2guaHMxX2RhdGUsIDEwNCkpIEFTIF9tb250aAoJCSAsc2guaHMxX2ludm9pY2UKCQkgLHNoLmhzMV9jdXN0b21lcl9ubwoJCSAsc2guaHMyX2xpbmUKCQkgLHNoLmhzMl9zdHlsZQoJCSAsc2guYXYwX2thcmF0CgkJICxzaC5hdjBfbWV0YWwKCQkgLHNoLmdyb3NzX3d0CgkJICxzaC53dF9jb252ZXJ0CkZST00gc2hvcF9pbnYgYXMgc2gKV0hFUkUgWUVBUihUUllfQ09OVkVSVChEQVRFVElNRSwgIHNoLmhzMV9kYXRlLCAxMDQpKSA9IDIwMTkKCUFORCBNT05USChUUllfQ09OVkVSVChEQVRFVElNRSwgIHNoLmhzMV9kYXRlLCAxMDQpKSA9IDUKT1JERVIgQlkgc2guaHMxX2RhdGUgQVNDCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>select
-	SUM(r.wt_convert)
-from stock_raw_material as r
-WHERE YEAR(TRY_CONVERT(DATETIME, r.enter_date, 104)) = 2019
-	and MONTH(TRY_CONVERT(DATETIME, r.enter_date, 104)) = 6
-	and DAY(TRY_CONVERT(DATETIME, r.enter_date, 104)) = 1
-	AND karat IN (92, 100)</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sil_sold</last-search>
+      <last-search encoding="base64">XDxhX3N1Ylw+</last-search>
       <last-offset />
-      <last-pattern>sil_sold</last-pattern>
+      <last-pattern encoding="base64">XDxhX3N1Ylw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -529,9 +525,6 @@ WHERE YEAR(TRY_CONVERT(DATETIME, r.enter_date, 104)) = 2019
     </search>
     <history>
       <history-search>
-        <entry>report_of</entry>
-        <entry encoding="base64">XDxzdXBwbGllcl9vcmRlcl9saW5lXD4=</entry>
-        <entry>supplier_order_line</entry>
         <entry>aut</entry>
         <entry>sold_item</entry>
         <entry>f</entry>
@@ -549,6 +542,9 @@ WHERE YEAR(TRY_CONVERT(DATETIME, r.enter_date, 104)) = 2019
         <entry encoding="base64">XDxnZXRfYnV5X25ld19maW5pc2hfZ29vZHNcPg==</entry>
         <entry>gld_sold</entry>
         <entry>sil_sold</entry>
+        <entry>silver</entry>
+        <entry>sil_in</entry>
+        <entry encoding="base64">XDxhX3N1Ylw+</entry>
       </history-search>
       <history-cmd>
         <entry>893</entry>
