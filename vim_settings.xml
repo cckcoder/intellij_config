@@ -16,6 +16,12 @@
         <mark key="." line="374" column="36" />
         <mark key="^" line="368" column="47" />
       </file>
+      <file name="/var/customers/webs/vue_test/main.js" timestamp="1560153837829">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/spread_operators.js" timestamp="1557285048061">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
@@ -65,9 +71,6 @@
         <mark key="]" line="85" column="80" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/mnt/sdb1/GMS/application/config/database.php" timestamp="1559192794742">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9c1098ac-3ce9-45d9-b5a9-7e48c5bff79c/console.sql" timestamp="1559622627396">
         <mark key="'" line="15" column="24" />
         <mark key="[" line="86" column="0" />
@@ -80,6 +83,13 @@
         <mark key="]" line="28" column="46" />
         <mark key="." line="28" column="46" />
         <mark key="^" line="28" column="46" />
+      </file>
+      <file name="/var/customers/webs/vue_test/index.html" timestamp="1560153814781">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/.gitignore" timestamp="1555674682442">
         <mark key="[" line="119" column="0" />
@@ -196,9 +206,6 @@
         <mark key="." line="63" column="22" />
         <mark key="^" line="63" column="22" />
       </file>
-      <file name="/var/customers/webs/slbj/public/.htaccess" timestamp="1559300336575">
-        <mark key="'" line="106" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1559270372376">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -274,8 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="713" column="26" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
-      <jump line="714" column="24" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="481" column="0" filename="/var/customers/webs/api3/api/views/gold_monthly_report.py" />
       <jump line="1084" column="0" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="80" column="56" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
@@ -374,10 +379,12 @@
       <jump line="0" column="0" filename="/mnt/sdb1/GMS/application/models/metal_summary.php" />
       <jump line="209" column="25" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
       <jump line="687" column="17" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
+      <jump line="4" column="10" filename="/var/customers/webs/vue_test/index.html" />
+      <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/meta.rnc" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>23</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWNfaW52XD4=</text>
