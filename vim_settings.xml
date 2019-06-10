@@ -16,11 +16,11 @@
         <mark key="." line="374" column="36" />
         <mark key="^" line="368" column="47" />
       </file>
-      <file name="/var/customers/webs/vue_test/main.js" timestamp="1560160419954">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+      <file name="/var/customers/webs/vue_test/main.js" timestamp="1560161062089">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="19" column="35" />
       </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/spread_operators.js" timestamp="1557285048061">
         <mark key="[" line="12" column="20" />
@@ -84,12 +84,12 @@
         <mark key="." line="28" column="46" />
         <mark key="^" line="28" column="46" />
       </file>
-      <file name="/var/customers/webs/vue_test/index.html" timestamp="1560160410984">
-        <mark key="'" line="28" column="15" />
-        <mark key="[" line="21" column="63" />
-        <mark key="]" line="21" column="77" />
-        <mark key="." line="21" column="77" />
-        <mark key="^" line="21" column="77" />
+      <file name="/var/customers/webs/vue_test/index.html" timestamp="1560161186774">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="29" column="55" />
+        <mark key="]" line="29" column="71" />
+        <mark key="." line="29" column="71" />
+        <mark key="^" line="29" column="71" />
       </file>
       <file name="/var/customers/webs/vue_creash_todolist/.gitignore" timestamp="1555674682442">
         <mark key="[" line="119" column="0" />
@@ -389,13 +389,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>100</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWNfaW52XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwIHYtaWY9ImludmVudG9yeSA+IDEwIj5JbiBzdG9jazwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyaWFudElEOiAyMjM0CiAgICAgICAgICAgICAgICAsdmFyaWFudENvbG9yOiAiZ3JlZW4iCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMz4KICAgICAgICAgICAgICAgICAgICA8YSB2LWJpbmQ6aHJlZj0ibGluayIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICBtb3JlIHByb2R1Y3QKICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICA8L2gzPgo=</text>
@@ -461,7 +461,6 @@
         <entry encoding="base64">XDxmYWNfaW52XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>893</entry>
         <entry>61</entry>
         <entry>37</entry>
         <entry>100</entry>
@@ -480,6 +479,7 @@
         <entry>90</entry>
         <entry>488</entry>
         <entry>wq</entry>
+        <entry>vsplite</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
