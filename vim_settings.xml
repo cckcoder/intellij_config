@@ -41,12 +41,12 @@
         <mark key="." line="7" column="66" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="/var/customers/webs/vue_test/main.js" timestamp="1560315406655">
-        <mark key="'" line="139" column="17" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="146" column="30" />
+      <file name="/var/customers/webs/vue_test/main.js" timestamp="1560320295751">
+        <mark key="'" line="68" column="13" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="/var/customers/webs/react_web_dev/refresh_js_es6/spread_operators.js" timestamp="1557285048061">
         <mark key="[" line="12" column="20" />
@@ -293,8 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1554" column="11" filename="/var/customers/webs/api3/api/views/general_helper.py" />
-      <jump line="1557" column="15" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="1567" column="13" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="1577" column="13" filename="/var/customers/webs/api3/api/views/general_helper.py" />
       <jump line="581" column="4" filename="/var/customers/webs/api3/api/views/general_helper.py" />
@@ -393,6 +391,8 @@
       <jump line="104" column="29" filename="/var/customers/webs/vue_test/main.js" />
       <jump line="106" column="12" filename="/var/customers/webs/vue_test/main.js" />
       <jump line="141" column="17" filename="/var/customers/webs/vue_test/main.js" />
+      <jump line="56" column="11" filename="/var/customers/webs/vue_test/main.js" />
+      <jump line="58" column="13" filename="/var/customers/webs/vue_test/main.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -402,7 +402,7 @@
         <text>remove</text>
       </register>
       <register name="0" type="4">
-        <text>this.variants[this.selectVariant].variantID</text>
+        <text>product-review</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy4kZW1pdCgncmVtb3ZlLWZyb20tY2FydCcsIHRoaXMudmFyaWFudHNbdGhpcy5zZWxlY3RWYXJpYW50XS52YXJpYW50SUQpCiAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKHRoaXMudmFyaWFudHNbdGhpcy5zZWxlY3RWYXJpYW50XS52YXJpYW50SUQpOwo=</text>
