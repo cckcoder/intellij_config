@@ -41,10 +41,12 @@
         <mark key="." line="4" column="16" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="/var/customers/webs/slbj/routes/web.php" timestamp="1560484758223">
-        <mark key="'" line="62" column="20" />
-        <mark key="[" line="348" column="29" />
-        <mark key="]" line="348" column="46" />
+      <file name="/var/customers/webs/slbj/routes/web.php" timestamp="1560488548390">
+        <mark key="'" line="222" column="23" />
+        <mark key="[" line="221" column="66" />
+        <mark key="]" line="221" column="99" />
+        <mark key="^" line="166" column="0" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="D:/tutorial/js_data_structure/.idea/set.js" timestamp="1556932234190">
         <mark key="[" line="0" column="0" />
@@ -100,6 +102,9 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
         <mark key="^" line="119" column="0" />
+      </file>
+      <file name="/var/customers/webs/slbj/app/SL/Order/OrderHdr.php" timestamp="1560488895548">
+        <mark key="^" line="687" column="13" />
       </file>
       <file name="/var/customers/webs/api3/api/views/gold_monthly_report.py" timestamp="1560479476616">
         <mark key="'" line="1024" column="37" />
@@ -169,6 +174,12 @@
         <mark key="]" line="2" column="7" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
+      </file>
+      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/Order/OrderHdrController.php" timestamp="1560489073115">
+        <mark key="'" line="98" column="67" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="/a.sql" timestamp="1560402267823">
         <mark key="[" line="0" column="0" />
@@ -251,19 +262,11 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="/check_list.php" timestamp="1560414182311">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="65" />
-      </file>
       <file name="/mnt/sdb1/GMS/application/views/general/audit_reports/summary_inter_audit.php" timestamp="1557538526361">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="28" />
         <mark key="." line="7" column="64" />
         <mark key="^" line="2" column="9" />
-      </file>
-      <file name="/mnt/sdb1/GMS/application/controllers/general/casting_rms.php" timestamp="1560417607725">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="123" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5254ba3b-ec8a-4bc9-a230-d7b31e447012/console.sql" timestamp="1560402383365">
         <mark key="'" line="11" column="0" />
@@ -296,11 +299,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" timestamp="1558940335808">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" timestamp="1560489495976">
+        <mark key="'" line="51" column="1" />
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e43aceec-eb1c-48fd-8474-e23b974f656e/console_1.sql" timestamp="1560412054071">
         <mark key="'" line="21" column="35" />
@@ -311,46 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="687" column="17" filename="/mnt/sdb1/GMS/application/controllers/general/metal_summarys.php" />
-      <jump line="4" column="10" filename="/var/customers/webs/vue_test/index.html" />
-      <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/meta.rnc" />
-      <jump line="27" column="15" filename="/var/customers/webs/vue_test/index.html" />
-      <jump line="34" column="0" filename="/var/customers/webs/vue_test/index.html" />
-      <jump line="11" column="18" filename="/var/customers/webs/vue_test/index.html" />
-      <jump line="55" column="31" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="13" column="0" filename="/var/customers/webs/vue_test/index.html" />
-      <jump line="0" column="0" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/mml3/mathml3-content.rnc" />
-      <jump line="35" column="20" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="28" column="0" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="85" column="0" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="117" column="12" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="17" column="0" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="59" column="12" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="0" column="0" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="137" column="4" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="96" column="9" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="98" column="8" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="101" column="29" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="90" column="20" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="92" column="24" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="99" column="9" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="52" column="36" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="104" column="29" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="106" column="12" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="141" column="17" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="56" column="11" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="58" column="13" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="85" column="19" filename="/mnt/sdb1/GMS/application/controllers/departments/qc_and_packing.php" />
-      <jump line="10" column="4" filename="/mnt/sdb1/GMS/application/models/checklist.php" />
-      <jump line="46" column="0" filename="/mnt/sdb1/GMS/application/models/checklist.php" />
-      <jump line="75" column="28" filename="/mnt/sdb1/GMS/application/models/checklist.php" />
-      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5254ba3b-ec8a-4bc9-a230-d7b31e447012/console.sql" />
-      <jump line="88" column="30" filename="/mnt/sdb1/GMS/application/controllers/departments/qc_and_packing.php" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e43aceec-eb1c-48fd-8474-e23b974f656e/console_1.sql" />
-      <jump line="26" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e43aceec-eb1c-48fd-8474-e23b974f656e/console_1.sql" />
-      <jump line="87" column="23" filename="/mnt/sdb1/GMS/application/controllers/departments/qc_and_packing.php" />
-      <jump line="84" column="13" filename="/mnt/sdb1/GMS/application/controllers/departments/qc_and_packing.php" />
-      <jump line="42" column="27" filename="/mnt/sdb1/GMS/application/controllers/departments/qc_and_packing.php" />
       <jump line="16" column="26" filename="/mnt/sdb1/GMS/application/controllers/general/stock_orders.php" />
       <jump line="31" column="0" filename="/mnt/sdb1/GMS/application/controllers/departments/qc_and_packing.php" />
       <jump line="82" column="2" filename="/mnt/sdb1/GMS/application/controllers/departments/qc_and_packing.php" />
@@ -411,69 +375,99 @@
       <jump line="62" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
       <jump line="62" column="20" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="92" column="15" filename="/var/customers/webs/slbj/app/Http/Controllers/Auth/RegisterController.php" />
+      <jump line="340" column="29" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="371" column="238" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="160" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="165" column="0" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="167" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="168" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="169" column="18" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="171" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="172" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="175" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="325" column="24" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="162" column="23" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="0" column="0" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Report/ReportController.php" />
+      <jump line="282" column="0" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="0" column="0" filename="/var/customers/webs/slbj/app/Events/AdminBackend.php" />
+      <jump line="163" column="21" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="185" column="99" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="247" column="65" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="383" column="83" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="384" column="63" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="385" column="130" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="390" column="75" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="391" column="9" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="223" column="83" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="326" column="73" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="86" column="28" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Order/OrderHdrController.php" />
+      <jump line="221" column="60" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="222" column="23" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="94" column="15" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Order/OrderHdrController.php" />
+      <jump line="107" column="27" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Order/OrderHdrController.php" />
+      <jump line="100" column="32" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Order/OrderHdrController.php" />
+      <jump line="7" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" />
+      <jump line="12" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" />
+      <jump line="0" column="0" filename="/var/customers/webs/slbj/app/SL/Order/OrderHdr.php" />
+      <jump line="105" column="17" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Order/OrderHdrController.php" />
+      <jump line="98" column="67" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Order/OrderHdrController.php" />
+      <jump line="14" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" />
+      <jump line="43" column="10" filename="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" />
+      <jump line="0" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" />
+      <jump line="51" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console.sql" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IExJTUlUIDEwMA==</text>
+        <text>|| \' \'</text>
       </register>
       <register name="/" type="4">
-        <text>register</text>
+        <text encoding="base64">XDxjdGVPcmRlckRpc2NvdW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>RegisterController</text>
+        <text>$custOrderSummary</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQzMTcsIDI3NywgMTAwMDgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAzNTUyLCA3NjQsIDM5MDksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxNjUK</text>
+        <text encoding="base64">d2l0aCBjdGVPcmRlckRpc2NvdW50CgkgICAgIGFzCgkgICAgICgKCQkgICAgIHNlbGVjdAoJCQkgICAgIG9iLnNsX29yZGVyX2hkciwKCQkJICAgICBzdW0ob2QuYW1vdW50KSBkaXNjb3VudF9hbW91bnQKCQkgICAgIGZyb20gcHVibGljLnNsX29yZGVyX2Rpc2NvdW50IG9kCgkJCSAgICAgICAgICBpbm5lciBqb2luIHB1YmxpYy5zbF9vcmRlcl9ib2R5IG9iCgkJCSAgICAgICAgICAgICAgICAgICAgIG9uIG9iLmlkID0gIG9kLnNsX29yZGVyX2JvZHkKCQkgICAgIGdyb3VwIGJ5IG9iLnNsX29yZGVyX2hkcgoJICAgICApClNFTEVDVAoJI3JldHVybl9kYXRhCkZST00KCXB1YmxpYy5zbF9vcmRlcl9oZHIgaGRyCgkJTEVGVCBKT0lOIHB1YmxpYy5zbF9vcmRlcl9ib2R5IGJkCgkJICAgICAgICAgIE9OIGJkLnNsX29yZGVyX2hkciA9IGhkci5pZAoJCUxFRlQgSk9JTiBwdWJsaWMuc2xkX29yZGVyX3N0YXR1cyBzdAoJCSAgICAgICAgICBPTiBzdC5pZCA9IGhkci5zbGRfb3JkZXJfc3RhdHVzCgkJTEVGVCBKT0lOIHB1YmxpYy5zbF9jdXN0b21lciBjdXN0CgkJICAgICAgICAgIE9OIGN1c3QuaWQgPSBoZHIuc2xfY3VzdG9tZXIKCQlMRUZUIEpPSU4gcHVibGljLnNsZF9kZWxpdmVyeV9tZXRob2Qgc2RtCgkJICAgICAgICAgIE9OIHNkbS5pZCA9IGhkci5zbGRfZGVsaXZlcnlfbWV0aG9kCgkJTEVGVCBKT0lOIHB1YmxpYy5zbGRfcGF5bWVudF9tZXRob2Qgc3BtCgkJICAgICAgICAgIE9OIHNwbS5pZCA9IGhkci5zbGRfcGF5bWVudF9tZXRob2QKCQlMRUZUIGpvaW4gcHVibGljLnNsX2N1c3RvbWVyIGNiCgkJICAgICAgICAgIG9uIGNiLmlkID0gaGRyLmNyZWF0ZWRfYnkKCQlsZWZ0IEpPSU4gY3RlT3JkZXJEaXNjb3VudCBvZAoJCSAgICAgICAgICBPTiBoZHIuaWQgPSBvZC5zbF9vcmRlcl9oZHIKCQlMRUZUIEpPSU4gc2xfY291cG9uc19oaXN0b3J5IGFzIGNoCgkJICAgICAgICAgIE9OIGhkci5pZCA9IGNoLnNsX29yZGVyX2hkcgpXSEVSRQoJCTE9MQoJQU5EIGJkLnF0eT4wCgkJICAgICAgICAgICAjV0hFUkVfQ1VTVE9NRVIKCQkgICAgICAgICAgICNXSEVSRV9PUkRFUl9EQVRFCgkJICAgICAgICAgICAjV0hFUkVfQ1VTX0lECgkjV0hFUkVfU0hJUFBJTkdfUkVRVUVTVApHUk9VUCBCWQoJaGRyLmlkLAoJaGRyLm9yZGVyX25vLAoJaGRyLm9yZGVyX2RhdGUsCgloZHIuc2xkX29yZGVyX3N0YXR1cywKCXN0LmNvZGUsCglzdC5uYW1lLAoJaGRyLnNsX2N1c3RvbWVyLAoJY3VzdC5sYXN0X25hbWUsCgljdXN0LmZpcnN0X25hbWUsCgljYi5sYXN0X25hbWUgIHx8IGNiLmZpcnN0X25hbWUsCgljdXN0LmNvbXBhbnlfbmFtZSwKCWhkci5zbGRfZGVsaXZlcnlfbWV0aG9kLAoJaGRyLnNsZF9wYXltZW50X21ldGhvZCwKCWNvYWxlc2NlKG9kLmRpc2NvdW50X2Ftb3VudCwwKQpPUkRFUiBCWQoJaGRyLm9yZGVyX25vIGRlc2MKLS0gCSNPRkZTRVQgI0xJTUlUCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiSSdtIGhlcmUiKTsKICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CldJVEggaW5kaWNhdG9yX2xhc3RfeSBBUyAoCglTRUxFQ1QKCQlpdi5rZXlfSUQsCgkgIHQuZGVzY3JpcHRpb25zLAoJICBpdi5kYXRlCglGUk9NIGluZGljYXRvcl92YWx1ZSBhcyBpdgoJTEVGVCBKT0lOIHRhcmdldCB0IG9uIGl2LnRhcmdldF9JRCA9IHQuSUQKCVdIRVJFIFlFQVIoZGF0ZSkgPSAyMDE4CiksIGtwaV90YiBBUyAoCglTRUxFQ1QKCQlrLklEIGFzIGtleV9pZCwKCQlrLmRlc2NyaXB0aW9ucyBhcyBnb2FscywKCQl0LmRlc2NyaXB0aW9ucyBhcyB0YXJnZXQsCgkJci5uYW1lLAoJCWl2LnZhbHVlLAoJCXQyLnR5cGUsCgkJaXYuZGF0ZQoJRlJPTSBpbmRpY2F0b3JfdmFsdWUgYXMgaXYKICBMRUZUIEpPSU4ga2V5cyBhcyBrIG9uIGl2LmtleV9JRCA9IGsuSUQKICBMRUZUIEpPSU4gdGFyZ2V0IHQgb24gay50YXJnZXRfSUQgPSB0LklECiAgTEVGVCBKT0lOIHJlc3BvbnNpYmxlIGFzIHIgb24gay5yZXNwb25zaWJsZV9JRCA9IHIuSUQKICBMRUZUIEpPSU4gdHlwZSBhcyB0MiBvbiBrLnR5cGVfSUQgPSB0Mi5JRAoJV0hFUkUgWUVBUihpdi5kYXRlKSA9IDIwMTkKKQpTRUxFQ1QKCWt0LmtleV9pZCwKCWt0LmdvYWxzLAoJaWx5LmRlc2NyaXB0aW9ucyBhcyBpbmRpY2F0b3IsCglrdC50YXJnZXQsCglrdC5uYW1lLAoJa3QudmFsdWUKRlJPTSBrcGlfdGIgQVMga3QKTEVGVCBKT0lOIGluZGljYXRvcl9sYXN0X3kgQVMgaWx5CglPTiBpbHkua2V5X0lEID0ga3Qua2V5X2lkCgo=</text>
+        <text encoding="base64">c2VsZWN0CgkqCmZyb20gZnNnX2ZpbGUKV0hFUkUgaWQgaW4gKDIsIDMsIDQsIDUpOwoKCnNlbGVjdCAqCmZyb20gc2xpZGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVxdWVzdCk7CiAgICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAiPHByZT4iOwogICAgICBwcmludF9yKCRkYXRhWycnXSk7CiAgICAgIGVjaG8gIjwvcHJlPiI7CiAgICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkcmVxdWVzdCk7CiAgICAgICAgZWNobyAiPC9wcmU+IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJGNoZWNrZXIgPSAkdGhpcy0+aW5wdXQtPmdldCgnY2hlY2tlcl9pZCcpOwogICAgICAkeWVhciA9ICR0aGlzLT5pbnB1dC0+Z2V0KCd5ZWFyJyk7CiAgICAgICRkYXRhWydjayddID0gJGNrLT5nZXRfY2hlY2tlcl9pbmZvKCRjaGVja2VyLCAkeWVhcik7CiAgICAgICRkYXRhWydjaGVja2VyJ10gPSAkY2hlY2tlcjsKICAgICAgJGRhdGFbJ3llYXInXSA9ICR5ZWFyOwogICAgICAkdGhpcy0+Y2hlY2tfaW5mbyA9ICRkYXRhWydjayddOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICI8cHJlPiI7CiAgICAgICAgcHJpbnRfcigkb3JkZXJMaXN0KTsKICAgICAgICBlY2hvICI8L3ByZT4iOwogICAgICAgIGRpZSgpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">U0VMRUNUCgl5Lnl6M19sb2NhdGlvbiwKICB5Lnl6M19zdHlsZSwKCWFwLmF2MTdfbG9jYXRlZF9hdCwKICB5Lnl6M19xdHkKRlJPTSBzbC5kYm8ueXozX3N0b2NrIGFzIHkKTEVGVCBKT0lOIHNsLmRiby5hdjE3X3N0eWxlX3BsYWNlIGFzIGFwCglPTiAoYXAuYXYxN19zdHlsZSA9IHkueXozX3N0eWxlIEFORCBhcC5hdjE3X2xvY2F0aW9uID0geS55ejNfbG9jYXRpb24pCldIRVJFIHkueXozX2xvY2F0aW9uID0gMQpPUkRFUiBCWSB5Lnl6M19zdHlsZSBBU0MKCgpzZWxlY3QgKgpmcm9tIGF2MTdfc3R5bGVfcGxhY2U7Cgo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgneHh4eHgnKTsKICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjw/PSBhbmNob3IoQVBJMiwnPGRpdiBjbGFzcz0iaWNvbl9nZSBnZV9wciI+PC9kaXY+QVBJJyxhcnJheSgndGFyZ2V0JyA9PiAnX2JsYW5rJykpID8+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQzMTcsIDI3NywgMTAwMDgsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAzNTUyLCA3NjQsIDM5MDksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxNjUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAiPHByZT4iOwogICAgICBwcmludF9yKCR0aGlzLT5kYXRhWydkZXBhcnRfbmFtZSddWzBdWydERVBUX1RIQUlERVNDJ10pOwogICAgICBlY2hvICI8L3ByZT4iOwogICAgICBkaWUoKTsK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>register</last-search>
+      <last-search encoding="base64">XDxjdGVPcmRlckRpc2NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern>register</last-pattern>
+      <last-pattern encoding="base64">XDxjdGVPcmRlckRpc2NvdW50XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getList</entry>
-        <entry>pvd</entry>
-        <entry>targ</entry>
-        <entry encoding="base64">XDx0YXJnZXRfbG9zc1w+</entry>
-        <entry>sold</entry>
-        <entry encoding="base64">XDxmaW5pc2hfZ29vZHNcPg==</entry>
-        <entry encoding="base64">XDxnZXRfYnV5X25ld19maW5pc2hfZ29vZHNcPg==</entry>
-        <entry>gld_sold</entry>
-        <entry>sil_sold</entry>
-        <entry>silver</entry>
         <entry>sil_in</entry>
         <entry encoding="base64">XDxhX3N1Ylw+</entry>
         <entry encoding="base64">XDxmYWNfaW52XD4=</entry>
@@ -484,6 +478,16 @@
         <entry>remove</entry>
         <entry encoding="base64">XDxhbGxfZW1haWxcPg==</entry>
         <entry>register</entry>
+        <entry>admin</entry>
+        <entry>dash</entry>
+        <entry>any</entry>
+        <entry>getOrder</entry>
+        <entry encoding="base64">XDxwYWdpbk9yZGVyXD4=</entry>
+        <entry>customer</entry>
+        <entry>customer_order</entry>
+        <entry encoding="base64">XDxnZXRPcmRlckFueURhdGFcPg==</entry>
+        <entry>datatable</entry>
+        <entry encoding="base64">XDxjdGVPcmRlckRpc2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>64</entry>
