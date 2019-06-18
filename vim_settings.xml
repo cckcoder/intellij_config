@@ -48,12 +48,12 @@
       <file name="/var/customers/webs/slbj/resources/views/layout/order/confirmOrderInfo.blade.php" timestamp="1560502686704">
         <mark key="'" line="67" column="65" />
       </file>
-      <file name="/var/customers/webs/slbj/routes/web.php" timestamp="1560503053301">
-        <mark key="'" line="103" column="29" />
-        <mark key="[" line="92" column="60" />
-        <mark key="]" line="92" column="72" />
+      <file name="/var/customers/webs/slbj/routes/web.php" timestamp="1560851907822">
+        <mark key="'" line="66" column="15" />
+        <mark key="[" line="67" column="54" />
+        <mark key="]" line="67" column="70" />
         <mark key="^" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+        <mark key="." line="67" column="55" />
       </file>
       <file name="D:/tutorial/js_data_structure/.idea/set.js" timestamp="1556932234190">
         <mark key="[" line="0" column="0" />
@@ -321,7 +321,8 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" timestamp="1559300526559">
+      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" timestamp="1560851892511">
+        <mark key="'" line="1813" column="20" />
         <mark key="[" line="1622" column="0" />
         <mark key="]" line="1622" column="0" />
         <mark key="." line="1622" column="0" />
@@ -342,27 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="72" filename="/var/customers/webs/api3/api/main.py" />
-      <jump line="411" column="19" filename="/var/customers/webs/api3/api/views/silver_monthly_report.py" />
-      <jump line="62" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f2acc492-2b3e-4bca-999d-dadf1a798e39/console.sql" />
-      <jump line="62" column="20" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="92" column="15" filename="/var/customers/webs/slbj/app/Http/Controllers/Auth/RegisterController.php" />
-      <jump line="340" column="29" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="371" column="238" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="160" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="165" column="0" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="167" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="168" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="169" column="18" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="171" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="172" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="175" column="17" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="325" column="24" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="162" column="23" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="0" column="0" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Report/ReportController.php" />
-      <jump line="0" column="0" filename="/var/customers/webs/slbj/app/Events/AdminBackend.php" />
-      <jump line="163" column="21" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="185" column="99" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="247" column="65" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="383" column="83" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="384" column="63" filename="/var/customers/webs/slbj/routes/web.php" />
@@ -442,16 +422,37 @@
       <jump line="104" column="11" filename="/var/customers/webs/vue_test/main.js" />
       <jump line="5" column="55" filename="/var/customers/webs/vue_test/main.js" />
       <jump line="76" column="17" filename="/var/customers/webs/vue_test/main.js" />
+      <jump line="67" column="60" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="50" column="65" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="53" column="13" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="56" column="13" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="59" column="13" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="63" column="13" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="66" column="15" filename="/var/customers/webs/slbj/routes/web.php" />
+      <jump line="0" column="0" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="17" column="0" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="957" column="20" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="997" column="20" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1621" column="20" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1647" column="54" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1648" column="52" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1649" column="54" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1707" column="20" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1781" column="54" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1782" column="52" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1783" column="54" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1813" column="20" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="1905" column="54" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>addReview</text>
+        <text>getList</text>
       </register>
       <register name="0" type="4">
-        <text>public.sl_order_hdr</text>
+        <text>ProductController</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAsYWRkUmV2aWV3KHByb2R1Y3RSZXZpZXcpIHsKCiAgICAgICAgICAgIH0K</text>
@@ -485,9 +486,9 @@
       </register>
     </registers>
     <search>
-      <last-search>addReview</last-search>
+      <last-search>getList</last-search>
       <last-offset />
-      <last-pattern>addReview</last-pattern>
+      <last-pattern>getList</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
       <last-dir>1</last-dir>
@@ -495,8 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRPcmRlckFueURhdGFcPg==</entry>
-        <entry>datatable</entry>
         <entry encoding="base64">XDxjdGVPcmRlckRpc2NvdW50XD4=</entry>
         <entry>orderHdr</entry>
         <entry encoding="base64">XDxzaG9wcGluZ0NhcnRMaXN0XD4=</entry>
@@ -515,6 +514,8 @@
         <entry>product-tab</entry>
         <entry>onSub</entry>
         <entry>addReview</entry>
+        <entry>jewel</entry>
+        <entry>getList</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
