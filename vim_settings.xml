@@ -32,8 +32,8 @@
         <mark key="." line="373" column="36" />
         <mark key="^" line="367" column="47" />
       </file>
-      <file name="/var/customers/webs/vue_test/main.js" timestamp="1560513150037">
-        <mark key="'" line="76" column="17" />
+      <file name="/var/customers/webs/vue_test/main.js" timestamp="1560853448231">
+        <mark key="'" line="61" column="8" />
         <mark key="[" line="225" column="0" />
         <mark key="]" line="225" column="42" />
         <mark key="^" line="225" column="42" />
@@ -142,6 +142,12 @@
         <mark key="^" line="76" column="12" />
         <mark key="." line="76" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console_1.sql" timestamp="1560853342937">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4d0a6c2a-9183-469d-8942-030d3354f1a2/console.sql" timestamp="1560481621959">
         <mark key="[" line="3" column="33" />
         <mark key="]" line="3" column="44" />
@@ -241,16 +247,23 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" timestamp="1559300203987">
-        <mark key="[" line="699" column="0" />
-        <mark key="]" line="699" column="0" />
-        <mark key="." line="699" column="0" />
+      <file name="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" timestamp="1560853287398">
+        <mark key="'" line="493" column="50" />
+        <mark key="]" line="714" column="21" />
+        <mark key="." line="714" column="21" />
+        <mark key="^" line="714" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df35c41d-fb1b-4898-8480-ba6b27324b6c/console.sql" timestamp="1560477922381">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="/var/customers/webs/slbj/app/SL/Product/ProductCategory.php" timestamp="1560853357011">
+        <mark key="[" line="113" column="16" />
+        <mark key="]" line="113" column="32" />
+        <mark key="^" line="115" column="13" />
+        <mark key="." line="113" column="16" />
       </file>
       <file name="/dummy.sql" timestamp="1560406548799">
         <mark key="[" line="0" column="0" />
@@ -343,15 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="65" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="383" column="83" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="384" column="63" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="385" column="130" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="390" column="75" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="391" column="9" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="223" column="83" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="326" column="73" filename="/var/customers/webs/slbj/routes/web.php" />
-      <jump line="86" column="28" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Order/OrderHdrController.php" />
       <jump line="221" column="60" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="222" column="23" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="94" column="15" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Order/OrderHdrController.php" />
@@ -420,7 +424,6 @@
       <jump line="226" column="15" filename="/var/customers/webs/vue_test/main.js" />
       <jump line="244" column="33" filename="/var/customers/webs/vue_test/main.js" />
       <jump line="104" column="11" filename="/var/customers/webs/vue_test/main.js" />
-      <jump line="5" column="55" filename="/var/customers/webs/vue_test/main.js" />
       <jump line="76" column="17" filename="/var/customers/webs/vue_test/main.js" />
       <jump line="67" column="60" filename="/var/customers/webs/slbj/routes/web.php" />
       <jump line="50" column="65" filename="/var/customers/webs/slbj/routes/web.php" />
@@ -443,16 +446,26 @@
       <jump line="1783" column="54" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
       <jump line="1813" column="20" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
       <jump line="1905" column="54" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductCategoryController.php" />
+      <jump line="0" column="0" filename="/var/customers/webs/slbj/root/laravel/framework/src/Illuminate/Contracts/Support/Renderable.php" />
+      <jump line="715" column="30" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" />
+      <jump line="571" column="35" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" />
+      <jump line="703" column="44" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" />
+      <jump line="544" column="48" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" />
+      <jump line="422" column="54" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/79b4d80c-1952-4c93-93e7-904807cd58c6/console_1.sql" />
+      <jump line="493" column="50" filename="/var/customers/webs/slbj/app/Http/Controllers/SL/Product/ProductController.php" />
+      <jump line="5" column="55" filename="/var/customers/webs/vue_test/main.js" />
+      <jump line="61" column="8" filename="/var/customers/webs/vue_test/main.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>this</text>
+        <text>code</text>
       </register>
       <register name="/" type="4">
-        <text>getList</text>
+        <text encoding="base64">XDxvblN1Ym1pdFw+</text>
       </register>
       <register name="0" type="4">
-        <text>ProductController</text>
+        <text>$productCategory</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAsYWRkUmV2aWV3KHByb2R1Y3RSZXZpZXcpIHsKCiAgICAgICAgICAgIH0K</text>
@@ -486,17 +499,16 @@
       </register>
     </registers>
     <search>
-      <last-search>getList</last-search>
+      <last-search encoding="base64">XDxvblN1Ym1pdFw+</last-search>
       <last-offset />
-      <last-pattern>getList</last-pattern>
+      <last-pattern encoding="base64">XDxvblN1Ym1pdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>sil</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdGVPcmRlckRpc2NvdW50XD4=</entry>
         <entry>orderHdr</entry>
         <entry encoding="base64">XDxzaG9wcGluZ0NhcnRMaXN0XD4=</entry>
         <entry>success</entry>
@@ -507,7 +519,6 @@
         <entry>customer</entry>
         <entry>complete</entry>
         <entry encoding="base64">XDxyZXZpZXdcPg==</entry>
-        <entry encoding="base64">XDxvblN1Ym1pdFw+</entry>
         <entry>adto</entry>
         <entry encoding="base64">XDx0YWJcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFRhYlw+</entry>
@@ -516,6 +527,8 @@
         <entry>addReview</entry>
         <entry>jewel</entry>
         <entry>getList</entry>
+        <entry encoding="base64">XDxwcm9kdWN0Q2F0ZWdvcnlcPg==</entry>
+        <entry encoding="base64">XDxvblN1Ym1pdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
