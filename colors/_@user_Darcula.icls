@@ -4,13 +4,14 @@
     <property name="created">2018-11-22T13:39:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2019-05-25T11:14:35</property>
+    <property name="modified">2019-07-27T20:37:13</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="Fantasque Sans Mono" />
   <option name="CONSOLE_FONT_NAME" value="Anonymous Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="16" />
   <colors>
     <option name="FILESTATUS_ADDED" value="50fa7b" />
     <option name="FILESTATUS_COPIED" value="76b366" />
