@@ -6,4 +6,8 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
