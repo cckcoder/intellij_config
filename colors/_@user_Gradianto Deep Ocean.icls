@@ -4,12 +4,12 @@
     <property name="created">2019-05-27T13:39:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-27T13:41:20</property>
+    <property name="modified">2019-08-04T17:31:29</property>
     <property name="originalScheme">Gradianto Deep Ocean</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Anonymous Pro" />
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Fantasque Sans Mono" />
   <colors>
     <option name="CARET_ROW_COLOR" value="1d263b" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1a2136" />
